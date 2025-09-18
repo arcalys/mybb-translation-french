@@ -2,7 +2,7 @@
 /**
  * MyBB 1.9 French Language Pack
  * Traduction française pour MyBB 1.9
- * Copyright 2014 MyBB Group, tous droits réservés
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
