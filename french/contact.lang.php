@@ -1,6 +1,7 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.9 French Language Pack
+ * Traduction française pour MyBB 1.9
  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
