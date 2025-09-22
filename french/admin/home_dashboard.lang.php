@@ -53,4 +53,4 @@ $l['admin_notes_public'] = "Ces notes sont visibles par tous les administrateurs
 $l['admin_notes'] = "Notes des administrateurs";
 $l['save_notes'] = "Enregistrer";
 
-$l['success_notes_updated'] = "Les notes ont été mises à jour avec succès.";
+$l['success_notes_updated'] = "Les notes ont bien été mises à jour.";

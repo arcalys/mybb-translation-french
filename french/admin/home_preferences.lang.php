@@ -21,7 +21,7 @@ $l['personal_notes'] = "Notes personnelles";
 $l['codemirror'] = "Activer CodeMirror";
 $l['use_codemirror_desc'] = "CodeMirror est utilisé pour l’édition et la coloration syntaxique des templates et feuilles de style. Désactivez-le si vous rencontrez des problèmes ou un chargement lent.";
 
-$l['success_preferences_updated'] = "Les préférences ont été mises à jour avec succès.";
+$l['success_preferences_updated'] = "Les préférences ont bien été mises à jour.";
 
 $l['use_2fa_desc'] = "L'authentification à deux facteurs permet de sécuriser votre compte administrateur. Une fois activée, un code QR apparaîtra ci-dessous que vous devrez scanner avec une application <a href=\"https://docs.mybb.com/1.8/administration/security/2fa/\" target=\"_blank\" rel=\"noopener\">comme Google Authenticator ou Authy</a>. L’application en question générera alors un code que vous devrez saisir à chaque connexion au panneau d’administration.";
 $l['my2fa_qr'] = "Code d'authentification à deux facteurs";
