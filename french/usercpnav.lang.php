@@ -8,7 +8,7 @@
 
 $l['ucp_nav_width'] = "180";
 $l['ucp_nav_menu'] = "Menu";
-$l['ucp_nav_messenger'] = "Messages privés";
+$l['ucp_nav_messenger'] = "Messagerie";
 $l['ucp_nav_compose'] = "Nouveau message";
 $l['ucp_nav_tracking'] = "Suivi des messages";
 $l['ucp_nav_edit_folders'] = "Modifier les dossiers";
@@ -27,7 +27,7 @@ $l['ucp_nav_subscribed_threads'] = "Sujets suivis";
 $l['ucp_nav_forum_subscriptions'] = "Abonnements";
 $l['ucp_nav_drafts'] = "Brouillons enregistrés";
 $l['ucp_nav_drafts_active'] = "<strong>Brouillons enregistrés ({1})</strong>";
-$l['ucp_nav_notepad'] = "Vloc-notes personnel";
+$l['ucp_nav_notepad'] = "Bloc-notes personnel";
 $l['ucp_nav_view_profile'] = "Voir le profil";
 $l['ucp_nav_home'] = "Accueil du panneau d’utilisateur";
 $l['ucp_nav_usergroups'] = "Groupes";
