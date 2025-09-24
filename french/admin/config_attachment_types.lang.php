@@ -12,7 +12,7 @@ $l['add_new_attachment_type'] = "Ajouter un nouveau type de pièce jointe";
 $l['add_attachment_type'] = "Ajouter un type de pièce jointe";
 $l['add_attachment_type_desc'] = "Ici, vous pouvez ajouter un nouveau type de pièce jointe et permettre aux utilisateurs d’attacher des fichiers de ce type à leurs messages. Vous pouvez définir l’extension, le type MIME, la taille maximale et afficher une icône pour chaque type.";
 $l['edit_attachment_type'] = "Modifier un type de pièce jointe";
-$l['edit_attachment_type_desc'] = "Ici, vous pouvez modifier un type de pièce jointe.";
+$l['edit_attachment_type_desc'] = "Cette page vous permet de modifier un type de pièce jointe.";
 
 $l['extension'] = "Extension";
 $l['maximum_size'] = "Taille maximale";
