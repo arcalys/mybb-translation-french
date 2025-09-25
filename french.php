@@ -1,6 +1,7 @@
 <?php
 /**
- * MyBB 1.8 French Language Pack
+ * MyBB 1.9 French Language Pack
+ * Traduction française pour MyBB 1.9
  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
@@ -27,7 +28,7 @@ $langinfo['support_link'] = "https://github.com/arcalys/mybb-french-translation"
 $langinfo['support_name'] = "MyBB french translation (GitHub)";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1839";
+$langinfo['version'] = "1900";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;
