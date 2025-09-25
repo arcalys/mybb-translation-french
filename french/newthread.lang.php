@@ -28,7 +28,7 @@ $l['mod_options'] = "Options de modération";
 $l['close_thread'] = "<strong>Verrouiller le sujet :</strong> empêcher toute publication supplémentaire dans ce sujet.";
 $l['stick_thread'] = "<strong>Épingler le sujet :</strong> maintenir ce sujet en haut du forum.";
 $l['draft_saved'] = "Le nouveau sujet a bien été enregistré comme brouillon.<br />Vous allez maintenant être redirigé vers la liste de vos brouillons.";
-$l['error_post_already_submitted'] = "Vous avez déjà publié un sujet identique dans ce forum. Veuillez visiter le forum pour consulter votre sujet.";
+$l['error_post_already_submitted'] = "Vous avez déjà publié un sujet identique dans ce forum. Veuillez consulter le forum pour voir votre sujet.";
 $l['no_prefix'] = "Aucun préfixe";
 $l['forum_rules'] = "{1} - Règles";
 
