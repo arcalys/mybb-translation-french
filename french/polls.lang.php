@@ -39,8 +39,8 @@ $l['poll_results'] = "Résultats du sondage";
 $l['poll_total'] = "Nombre de votes :";
 $l['you_voted'] = "Vous avez voté pour cette réponse.";
 
-$l['redirect_pollposted'] = "Votre sondage a bien été publié.<br />Vous allez maintenant être redirigé vers le sujet.";
-$l['redirect_pollpostedmoderated'] = "Votre sondage a bien été publié, mais le sujet est toujours en attente de modération.<br />Vous allez maintenant être redirigé vers le forum.";
+$l['redirect_pollposted'] = "Le sondage a bien été publié.<br />Vous allez maintenant être redirigé vers le sujet.";
+$l['redirect_pollpostedmoderated'] = "Le sondage a bien été publié, mais le sujet est toujours en attente de modération.<br />Vous allez maintenant être redirigé vers le forum.";
 $l['redirect_pollupdated'] = "Le sondage a bien été mis à jour.<br />Vous allez maintenant être redirigé vers le sujet.";
 $l['redirect_votethanks'] = "Votre vote a bien été enregistré. <br />Vous allez maintenant être redirigé vers le sujet.";
 $l['redirect_unvoted'] = "Votre vote a bien été annulé.<br />Vous allez maintenant être redirigé vers le sujet.";

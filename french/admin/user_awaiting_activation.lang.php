@@ -44,7 +44,7 @@ Pour continuer, veuillez vous rendre à l’adresse suivante :
 
 {3}
 
-Vous pourrez alors vous connecter avec les identifiants que vous avez enregistrés.
+Vous pourrez vous connecter avec les identifiants que vous avez utilisés lors de votre inscription.
 
 Merci,
-L’équipe du forum {2}";
+L’équipe du forum";
