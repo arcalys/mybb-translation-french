@@ -8,8 +8,8 @@
 
 $l['postdata_invalid_user_id'] = "L’identifiant n’existe pas. Veuillez fournir un identifiant valide.";
 $l['postdata_firstpost_no_subject'] = "Veuillez saisir un titre pour ce sujet.";
-$l['postdata_missing_subject'] = "Veuillez saisir un sujet.";
-$l['postdata_missing_message'] = "Veuillez saisir un message.";
+$l['postdata_missing_subject'] = "Veuillez saisir un titre pour vore sujet.";
+$l['postdata_missing_message'] = "Veuillez saisir un message pour votre sujet.";
 $l['postdata_message_too_long'] = "Le message que vous avez saisi est trop long. Veuillez saisir un message de moins de {1} caractères (actuellement {2}).";
 $l['postdata_message_too_short'] = "Le message que vous avez saisi est trop court. Veuillez saisir un message de plus de {1} caractères.";
 $l['postdata_subject_too_long'] = "Le sujet est trop long. Veuillez saisir un sujet de moins de 85 caractères (actuellement {1}).";
