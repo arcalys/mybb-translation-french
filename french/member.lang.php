@@ -245,7 +245,7 @@ $l['error_question_wrong'] = "La réponse que vous avez donnée à la question d
 $l['subscription_method'] = "Mode d’abonnement par défaut aux sujets :";
 $l['no_auto_subscribe'] = "Ne pas s’abonner";
 $l['no_subscribe'] = "Aucune notification";
-$l['instant_email_subscribe'] = "Notification instantanée par e-mail";
+$l['instant_email_subscribe'] = "Notification instantanée par courriel";
 $l['instant_pm_subscribe'] = "Notification instantanée par message privé";
 
 $l['remove_from_buddy_list'] = "Supprimer de la liste d’amis";
