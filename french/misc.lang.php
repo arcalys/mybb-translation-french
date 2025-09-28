@@ -43,7 +43,7 @@ $l['close_window'] = "Fermer la fenêtre";
 $l['no_smilies'] = "Il n’y a actuellement aucun émoticône disponible.";
 
 $l['who_posted'] = "Auteur du message";
-$l['total_posts'] = "Nombre total de messages :";
+$l['total_posts'] = "Nombre total de messages :";
 $l['user'] = "Utilisateur";
 $l['num_posts'] = "Nombre de messages";
 

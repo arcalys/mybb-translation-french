@@ -98,7 +98,7 @@ $l['upgrade_not_needed'] = 'Le processus de mise à jour n’est pas nécessaire
 #region common operations content
 // flag listing
 $l['flags'] = 'Options personnalisées';
-$l['flag_value'] = '{1} : {2}';
+$l['flag_value'] = '{1} : {2}';
 $l['flag_development_mode'] = 'Mode développement';
 $l['flag_no_discovery'] = 'Pas de suggestions pour la base de données';
 $l['flag_force'] = 'Forcer la mise à jour';
@@ -245,8 +245,8 @@ $l['lock_file_not_writable'] = 'Impossible de créer le fichier de verrouillage 
 
 $l['file_verification_checksums_missing'] = 'Impossible de vérifier les fichiers car le fichier <code>{1}</code> est manquant. Vous pouvez télécharger ce fichier depuis un <a href="https://mybb.com/download" target="_blank" rel="noreferrer">package MyBB officiel</a>. Ce fichier peut ne pas être inclus dans les versions destinées au développement.';
 $l['file_verification_failed'] = 'Les fichiers suivants ({1}) pourraient être corrompus. Vous devriez les copier depuis un <a href="https://mybb.com/download" target="_blank">package MyBB officiel</a> avant de continuer.';
-$l['file_verification_changed'] = 'Modifié : {1}';
-$l['file_verification_missing'] = 'Manquant : {1}';
+$l['file_verification_changed'] = 'Modifié : {1}';
+$l['file_verification_missing'] = 'Manquant : {1}';
 
 $l['could_not_write_configuration_file'] = 'Impossible d’écrire les données dans le fichier de configuration.';
 $l['could_not_connect_to_database'] = 'Impossible de se connecter à la base de données avec les paramètres enregistrés.';

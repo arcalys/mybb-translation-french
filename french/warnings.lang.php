@@ -11,7 +11,7 @@ $l['nav_warning_log'] = "Journal d’avertissements";
 $l['nav_add_warning'] = "Avertir un utilisateur";
 $l['nav_view_warning'] = "Détails de l’avertissement";
 
-$l['warning_for_post'] = "Message :";
+$l['warning_for_post'] = "Message :";
 $l['already_expired'] = "Expiré";
 $l['details_username'] = "Nom d’utilisateur";
 $l['warning_active'] = "Actif";
@@ -26,7 +26,7 @@ $l['expired_warnings'] = "Avertissements expirés";
 $l['warning_points'] = "({1} points)";
 $l['no_warnings'] = "Cet utilisateur n’a reçu aucun avertissement ou ils ont tous été supprimés.";
 $l['warn_user'] = "Avertir l’utilisateur";
-$l['post'] = "Message :";
+$l['post'] = "Message :";
 $l['warning_note'] = "Notes concernant l’avertissement";
 $l['details_warning_note'] = "Notes concernant l’avertissement";
 $l['warning_type'] = "Type d’avertissement";
@@ -47,7 +47,7 @@ Vous avez reçu un avertissement de la part d’un membre de l’équipe.
 
 --";
 $l['send_pm_options'] = "Options";
-$l['send_pm_options_anonymous'] = "<strong>Message privé anonyme</strong> : envoyer ce message privé de manière anonyme.";
+$l['send_pm_options_anonymous'] = "<strong>Message privé anonyme</strong> : envoyer ce message privé de manière anonyme.";
 $l['expiration_never'] = "définitivement";
 $l['expiration_hours'] = "heure(s)";
 $l['expiration_days'] = "jour(s)";
@@ -63,7 +63,7 @@ $l['error_cant_warn_group'] = "Vous n’avez pas la permission d’avertir les u
 $l['error_invalid_user'] = "L’utilisateur sélectionné n’existe pas.";
 $l['details'] = "Détails";
 $l['view'] = "Voir";
-$l['current_warning_level'] = "Niveau d’avertissement actuel : <strong>{1}%</strong> ({2}/{3})";
+$l['current_warning_level'] = "Niveau d’avertissement actuel : <strong>{1}%</strong> ({2}/{3})";
 $l['warning_details'] = "Détails de l’avertissement";
 $l['revoke_warning'] = "Révoquer cet avertissement";
 $l['revoke_warning_desc'] = "Pour révoquer cet avertissement, veuillez entrer une raison ci-dessous. Cela ne supprimera pas les bannissements ou suspensions déjà appliqués par cet avertissement.";
@@ -73,7 +73,7 @@ $l['date_revoked'] = "Date de révocation";
 $l['warning_already_revoked'] = "Cet avertissement a déjà été révoqué.";
 $l['no_revoke_reason'] = "Vous n’avez pas indiqué la raison pour laquelle vous souhaitez révoquer cet avertissement.";
 $l['redirect_warning_revoked'] = "L’avertissement a bien été révoqué et le niveau d’avertissement de l’utilisateur a été réduit.<br />Vous allez maintenant être redirigé vers le détail de l’avertissement.";
-$l['result'] = "Résultat :";
+$l['result'] = "Résultat :";
 $l['result_banned'] = "L’utilisateur sera déplacé dans le groupe banni ({1}) {2}";
 $l['result_suspended'] = "Les privilèges de publication seront suspendus {1}";
 $l['result_moderated'] = "Les messages seront modérés {1}";

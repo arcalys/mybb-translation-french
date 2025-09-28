@@ -6,7 +6,7 @@
  *
  */
 
-$l['report_reason'] = "Raison du signalement :";
+$l['report_reason'] = "Raison du signalement :";
 $l['report_to_mod'] = "Signaler ce contenu à un modérateur";
 $l['close_window'] = "Fermer la fenêtre";
 

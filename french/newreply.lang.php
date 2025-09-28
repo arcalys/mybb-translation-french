@@ -14,14 +14,14 @@ $l['reply_to'] = "Répondre au sujet : {1}";
 $l['post_subject'] = "Sujet du message";
 $l['your_message'] = "Votre message";
 $l['post_options'] = "Options des messages";
-$l['options_sig'] = "<strong>Signature :</strong> inclure votre signature. (utilisateurs enregistrés uniquement)";
-$l['options_emailnotify'] = "<strong>Notification par courriel :</strong> recevez un courriel à chaque nouvelle réponse. (utilisateurs enregistrés uniquement)";
-$l['options_disablesmilies'] = "<strong>Désactiver les émoticônes :</strong> empêcher l’affichage des émoticônes dans ce message.";
+$l['options_sig'] = "<strong>Signature :</strong> inclure votre signature. (utilisateurs enregistrés uniquement)";
+$l['options_emailnotify'] = "<strong>Notification par courriel :</strong> recevez un courriel à chaque nouvelle réponse. (utilisateurs enregistrés uniquement)";
+$l['options_disablesmilies'] = "<strong>Désactiver les émoticônes :</strong> empêcher l’affichage des émoticônes dans ce message.";
 $l['post_reply'] = "Publier la réponse";
 $l['preview_post'] = "Prévisualiser";
 $l['mod_options'] = "Options de modération";
-$l['close_thread'] = "<strong>Verrouiller le sujet :</strong> empêcher toute publication supplémentaire dans ce sujet.";
-$l['stick_thread'] = "<strong>Épingler le sujet :</strong> maintenir ce sujet en haut du forum.";
+$l['close_thread'] = "<strong>Verrouiller le sujet :</strong> empêcher toute publication supplémentaire dans ce sujet.";
+$l['stick_thread'] = "<strong>Épingler le sujet :</strong> maintenir ce sujet en haut du forum.";
 $l['forum_rules'] = "Règles du forum « {1} »";
 $l['thread_review'] = "Aperçu du sujet (du plus récent au plus ancien)";
 $l['thread_review_more'] = "Ce sujet contient plus de {1} réponses. <a href=\"{2}\" target=\"_blank\">Lire le sujet en entier.</a>";
@@ -49,6 +49,6 @@ $l['error_stop_forum_spam_fetching'] = "Une erreur est survenue lors de la véri
 
 $l['error_suspendedposting'] = "Vos privilèges de publication sont actuellement suspendus {1}.<br /><br />
 
-Date de suspension : {2}";
+Date de suspension : {2}";
 $l['error_suspendedposting_temporal'] = "jusqu’au {1}";
 $l['error_suspendedposting_permanent'] = "de façon permanente";

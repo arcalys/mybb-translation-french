@@ -19,8 +19,8 @@ $l['eventdata_invalid_end_month'] = "Le mois de fin que vous avez saisi n’est 
 $l['eventdata_invalid_end_day'] = "Le jour de fin que vous avez saisi n’est pas valide. Le jour sélectionné dépasse probablement le nombre de jours de ce mois.";
 
 $l['eventdata_cant_specify_one_time'] = "Si vous indiquez une heure de début pour l’événement, vous devez également indiquer une heure de fin.";
-$l['eventdata_start_time_invalid'] = "L’heure de début que vous avez saisie est invalide. Exemples valides : 12:00, 00:01.";
-$l['eventdata_end_time_invalid'] = "L’heure de fin que vous avez saisie est invalide. Exemples valides : 12:00, 00:01.";
+$l['eventdata_start_time_invalid'] = "L’heure de début que vous avez saisie est invalide. Exemples valides : 12:00, 00:01.";
+$l['eventdata_end_time_invalid'] = "L’heure de fin que vous avez saisie est invalide. Exemples valides : 12:00, 00:01.";
 $l['eventdata_invalid_timezone'] = "Le fuseau horaire que vous avez sélectionné pour cet événement est invalide.";
 $l['eventdata_end_in_past'] = "La date ou l’heure de fin de votre événement est antérieure à la date ou l’heure de début.";
 
