@@ -9,9 +9,9 @@
 $l['report_reasons'] = "Motifs de signalement";
 $l['report_reasons_desc'] = "Cette section vous permet de gérer les motifs pouvant être sélectionnés lorsque les utilisateurs signalent du contenu.";
 $l['add_new_reason'] = "Ajouter un motif";
-$l['add_new_reason_desc'] = "Ajouter un motif pouvant être sélectionné lorsque les utilisateurs signalent du contenu.";
+$l['add_new_reason_desc'] = "Cette page vous permet d’ajouter un nouveau motif de signalement.";
 $l['edit_reason'] = "Modifier le motif";
-$l['edit_reason_desc'] = "Modifier un motif pouvant être sélectionné lorsque les utilisateurs signalent du contenu.";
+$l['edit_reason_desc'] = "Cette page vous permet de modifier un motif de signalement.";
 
 $l['applies_to'] = "Disponibilité";
 $l['order'] = "Ordre";
