@@ -151,7 +151,7 @@ $l['lang_select'] = "Paramètres de langue";
 $l['lang_select_desc'] = "Si votre langue diffère de celle définie par défaut sur le forum, vous pouvez sélectionner ci-dessous une autre langue disponible.";
 $l['lang_select_default'] = "Utiliser la langue par défaut";
 
-$l['submit_registration'] = "Confirmer l’inscription !";
+$l['submit_registration'] = "Confirmer l’inscription !";
 $l['confirm_password'] = "Confirmer le mot de passe";
 $l['confirm_password_desc'] = "Veuillez saisir et confirmer votre mot de passe.";
 $l['referrer'] = "Parrain";
