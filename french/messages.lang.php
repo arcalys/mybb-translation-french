@@ -9,7 +9,7 @@
 $l['click_no_wait'] = "Cliquez ici si vous ne souhaitez pas attendre davantage.";
 $l['redirect_return_forum'] = "<br /><br />Vous pouvez aussi <a href=\"{1}\">retourner au forum</a>.";
 $l['redirect_emailsent'] = "Votre courriel a bien été envoyé.";
-$l['redirect_loggedin'] = "Vous êtes à présent connecté.<br />Vous allez maintenant être redirigé vers la page précédente.";
+$l['redirect_loggedin'] = "Vous vous êtes connecté avec succès.<br />Vous allez maintenant être redirigé vers la page précédente.";
 $l['update_confirm'] = "Le(s) fichier(s) suivant(s) sont déjà attaché(s) et seront mis à jour/remplacé(s) par le(s) nouveau(x) fichier(s) sélectionné(s) : {1} Êtes-vous sûr ?";
 $l['error_invalidpworusername'] = "Vous avez saisi une combinaison nom d’utilisateur/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
 $l['error_invalidpworusername1'] = "Vous avez saisi une combinaison adresse électronique/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
