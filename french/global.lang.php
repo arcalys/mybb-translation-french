@@ -396,7 +396,7 @@ $l['save_draft'] = "Enregistrer comme brouillon";
 $l['go'] = "Appliquer";
 $l['bbclosed_warning'] = "Votre forum est actuellement <a href=\"{1}\">fermé</a>.";
 $l['banned_warning'] = "Votre compte est actuellement banni.";
-$l['banned_warning2'] = "Raison du bannissement";
+$l['banned_warning2'] = "Motif du bannissement";
 $l['banned_warning3'] = "Le bannissement prendra fin ";
 $l['banned_lifted_never'] = "jamais";
 $l['banned_email_warning'] = "Vous utilisez actuellement une adresse électronique qui n’est pas autorisée sur ce forum. Veuillez la modifier avant de continuer.";

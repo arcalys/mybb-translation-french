@@ -158,7 +158,7 @@ $l['email_reportpost'] = "{1} de {2} a signalé le message suivant :
 {3}
 {4}/{5}
 
-Raison donnée par l’utilisateur pour le signalement :
+Motif donné par l’utilisateur pour le signalement :
 {6}
 
 Ce message a été envoyé à tous les modérateurs ou à tous les administrateurs et super-modérateurs s’il n’y en a aucun.
@@ -170,7 +170,7 @@ $l['email_reportprofile'] = "{1} de {2} a signalé l’utilisateur suivant :
 {3}
 {4}/{5}
 
-Raison donnée par l’utilisateur pour le signalement :
+Motif donné par l’utilisateur pour le signalement :
 {6}
 
 Ce message a été envoyé à tous les modérateurs ou à tous les administrateurs et super-modérateurs s’il n’y en a aucun.
@@ -182,7 +182,7 @@ $l['email_reportreputation'] = "{1} de {2} a signalé l’évaluation suivante 
 {3}
 {4}/{5}
 
-Raison donnée par l’utilisateur pour le signalement de cette évaluation :
+Motif donné par l’utilisateur pour le signalement de cette évaluation :
 {6}
 
 Ce message a été envoyé à tous les modérateurs ou à tous les administrateurs et super-modérateurs s’il n’y en a aucun.
@@ -461,7 +461,7 @@ $l['email_groupleader_joinrequest'] = "{1},
 
 {2} a demandé à rejoindre {3} sur {4} (voir ci-dessous).
 
-Raison : {5}
+Motif : {5}
 
 Pour accepter ou refuser cette demande, rendez-vous à l’adresse suivante :
 
