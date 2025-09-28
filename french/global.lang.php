@@ -82,7 +82,7 @@ $l['login_username'] = "Nom d’utilisateur";
 $l['login_username1'] = "Adresse électronique";
 $l['login_username2'] = "Nom d’utilisateur / Adresse électronique";
 $l['login_password'] = "Mot de passe";
-$l['lost_password'] = "Mot de passe oublié ?";
+$l['lost_password'] = "Mot de passe oublié ?";
 $l['remember_me'] = "Se souvenir de moi";
 $l['remember_me_desc'] = "Si cette case est cochée, vos informations de connexion seront mémorisées. Sinon, vous serez déconnecté dès que vous fermerez votre navigateur.";
 
@@ -427,11 +427,11 @@ $l['slaps'] = "flanque une bonne torgnole à";
 $l['with_trout'] = "";
 
 $l['mybb_engine'] = "MyBB";
-$l['quickdelete_confirm'] = "Êtes-vous sûr de vouloir supprimer ce message ?";
+$l['quickdelete_confirm'] = "Êtes-vous sûr de vouloir supprimer ce message ?";
 $l['quickrestore_confirm'] = "Êtes-vous sûr de vouloir restaurer ce message?";
 $l['newpm_notice_one'] = "<strong>Vous avez un message privé non lu</strong> de la part de {1}, intitulé <a href=\"{2}/private.php?action=read&amp;pmid={3}\" style=\"font-weight: bold;\">{4}</a>";
 $l['newpm_notice_multiple'] = "<strong>Vous avez {1} messages privés non lus.</strong> Le plus récent est de la part de {2}, intitulé <a href=\"{3}/private.php?action=read&amp;pmid={4}\" style=\"font-weight: bold;\">{5}</a>";
-$l['deleteevent_confirm'] = "Êtes-vous sûr de vouloir supprimer cet événement ?";
+$l['deleteevent_confirm'] = "Êtes-vous sûr de vouloir supprimer cet événement ?";
 $l['removeattach_confirm'] = "Êtes-vous sûr de vouloir supprimer la pièce jointe sélectionnée de ce message ?";
 
 $l['latest_threads'] = "Latest Threads";

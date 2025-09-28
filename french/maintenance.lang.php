@@ -20,8 +20,8 @@ $l['operation_warning_title'] = 'Avertissement — {1}';
 // navigation
 $l['retry'] = 'Réessayer';
 $l['retry_step'] = 'Réessayer ?';
-$l['retry_operation_confirm'] = 'Réessayer l’opération avant de continuer ?';
-$l['retry_parameter_input'] = 'Modifier les valeurs des paramètres ?';
+$l['retry_operation_confirm'] = 'Réessayer l’opération avant de continuer ?';
+$l['retry_parameter_input'] = 'Modifier les valeurs des paramètres ?';
 $l['step_finish'] = 'Suivant';
 $l['step_final_finish'] = 'Terminer';
 $l['waiting_for_operation'] = 'En attente de {1}…';
@@ -65,7 +65,7 @@ $l['insecure_transport'] = 'Connexion non sécurisée';
 $l['insecure_transport_message'] = 'Les informations sensibles saisies ici pourraient être visibles par d’autres. Assurez-vous que le serveur prend en charge HTTPS et utilisez le protocole <code>https://</code> avant de continuer.';
 
 // miscellaneous
-$l['support'] = 'Besoin d’aide ? Consultez la <a href="https://docs.mybb.com" target="_blank">documentation officielle</a> et les <a href="https://mybb.com/support" target="_blank">canaux de support</a>.';
+$l['support'] = 'Besoin d’aide ? Consultez la <a href="https://docs.mybb.com" target="_blank">documentation officielle</a> et les <a href="https://mybb.com/support" target="_blank">canaux de support</a>.';
 $l['powered_by_phrases'] = 'Création d’un nouveau forum
 Rassembler les gens autour de
 Construire avec

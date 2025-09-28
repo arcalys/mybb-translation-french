@@ -13,4 +13,4 @@ $l['error_invalidannouncement'] = "L’annonce spécifiée est invalide.";
 
 $l['announcement_edit'] = "Modifier cette annonce";
 $l['announcement_qdelete'] = "Supprimer cette annonce";
-$l['announcement_quickdelete_confirm'] = "Êtes-vous sûr de vouloir supprimer cette annonce ?";
+$l['announcement_quickdelete_confirm'] = "Êtes-vous sûr de vouloir supprimer cette annonce ?";

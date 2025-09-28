@@ -9,7 +9,7 @@
 $l['nav_editpost'] = "Modifier un message";
 $l['edit_post'] = "Modifier un message";
 $l['delete_post'] = "Supprimer le message";
-$l['delete_q'] = "Supprimer ?";
+$l['delete_q'] = "Supprimer ?";
 $l['delete_1'] = "Pour supprimer ce message, cochez la case à gauche puis cliquez sur le bouton à droite.";
 $l['delete_2'] = "<strong>Attention :</strong> Si ce message est le premier d’un sujet, cela entraînera la suppression de l’intégralité du sujet.";
 $l['subject'] = "Sujet";

@@ -10,7 +10,7 @@ $l['click_no_wait'] = "Cliquez ici si vous ne souhaitez pas attendre davantage."
 $l['redirect_return_forum'] = "<br /><br />Vous pouvez aussi <a href=\"{1}\">retourner au forum</a>.";
 $l['redirect_emailsent'] = "Votre courriel a bien été envoyé.";
 $l['redirect_loggedin'] = "Vous vous êtes connecté avec succès.<br />Vous allez maintenant être redirigé vers la page précédente.";
-$l['update_confirm'] = "Le(s) fichier(s) suivant(s) sont déjà attaché(s) et seront mis à jour/remplacé(s) par le(s) nouveau(x) fichier(s) sélectionné(s) : {1} Êtes-vous sûr ?";
+$l['update_confirm'] = "Le(s) fichier(s) suivant(s) sont déjà attaché(s) et seront mis à jour/remplacé(s) par le(s) nouveau(x) fichier(s) sélectionné(s) : {1} Êtes-vous sûr ?";
 $l['error_invalidpworusername'] = "Vous avez saisi une combinaison nom d’utilisateur/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
 $l['error_invalidpworusername1'] = "Vous avez saisi une combinaison adresse électronique/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
 $l['error_invalidpworusername2'] = "Vous avez saisi une combinaison nom d’utilisateur/mot de passe ou adresse électronique/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
@@ -55,16 +55,16 @@ $l['error_postflooding'] = "Désolé, nous ne pouvons pas traiter votre message.
 $l['error_nopermission'] = "Vous ne pouvez pas accéder à cette page";
 $l['error_nopermission_guest_1'] = "Vous n’êtes soit pas connecté, soit vous n’avez pas la permission de voir cette page. Cela peut être dû à l’une des raisons suivantes :";
 $l['error_nopermission_guest_2'] = "Vous n’êtes pas connecté ou enregistré. Veuillez vous connecter et réessayer l’action désirée.";
-$l['error_nopermission_guest_3'] = "Vous n’avez pas la permission d’accéder à cette page. Essayez-vous d’accéder à des pages administratives ou à une ressource à laquelle vous ne devriez pas avoir accès ? Vérifiez dans les règles du forum que vous êtes autorisé à effectuer cette action.";
+$l['error_nopermission_guest_3'] = "Vous n’avez pas la permission d’accéder à cette page. Essayez-vous d’accéder à des pages administratives ou à une ressource à laquelle vous ne devriez pas avoir accès ? Vérifiez dans les règles du forum que vous êtes autorisé à effectuer cette action.";
 $l['error_nopermission_guest_4'] = "Votre compte a peut-être été désactivé par un administrateur, ou il peut être en attente d’activation.";
 $l['error_nopermission_guest_5'] = "Vous avez accédé directement à cette page plutôt que d’utiliser les formulaires ou liens appropriés.";
 $l['login'] = "Connexion";
-$l['need_reg'] = "Besoin de vous inscrire ?";
-$l['forgot_password'] = "Mot de passe oublié ?";
+$l['need_reg'] = "Besoin de vous inscrire ?";
+$l['forgot_password'] = "Mot de passe oublié ?";
 $l['error_nopermission_user_1'] = "Vous n’avez pas la permission d’accéder à cette page. Cela peut être dû à l’une des raisons suivantes :";
 $l['error_nopermission_user_ajax'] = "Vous n’avez pas la permission d’accéder à cette page.";
 $l['error_nopermission_user_2'] = "Votre compte a été suspendu ou l’accès à cette ressource vous a été interdit.";
-$l['error_nopermission_user_3'] = "Vous n’avez pas la permission d’accéder à cette page. Essayez-vous d’accéder à des pages administratives ou à une ressource à laquelle vous ne devriez pas avoir accès ? Vérifiez dans les règles du forum que vous êtes autorisé à effectuer cette action.";
+$l['error_nopermission_user_3'] = "Vous n’avez pas la permission d’accéder à cette page. Essayez-vous d’accéder à des pages administratives ou à une ressource à laquelle vous ne devriez pas avoir accès ? Vérifiez dans les règles du forum que vous êtes autorisé à effectuer cette action.";
 $l['error_nopermission_user_4'] = "Votre compte peut encore être en attente d’activation ou de modération.";
 $l['error_nopermission_user_5'] = "Vous avez accédé directement à cette page plutôt que d’utiliser les formulaires ou liens appropriés.";
 $l['error_nopermission_user_resendactivation'] = "Renvoyer le code d’activation";
@@ -450,7 +450,7 @@ L’équipe du forum
 {4}
 
 ------------------------------------------
-Vous ne souhaitez pas recevoir de messages électroniques d’autres membres ?
+Vous ne souhaitez pas recevoir de messages électroniques d’autres membres ?
 
 Si vous ne voulez pas que les autres membres puissent vous écrire par courriel, veuillez vous rendre dans le panneau de configuration de votre compte et activer l’option « Cacher votre adresse électronique aux autres membres » :
 {4}/usercp.php?action=options

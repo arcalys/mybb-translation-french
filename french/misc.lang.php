@@ -53,7 +53,7 @@ $l['error_invalid_limit'] = "La limite d’éléments du flux que vous avez entr
 
 $l['syndication'] = "Syndication des derniers sujets";
 $l['syndication_generated_url'] = "URL de syndication générée";
-$l['syndication_note'] = "Vous pouvez générer ci-dessous des liens vers des flux RSS spécifiques. Les liens peuvent être générés pour tous les forums, par forum ou pour un nombre précis de forums. Vous obtiendrez ensuite un lien à copier dans un lecteur RSS. <em><a href=\"https://fr.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Qu’est-ce que RSS ?</a></em>";
+$l['syndication_note'] = "Vous pouvez générer ci-dessous des liens vers des flux RSS spécifiques. Les liens peuvent être générés pour tous les forums, par forum ou pour un nombre précis de forums. Vous obtiendrez ensuite un lien à copier dans un lecteur RSS. <em><a href=\"https://fr.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Qu’est-ce que RSS ?</a></em>";
 $l['syndication_forum'] = "Forum à syndiquer";
 $l['syndication_forum_desc'] = "Veuillez sélectionner un forum à droite. Utilisez la touche CTRL pour sélectionner plusieurs forums.";
 $l['syndication_version'] = "Version du flux";

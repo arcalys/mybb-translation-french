@@ -81,7 +81,7 @@ $l['postrep_given'] = "Évaluation donnée pour le <a href=\"{1}\">message de {2
 $l['postrep_given_nolink'] = "Évaluation donnée pour le message de {1}<br />";
 $l['postrep_given_thread'] = "dans <a href=\"{1}\">{2}</a>";
 $l['no_reputation_votes'] = "Cet utilisateur n’a actuellement aucune évaluation correspondant aux critères ci-dessous.";
-$l['delete_reputation_confirm'] = "Êtes-vous sûr de vouloir supprimer cette évaluation ?";
+$l['delete_reputation_confirm'] = "Êtes-vous sûr de vouloir supprimer cette évaluation ?";
 $l['delete_reputation_log'] = "Évaluation supprimée par {1} (UID : {2})";
 $l['reputations_disabled_group'] = "Le système de réputation est désactivé pour les utilisateurs de ce groupe.";
 $l['rate_user'] = "Évaluer cet utilisateur";

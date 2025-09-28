@@ -87,7 +87,7 @@ $l['every_x_years_on_day'] = "Se répète tous les {3} ans le {1} {2}";
 $l['every_year_on_weekday'] = "Se répète le {1} {2} en {3} chaque année";
 $l['every_x_year_on_weekday'] = "Se répète le {1} {2} en {3} tous les {4} ans";
 $l['delete_event'] = "Supprimer l’événement";
-$l['delete_q'] = "Supprimer ?";
+$l['delete_q'] = "Supprimer ?";
 $l['delete_1'] = "Pour supprimer cet événement, cochez la case à gauche puis cliquez sur le bouton à droite.";
 $l['delete_2'] = "<strong>Attention :</strong> Cette action est irréversible.";
 $l['delete_now'] = "Supprimer";
@@ -136,7 +136,7 @@ $l['finishes'] = "Se termine ";
 
 $l['error_incorrectday'] = "Le jour que vous avez saisi semble incorrect. Veuillez réessayer.";
 $l['error_invalidevent'] = "L’événement spécifié est invalide ou n’existe pas.";
-$l['invalid_calendar'] = "Le calendrier spécifié n’existe pas. Êtes-vous sûr de visiter la bonne page ?";
+$l['invalid_calendar'] = "Le calendrier spécifié n’existe pas. Êtes-vous sûr de visiter la bonne page ?";
 $l['redirect_eventdeleted'] = "L’événement a bien été supprimé.<br />Vous allez maintenant être redirigé vers le calendrier.";
 $l['redirect_eventupdated'] = "L’événement a bien été mis à jour.<br />Vous allez maintenant être redirigé vers celui-ci.";
 $l['redirect_eventadded'] = "L’événement a bien été créé.<br />Vous allez maintenant être redirigé vers celui-ci.";
