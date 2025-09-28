@@ -143,7 +143,7 @@ $l['welcome_thread_message_devmode'] = 'MyBB {2} installé sur {3} en mode déve
 #endregion
 
 #region miscellaneous
-$l['task_versioncheck_ran'] = 'La tâche de vérification de version s’est exécutée avec succès.';
+$l['task_versioncheck_ran'] = 'La tâche de vérification de version a été exécutée avec succès.';
 $l['task_versioncheck_ran_errors'] = "Impossible de se connecter à MyBB pour vérifier la version.";
 $l['na'] = 'N/A';
 #endregion
