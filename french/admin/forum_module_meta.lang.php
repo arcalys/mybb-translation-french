@@ -8,8 +8,8 @@
 
 $l['forums_and_posts'] = "Forums et messages";
 
-$l['forum_management'] = "Gestions des forums";
-$l['forum_announcements'] = "Annonces des forums";
+$l['forum_management'] = "Gestion des forums";
+$l['forum_announcements'] = "Annonces";
 $l['moderation_queue'] = "File de modération";
 $l['attachments'] = "Pièces jointes";
 
