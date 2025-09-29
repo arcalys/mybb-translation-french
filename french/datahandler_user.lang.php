@@ -10,7 +10,7 @@ $l['userdata_missing_username'] = "Veuillez saisir un nom d’utilisateur.";
 $l['userdata_banned_username'] = "Le nom d’utilisateur que vous avez saisi ne peut pas être utilisé. Veuillez en saisir un autre.";
 $l['userdata_bad_characters_username'] = "Le nom d’utilisateur que vous avez saisi contient des caractères interdits. Veuillez en saisir un autre.";
 $l['userdata_invalid_username_length'] = "Le nom d’utilisateur que vous avez saisi a une longueur invalide. Veuillez saisir un nom d’utilisateur compris entre {1} et {2} caractères.";
-$l['userdata_invalid_usertitle_length'] = "Le titre personnalisé que vous avez saisi a une longueur invalide. Veuillez saisir un titre d’au maximum {1} caractères.";
+$l['userdata_invalid_usertitle_length'] = "Le titre que vous avez saisi a une longueur invalide. Veuillez saisir un titre d’au maximum {1} caractères.";
 $l['userdata_username_exists'] = "Le nom d’utilisateur que vous avez saisi est déjà utilisé. Veuillez en saisir un autre.";
 
 $l['userdata_invalid_password_length'] = "Le mot de passe que vous avez saisi a une longueur invalide. Veuillez saisir un mot de passe compris entre {1} et {2} caractères.";
