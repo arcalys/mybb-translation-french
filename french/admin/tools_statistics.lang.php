@@ -17,7 +17,7 @@ $l['users'] = "Utilisateurs";
 $l['threads'] = "Sujets";
 $l['posts'] = "Messages";
 
-$l['from'] = "De";
+$l['from'] = "Du";
 $l['to'] = "à";
 
 $l['increase'] = "Augmentation";
