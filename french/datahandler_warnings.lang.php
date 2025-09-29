@@ -14,6 +14,6 @@ $l['warnings_error_user_reached_max_warning'] = "Cet utilisateur ne peut pas êt
 $l['warnings_error_no_note'] = "Vous n’avez pas saisi de note administrative pour cet avertissement.";
 $l['warnings_error_invalid_type'] = "Vous avez sélectionné un type d’avertissement invalide.";
 $l['warnings_error_cant_custom_warn'] = "Vous n’avez pas la permission de donner des avertissements personnalisés aux utilisateurs.";
-$l['warnings_error_no_custom_reason'] = "Vous n’avez pas saisi de raison pour votre avertissement personnalisé.";
+$l['warnings_error_no_custom_reason'] = "Vous n’avez pas saisi de motif pour votre avertissement personnalisé.";
 $l['warnings_error_invalid_custom_points'] = "Vous n’avez pas saisi un nombre de points valide à ajouter au niveau d’avertissement de cet utilisateur. Vous devez entrer une valeur numérique supérieure à 0 et ne dépassant pas {1}.";
 $l['warnings_error_invalid_expires_period'] = "Vous avez saisi un type d’expiration invalide.";
