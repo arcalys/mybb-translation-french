@@ -18,7 +18,7 @@ $l['threads'] = "Sujets";
 $l['posts'] = "Messages";
 
 $l['from'] = "Du";
-$l['to'] = "à";
+$l['to'] = "au";
 
 $l['increase'] = "Augmentation";
 $l['no_change'] = "Aucune variation";
