@@ -18,7 +18,7 @@ $l['order'] = "Ordre";
 $l['extra_comment'] = "Requiert un commentaire ?";
 $l['options'] = "Options";
 $l['delete_reason'] = "Supprimer le motif";
-$l['no_report_reasons'] = "Il n’y a actuellement aucun motif de signalement.";
+$l['no_report_reasons'] = "Il n’y a actuellement aucun motif de signalement sur votre forum.";
 
 $l['reason_title'] = "Titre";
 $l['reason_title_desc'] = "Entrez le titre du motif de signalement.";

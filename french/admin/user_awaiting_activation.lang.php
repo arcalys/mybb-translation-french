@@ -11,7 +11,7 @@ $l['awaiting_activation_desc'] = "Cette section vous permet de gérer les compte
 
 $l['manage_awaiting_activation'] = "Gérer les comptes en attente d’activation";
 
-$l['no_users_awaiting_activation'] = "Il n’y a actuellement aucun compte en attente d’activation.";
+$l['no_users_awaiting_activation'] = "Il n’y a actuellement aucun compte en attente d’activation sur votre forum.";
 
 $l['username'] = "Nom d’utilisateur";
 $l['registered'] = "Date d’inscription";
