@@ -50,7 +50,7 @@ $l['error_fetch_news'] = "Nous n’avons pas pu récupérer les dernières annon
 $l['news_description'] = "Dernières actualités du <a href=\"https://blog.mybb.com/\" target=\"_blank\" rel=\"noopener\">blog MyBB</a>.";
 
 $l['admin_notes_public'] = "Ces notes sont visibles par tous les administrateurs.";
-$l['admin_notes'] = "Notes des administrateurs";
+$l['admin_notes'] = "Notes d’administration";
 $l['save_notes'] = "Enregistrer";
 
 $l['success_notes_updated'] = "Les notes ont bien été mises à jour.";

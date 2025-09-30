@@ -25,7 +25,7 @@ $l['error_replacement_word_invalid'] = "Le mot de remplacement ne peut pas être
 $l['save_bad_word'] = "Enregistrer le filtre";
 $l['no_bad_words'] = "Il n’existe actuellement aucun filtre sur votre forum.";
 $l['add_bad_word'] = "Ajouter un filtre";
-$l['add_bad_word_desc'] = "Ici, vous pouvez créer un nouveau filtre de mots.";
+$l['add_bad_word_desc'] = "Cette page vous permet d’ajouter un nouveau filtre de mots.";
 
 $l['error_missing_bad_word'] = "Veuillez saisir un mot à filtrer.";
 $l['error_invalid_regex'] = "L’expression régulière spécifiée est invalide.";
