@@ -67,10 +67,10 @@ $l['syndication_limit_desc'] = "Nombre de sujets à télécharger à la fois. La
 $l['syndication_threads_time'] = "sujets à la fois";
 $l['syndicate_all_forums'] = "Syndiquer tous les forums";
 
-$l['redirect_markforumread'] = "Le forum sélectionné a été marqué comme lu.";
-$l['redirect_markforumsread'] = "Tous les forums ont été marqués comme lus.";
-$l['redirect_forumpasscleared'] = "Le mot de passe enregistré pour ce forum a été effacé.";
-$l['redirect_cookiescleared'] = "Tous les cookies ont été effacés.";
+$l['redirect_markforumread'] = "Le forum sélectionné a bien été marqué comme lu.";
+$l['redirect_markforumsread'] = "Tous les forums ont bien été marqués comme lus.";
+$l['redirect_forumpasscleared'] = "Le mot de passe enregistré pour ce forum a bien été effacé.";
+$l['redirect_cookiescleared'] = "Tous les cookies ont bien été effacés.";
 
 $l['error_invalidforum'] = "Forum invalide";
 $l['error_invalidhelpdoc'] = "Le document d’aide spécifié n’existe pas.";
