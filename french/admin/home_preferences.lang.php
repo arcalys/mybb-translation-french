@@ -7,7 +7,7 @@
  */
 
 $l['preferences_and_personal_notes'] = "Préférences";
-$l['prefs_and_personal_notes_description'] = "Ici, vous pouvez gérer vos préférences du panneau d’administration et enregistrer des notes personnelles.";
+$l['prefs_and_personal_notes_description'] = "Cette page vous permet de gérer vos préférences du panneau d’administration et d’enregistrer des notes personnelles.";
 
 $l['preferences'] = "Préférences";
 $l['global_preferences'] = "Préférences globales";

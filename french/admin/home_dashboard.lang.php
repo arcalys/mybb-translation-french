@@ -33,7 +33,7 @@ $l['unread_reports'] = "Signalement(s) non lu(s)";
 $l['version_check'] = "Rechercher des mises à jour";
 $l['last_update_check_two_weeks'] = "Votre <a href=\"{1}\">vérification de version</a> date de plus de deux semaines.";
 $l['new_version_available'] = "Vous utilisez actuellement la version {1}, alors que la dernière version stable est {2}.";
-$l['version_check_description'] = "Ici, vous pouvez vérifier que vous utilisez la dernière version stable et consulter les dernières annonces de MyBB.";
+$l['version_check_description'] = "Cette page vous permet de vérifier que vous utilisez la dernière version stable et consulter les dernières annonces de MyBB.";
 $l['latest_mybb_announcements'] = "Dernières annonces de MyBB";
 $l['no_announcements'] = "Aucune annonce disponible. <a href=\"index.php?module=home&amp;action=version_check\">Vérifier les mises à jour</a>.";
 $l['your_version'] = "Votre version";
