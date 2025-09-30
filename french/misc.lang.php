@@ -38,9 +38,9 @@ $l['error_helpsearchdisabled'] = "La recherche dans les documents d’aide a ét
 $l['smilies_listing'] = "Liste des émoticônes";
 $l['name'] = "Nom";
 $l['abbreviation'] = "Abréviation";
-$l['click_to_add'] = "Cliquez sur un émoticône pour l’insérer dans votre message";
+$l['click_to_add'] = "Cliquez sur une émoticône pour l’insérer dans votre message";
 $l['close_window'] = "Fermer la fenêtre";
-$l['no_smilies'] = "Il n’y a actuellement aucun émoticône disponible.";
+$l['no_smilies'] = "Il n’y a actuellement aucune émoticône disponible.";
 
 $l['who_posted'] = "Auteur du message";
 $l['total_posts'] = "Nombre total de messages :";
