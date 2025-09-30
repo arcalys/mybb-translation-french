@@ -7,7 +7,7 @@
  */
 
 // The friendly name of the language
-$langinfo['name'] = "Français (French)";
+$langinfo['name'] = "French (Français)";
 
 // The author of the language
 $langinfo['author'] = "arcalys";
