@@ -7,7 +7,7 @@
  */
 
 $l['database_backups'] = "Gestion des sauvegardes";
-$l['database_backups_desc'] = "Cette section vous permet de gérer les sauvegardes de votre base de données actuellement stockées sur votre serveur dans le répertoire dédié.";
+$l['database_backups_desc'] = "Cette page vous permet de gérer les sauvegardes de votre base de données actuellement stockées sur votre serveur dans le répertoire dédié.";
 
 $l['new_database_backup'] = "Nouvelle sauvegarde de la base de données";
 $l['new_backup'] = "Nouvelle sauvegarde";

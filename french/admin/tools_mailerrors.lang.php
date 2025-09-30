@@ -7,7 +7,7 @@
  */
 
 $l['system_email_log'] = "Journal des courriels système";
-$l['system_email_log_desc'] = "Cette section vous permet de consulter tous les courriels générés par MyBB qui ont rencontré une erreur lors de leur envoi. Ce journal est particulièrement utile pour identifier des problèmes de configuration SMTP.";
+$l['system_email_log_desc'] = "Cette page vous permet de consulter tous les courriels générés par MyBB qui ont rencontré une erreur lors de leur envoi. Ce journal est particulièrement utile pour identifier des problèmes de configuration SMTP.";
 $l['prune_system_email_log'] = "Purger le journal des courriels système";
 $l['filter_system_email_log'] = "Filtrer le journal des courriels système";
 

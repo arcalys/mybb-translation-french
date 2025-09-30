@@ -7,7 +7,7 @@
  */
 
 $l['spam_logs'] = "Journal de spam";
-$l['spam_logs_desc'] = "Cette section vous permet de consulter l’historique des utilisateurs bloqués par les filtres anti-spam.";
+$l['spam_logs_desc'] = "Cette page vous permet de consulter l’historique des utilisateurs bloqués par les filtres anti-spam.";
 $l['prune_spam_logs'] = "Purger le journal de spam";
 $l['prune_spam_logs_desc'] = "Cette page vous permet de purger le journal de spam en utilisant des critères spécifiques.";
 $l['spam_username'] = "Nom d’utilisateur";

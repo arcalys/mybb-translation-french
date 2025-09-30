@@ -7,7 +7,7 @@
  */
 
 $l['security_log'] = "Journal de sécurité";
-$l['security_log_desc'] = "Cette section vous permet de gérer le journal de sécurité. Ce journal contient toutes les actions liées à la sécurité des utilisateurs.";
+$l['security_log_desc'] = "Cette page vous permet de gérer le journal de sécurité. Ce journal contient toutes les actions liées à la sécurité des utilisateurs.";
 
 $l['prune_security_log'] = "Purger le journal de sécurité";
 $l['prune_security_log_desc'] = "Cette page vous permet de purger le journal de sécurité en utilisant des critères spécifiques.";

@@ -8,7 +8,7 @@
 
 $l['cache'] = "Cache:";
 $l['cache_manager'] = "Gestion du cache";
-$l['cache_manager_description'] = "Cette section vous permet de gérer les caches utilisés pour optimiser MyBB. Reconstruire un cache collecte toutes les données nécessaires à sa création et met le cache à jour. Synchroniser un cache le charge à nouveau dans le gestionnaire de cache sélectionné. La synchronisation est utile lorsque l’on passe de la base de données ou du système de fichiers à un système de cache externe (eaccelerator, xcache, etc.).";
+$l['cache_manager_description'] = "Cette page vous permet de gérer les caches utilisés pour optimiser MyBB. Reconstruire un cache collecte toutes les données nécessaires à sa création et met le cache à jour. Synchroniser un cache le charge à nouveau dans le gestionnaire de cache sélectionné. La synchronisation est utile lorsque l’on passe de la base de données ou du système de fichiers à un système de cache externe (eaccelerator, xcache, etc.).";
 
 $l['rebuild_cache'] = "Reconstruire le cache";
 $l['reload_cache'] = "Synchroniser le cache";

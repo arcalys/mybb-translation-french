@@ -7,7 +7,7 @@
  */
 
 $l['mod_logs'] = "Journal de modération";
-$l['mod_logs_desc'] = "Cette section vous permet de gérer le journal de modération. Ce journal contient les actions que tout utilisateur peut effectuer (suppression de ses propres messages ou sujets) ainsi que les actions effectuées par les modérateurs.";
+$l['mod_logs_desc'] = "Cette page vous permet de gérer le journal de modération. Ce journal contient les actions que tout utilisateur peut effectuer (suppression de ses propres messages ou sujets) ainsi que les actions effectuées par les modérateurs.";
 $l['prune_mod_logs'] = "Purger le journal de modération";
 $l['prune_mod_logs_desc'] = "Cette page vous permet de purger le journal de modération en utilisant des critères spécifiques.";
 

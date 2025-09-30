@@ -7,7 +7,7 @@
  */
 
 $l['awaiting_activation'] = "En attente d’activation";
-$l['awaiting_activation_desc'] = "Cette section vous permet de gérer les comptes en attente d’activation. Notez que tout utilisateur en attente d’activation par courriel n’aura pas besoin de confirmer son adresse si son compte est activé ici.";
+$l['awaiting_activation_desc'] = "Cette page vous permet de gérer les comptes en attente d’activation. Notez que tout utilisateur en attente d’activation par courriel n’aura pas besoin de confirmer son adresse si son compte est activé ici.";
 
 $l['manage_awaiting_activation'] = "Gérer les comptes en attente d’activation";
 

@@ -7,7 +7,7 @@
  */
 
 $l['security_questions'] = "Questions de sécurité";
-$l['security_questions_desc'] = "Cette section vous permet de gérer des questions de sécurité qui seront affichées aléatoirement lors de nouvelles inscriptions.";
+$l['security_questions_desc'] = "Cette page vous permet de gérer des questions de sécurité qui seront affichées aléatoirement lors de nouvelles inscriptions.";
 $l['add_new_question'] = "Ajouter une question";
 $l['add_new_question_desc'] = "Cette page vous permet d’ajouter une nouvelle question de sécurité.";
 $l['edit_question'] = "Modifier la question";

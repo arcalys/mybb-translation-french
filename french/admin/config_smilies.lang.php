@@ -8,7 +8,7 @@
 
 $l['smilies'] = "Émoticônes";
 $l['manage_smilies'] = "Gestion des émoticônes";
-$l['manage_smilies_desc'] = "Cette section vous permet de gérer les émoticônes disponibles sur votre forum.";
+$l['manage_smilies_desc'] = "Cette page vous permet de gérer les émoticônes disponibles sur votre forum.";
 $l['add_smilie'] = "Ajouter une émoticône";
 $l['add_smilie_desc'] = "Cette page vous permet d’ajouter une nouvelle émoticône.";
 $l['add_multiple_smilies'] = "Ajouter plusieurs émoticônes";

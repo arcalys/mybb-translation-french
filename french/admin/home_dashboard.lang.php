@@ -7,7 +7,7 @@
  */
 
 $l['dashboard'] = "Tableau de bord";
-$l['dashboard_description'] = "Cette section vous permet de consulter diverses statistiques concernant votre forum. Vous pouvez également y ajouter des notes visibles par les autres administrateurs.";
+$l['dashboard_description'] = "Cette page vous permet de consulter diverses statistiques concernant votre forum. Vous pouvez également y ajouter des notes visibles par les autres administrateurs.";
 
 $l['mybb_server_stats'] = "Statistiques du serveur";
 $l['forum_stats'] = "Statistiques du forum";
