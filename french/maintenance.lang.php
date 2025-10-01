@@ -166,13 +166,13 @@ $l['install_step_start_description'] = 'Bienvenue dans l’installation de MyBB.
 $l['install_step_start_description_reinstall'] = 'Bienvenue dans l’installation de MyBB. Au cours de ce processus, le logiciel du forum sera réinstallé sur votre serveur et écrasera le forum existant. Un nouveau forum sera créé et toutes les données existantes seront supprimées (souhaitez-vous plutôt <a href="./index.php?process=upgrade"><strong>faire une mise à jour</strong></a> ?).';
 $l['install_step_start_description_reinstall_cli'] = 'Bienvenue dans l’installation de MyBB. Au cours de ce processus, le logiciel du forum sera réinstallé sur votre serveur et écrasera le forum existant. Un nouveau forum sera créé et toutes les données existantes seront supprimées.';
 
-$l['install_step_database_heading'] = 'Connexion à la base de données';
+$l['install_step_database_heading'] = 'Se connecter à la base de données';
 $l['install_step_database_instructions'] = 'Fournissez les informations de connexion à la base de données où le contenu du forum sera stocké. Si vous ne disposez pas de ces informations, elles peuvent généralement être obtenues auprès de votre hébergeur ou une base de données peut être créée depuis le panneau de contrôle de votre hébergement.';
 
 $l['install_step_settings_heading'] = 'Définir les paramètres du forum';
 $l['install_step_settings_instructions'] = 'Configurez et vérifiez les paramètres de base de votre nouveau forum. Ils pourront être facilement modifiés plus tard.';
 
-$l['install_step_account_heading'] = 'Créer un compte';
+$l['install_step_account_heading'] = 'Créer un compte administrateur';
 $l['install_step_account_instructions'] = 'Définissez les informations de connexion pour votre compte administrateur.';
 
 
