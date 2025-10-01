@@ -25,7 +25,7 @@ $l['moderator_log'] = "Journal de modération";
 $l['user_email_log'] = "Journal des courriels";
 $l['system_mail_log'] = "Journal des courriels système";
 $l['user_warning_log'] = "Journal des avertissements";
-$l['spam_log'] = "Journal de spam";
+$l['spam_log'] = "Journal des indésirables";
 $l['security_log'] = "Journal de sécurité";
 $l['statistics'] = "Statistiques";
 
@@ -40,7 +40,7 @@ $l['can_manage_mod_logs'] = "Peut gérer le journal de modération ?";
 $l['can_manage_user_mail_log'] = "Peut gérer le journal des courriels ?";
 $l['can_manage_system_mail_log'] = "Peut gérer le journal des courriels système ?";
 $l['can_manage_user_warning_log'] = "Peut gérer le journal des avertissements ?";
-$l['can_manage_spam_log'] = "Peut gérer le journal de spam ?";
+$l['can_manage_spam_log'] = "Peut gérer le journal des indésirables ?";
 $l['can_manage_security_log'] = "Peut gérer le journal de sécurité ?";
 $l['can_view_php_info'] = "Peut consulter les informations PHP  ?";
 $l['can_manage_file_verification'] = "Peut utiliser la vérification des fichiers ?";

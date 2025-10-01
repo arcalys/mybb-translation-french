@@ -6,27 +6,27 @@
  *
  */
 
-$l['spam_logs'] = "Journal de spam";
-$l['spam_logs_desc'] = "Cette page vous permet de consulter l’historique des utilisateurs bloqués par les filtres anti-spam.";
-$l['prune_spam_logs'] = "Purger le journal de spam";
-$l['prune_spam_logs_desc'] = "Cette page vous permet de purger le journal de spam en utilisant des critères spécifiques.";
+$l['spam_logs'] = "Journal des indésirables";
+$l['spam_logs_desc'] = "Cette page vous permet de consulter l’historique des utilisateurs bloqués par les filtres automatiques du forum.";
+$l['prune_spam_logs'] = "Purger le journal des indésirables";
+$l['prune_spam_logs_desc'] = "Cette page vous permet de purger le journal des indésirables en utilisant des critères spécifiques.";
 $l['spam_username'] = "Nom d’utilisateur";
 $l['spam_email'] = "Adresse électronique";
 $l['spam_ip'] = "Adresse IP";
 $l['spam_date'] = "Date";
 $l['spam_confidence'] = "Probabilité";
 $l['no_spam_logs'] = "Aucune entrée ne correspond aux critères sélectionnés.";
-$l['success_pruned_spam_logs'] = "Le journal de spam a bien été purgé.";
+$l['success_pruned_spam_logs'] = "Le journal des indésirables a bien été purgé.";
 $l['note_logs_locked'] = "Pour des raisons de sécurité, les entrées datant de moins de 24 heures ne peuvent pas être purgées.";
 $l['all_usernames'] = "Tous les noms d’utilisateur";
 $l['all_emails'] = "Toutes les adresses électroniques";
 $l['date_range'] = "Période :";
 $l['older_than'] = "Entrées datant de plus de ";
 $l['days'] = "jours";
-$l['filter_spam_logs'] = "Filtrer le journal de spam";
+$l['filter_spam_logs'] = "Filtrer le journal des indésirables";
 $l['asc'] = "croissant";
 $l['desc'] = "décroissant";
-$l['search_ip_on_sfs'] = "Rechercher cette IP sur Stop Forum Spam";
+$l['search_ip_on_sfs'] = "Rechercher cette IP sur « Stop Forum Spam »";
 $l['search'] = "Rechercher";
 
 $l['in'] = "dans l’ordre";
