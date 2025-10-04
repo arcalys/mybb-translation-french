@@ -28,4 +28,4 @@ $l['subject_contains'] = "Le sujet contient";
 $l['error_message_contains'] = "Le message d’erreur contient";
 $l['to_address_contains'] = "L’adresse du destinataire contient";
 $l['from_address_contains'] = "L’adresse de l’expéditeur contient";
-$l['find_emails_to_addr'] = "Trouver tous les courriels envoyés à cette adresse";
+$l['find_emails_to_addr'] = "Rechercher tous les courriels envoyés à cette adresse";
