@@ -593,7 +593,7 @@ $l['december'] = "Décembre";
 $l['moderation_forum_attachments'] = "Les nouvelles pièces jointes dans ce forum doivent être approuvées par un modérateur avant d’être visibles.";
 $l['moderation_forum_posts'] = "Les nouveaux messages dans ce forum doivent être approuvés par un modérateur avant d’être visibles.";
 $l['moderation_user_posts'] = "Vos messages doivent être approuvés par un modérateur avant d’être visibles.";
-$l['moderation_forum_thread'] = "Les nouveaux sujets dans ce forum doivent être approuvées par un modérateur avant d’être visibles.";
+$l['moderation_forum_thread'] = "Les nouveaux sujets dans ce forum doivent être approuvés par un modérateur avant d’être visibles.";
 $l['moderation_forum_edits'] = "Les messages modifiés dans ce forum doivent être approuvés par un modérateur avant d’être visibles.";
 $l['moderation_forum_edits_quick'] = "Les messages modifiés dans ce forum doivent être approuvés par un modérateur avant d’être visibles.";
 $l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Accéder au panneau d’administration</a>.";

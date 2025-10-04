@@ -29,7 +29,7 @@ $l['activate_account'] = "Activer le compte";
 $l['activation_code'] = "Code d’activation :";
 
 $l['email_user'] = "Envoyer un courriel à {1}";
-$l['email_subject'] = "Titre";
+$l['email_subject'] = "Sujet";
 $l['email_message'] = "Message";
 $l['send_email'] = "Envoyer le courriel";
 $l['error_hideemail'] = "Le destinataire a choisi de masquer son adresse électronique, vous ne pouvez donc pas lui envoyer de courriel.";
