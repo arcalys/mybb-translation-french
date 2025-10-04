@@ -23,7 +23,7 @@ $l['replacement_word_max'] = "Le mot de remplacement ne peut pas dépasser 100 c
 $l['error_replacement_word_invalid'] = "Le mot de remplacement ne peut pas être identique au mot filtré.";
 
 $l['save_bad_word'] = "Enregistrer le filtre";
-$l['no_bad_words'] = "Il n’existe actuellement aucun filtre sur votre forum.";
+$l['no_bad_words'] = "Il n’y a actuellement aucun filtre sur votre forum.";
 $l['add_bad_word'] = "Ajouter un filtre";
 $l['add_bad_word_desc'] = "Cette page vous permet d’ajouter un nouveau filtre de mots.";
 

@@ -16,7 +16,7 @@ $l['edit_attachment_type_desc'] = "Cette page vous permet de modifier un type de
 
 $l['extension'] = "Extension";
 $l['maximum_size'] = "Taille maximale";
-$l['no_attachment_types'] = "Il n’existe actuellement aucun type de pièce jointe sur votre forum.";
+$l['no_attachment_types'] = "Il n’y a actuellement aucun type de pièce jointe sur votre forum.";
 
 $l['name'] = "Nom";
 $l['name_desc'] = "Saisissez le nom du type de pièce jointe.";

@@ -21,7 +21,7 @@ $l['incorrect'] = "Réponses incorrectes";
 $l['disable_question'] = "Désactiver la question";
 $l['enable_question'] = "Activer la question";
 $l['delete_question'] = "Supprimer la question";
-$l['no_security_questions'] = "Il n’existe actuellement aucune question de sécurité sur votre forum.";
+$l['no_security_questions'] = "Il n’y a actuellement aucune question de sécurité sur votre forum.";
 
 $l['question'] = "Question";
 $l['question_desc'] = "Saisissez la question à laquelle l’utilisateur devra répondre lors de l’inscription.";
