@@ -14,7 +14,7 @@ $l['add_smilie_desc'] = "Cette page vous permet d’ajouter une nouvelle émotic
 $l['add_multiple_smilies'] = "Ajouter plusieurs émoticônes";
 $l['add_multiple_smilies_desc'] = "Cette page vous permet d’ajouter plusieurs nouvelles émoticônes simultanément.";
 $l['edit_smilie'] = "Modifier une émoticône";
-$l['edit_smilie_desc'] = "Cette page vous permet de modifier une émoticône.";
+$l['edit_smilie_desc'] = "Cette page vous permet de modifier une émoticône existante.";
 $l['mass_edit'] = "Modifications groupées";
 $l['mass_edit_desc'] = "Cette page vous permet de modifier plusieurs émoticônes simultanément.";
 

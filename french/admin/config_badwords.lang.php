@@ -8,7 +8,7 @@
 
 $l['bad_words'] = "Censure";
 $l['edit_bad_word'] = "Modifier le filtre";
-$l['edit_bad_word_desc'] = "Cette page vous permet de modifier un filtre de mots.";
+$l['edit_bad_word_desc'] = "Cette page vous permet de modifier un filtre de mots existant.";
 $l['bad_word_filters'] = "Gestion de la censure";
 $l['bad_word_filters_desc'] = "Cette page vous permet de gérer une liste de mots ou d’expressions qui seront automatiquement remplacés dans les messages. Elle peut s’avérer utile pour remplacer des termes inappropriés.";
 

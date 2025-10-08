@@ -14,7 +14,7 @@ $l['add_new_thread_prefix'] = "Ajouter un nouveau préfixe";
 $l['add_new_thread_prefix_desc'] = "Cette page vous permet d’ajouter un nouveau préfixe et de définir où et pour qui il sera disponible.";
 
 $l['edit_prefix'] = "Modifier le préfixe";
-$l['edit_prefix_desc'] = "Cette page vous permet de modifier un préfixe de sujet.";
+$l['edit_prefix_desc'] = "Cette page vous permet de modifier un préfixe de sujet existant.";
 $l['edit_thread_prefix'] = "Modifier un préfixe";
 $l['delete_thread_prefix'] = "Supprimer le préfixe";
 

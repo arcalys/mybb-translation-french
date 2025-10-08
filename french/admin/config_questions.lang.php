@@ -11,7 +11,7 @@ $l['security_questions_desc'] = "Cette page vous permet de gérer des questions 
 $l['add_new_question'] = "Ajouter une question";
 $l['add_new_question_desc'] = "Cette page vous permet d’ajouter une nouvelle question de sécurité.";
 $l['edit_question'] = "Modifier la question";
-$l['edit_question_desc'] = "Cette page vous permet de modifier une question de sécurité.";
+$l['edit_question_desc'] = "Cette page vous permet de modifier une question de sécurité existante.";
 $l['preview_question'] = "Prévisualiser la question";
 
 $l['options'] = "Options";
