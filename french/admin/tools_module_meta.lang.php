@@ -13,11 +13,11 @@ $l['logs'] = "Journaux";
 
 $l['system_health'] = "État du système";
 $l['cache_manager'] = "Gestion du cache";
-$l['task_manager'] = "Tâches planifiées";
+$l['task_manager'] = "Gestion des tâches planifiées";
 $l['recount_and_rebuild'] = "Recalculer et reconstruire";
 $l['view_php_info'] = "Informations PHP";
-$l['database_backups'] = "Sauvegardes";
-$l['optimize_database'] = "Optimisation";
+$l['database_backups'] = "Sauvegardes de la base de données";
+$l['optimize_database'] = "Optimisation de la base de données";
 $l['file_verification'] = "Vérification des fichiers";
 
 $l['administrator_log'] = "Journal d’administration";

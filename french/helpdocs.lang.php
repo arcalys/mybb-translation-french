@@ -20,9 +20,9 @@ $l['d2_document'] = "Au cours de votre utilisation du forum, vous pourriez souha
 
 // Help Document 3
 $l['d3_name'] = "Utilisation des cookies";
-$l['d3_desc'] = "MyBB utilise des cookies pour stocker certaines informations relatives à votre visite.";
+$l['d3_desc'] = "MyBB utilise des cookies pour enregistrer certaines informations relatives à votre visite.";
 $l['d3_document'] = "MyBB utilise des cookies pour mémoriser vos informations de connexion si vous êtes inscrit et votre dernière visite si vous ne l’êtes pas.
-<br /><br />Les cookies sont de petits fichiers texte stockés sur votre ordinateur ; ceux définis par ce forum ne peuvent être utilisés que sur ce site et ne présentent aucun risque pour la sécurité.
+<br /><br />Les cookies sont de petits fichiers texte enregistrés sur votre ordinateur ; ceux définis par ce forum ne peuvent être utilisés que sur ce site et ne présentent aucun risque pour la sécurité.
 <br /><br />Les cookies de ce forum permettent également de suivre les sujets que vous avez lus et la date de votre dernière lecture.
 <br /><br />Pour supprimer tous les cookies définis par ce forum, vous pouvez cliquer <a href=\"misc.php?action=clearcookies&amp;my_post_key={1}\">ici</a>.";
 

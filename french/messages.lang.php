@@ -360,7 +360,7 @@ Ceci est un courriel automatique de {2} pour vous informer que votre boîte de m
 
 Un ou plusieurs utilisateurs ont peut-être essayé de vous envoyer des messages privés sans succès pour cette raison.
 
-Veuillez supprimer certains des messages privés que vous avez actuellement stockés, en pensant également à vider la « Corbeille ».
+Veuillez supprimer certains des messages privés que vous avez actuellement enregistrés, en pensant également à vider la « Corbeille ».
 
 Merci,
 L’équipe du forum
