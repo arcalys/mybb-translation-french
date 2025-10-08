@@ -30,7 +30,7 @@ $l['stick_thread'] = "<strong>Épingler le sujet :</strong> maintenir le sujet 
 $l['draft_saved'] = "Le nouveau sujet a bien été enregistré comme brouillon.<br />Vous allez maintenant être redirigé vers la liste de vos brouillons.";
 $l['error_post_already_submitted'] = "Vous avez déjà publié un sujet identique dans ce forum. Veuillez consulter le forum pour voir votre sujet.";
 $l['no_prefix'] = "Aucun préfixe";
-$l['forum_rules'] = "Règles du forum « {1} »";
+$l['forum_rules'] = "Règles du forum « {1} »";
 
 $l['multiquote_external_one'] = "Vous avez sélectionné un message appartenant à un autre sujet.";
 $l['multiquote_external'] = "Vous avez sélectionné {1} messages appartenant à d’autres sujets.";
