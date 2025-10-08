@@ -21,7 +21,7 @@ $l['post_reply'] = "Publier la réponse";
 $l['preview_post'] = "Prévisualiser";
 $l['mod_options'] = "Options de modération";
 $l['close_thread'] = "<strong>Verrouiller le sujet :</strong> empêcher toute publication supplémentaire dans ce sujet.";
-$l['stick_thread'] = "<strong>Épingler le sujet :</strong> maintenir ce sujet en haut du forum.";
+$l['stick_thread'] = "<strong>Épingler le sujet :</strong> maintenir le sujet en haut de ce forum.";
 $l['forum_rules'] = "Règles du forum « {1} »";
 $l['thread_review'] = "Aperçu du sujet (du plus récent au plus ancien)";
 $l['thread_review_more'] = "Ce sujet contient plus de {1} réponses. <a href=\"{2}\" target=\"_blank\">Lire le sujet en entier.</a>";

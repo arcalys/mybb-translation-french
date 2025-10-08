@@ -25,8 +25,8 @@ $l['userdata_banned_email'] = "L’adresse électronique que vous avez saisie ne
 $l['userdata_email_already_in_use'] = "L’adresse électronique que vous avez saisie est déjà utilisée. Veuillez en saisir une autre.";
 
 $l['userdata_dob_required'] = "Veuillez saisir votre date de naissance. Vous aurez la possibilité de masquer votre âge et votre date de naissance dans les options de votre profil.";
-$l['userdata_invalid_website'] = "L'adresse du site web saisie est invalide. Veuillez entrer une adresse valide ou laisser ce champ vide.";
-$l['userdata_invalid_birthday'] = "La date de naissance saisie est invalide. Veuillez entrer une date valide ou laisser ce champ vide.";
+$l['userdata_invalid_website'] = "L'adresse du site web saisie est invalide. Veuillez saisir une adresse valide ou laisser ce champ vide.";
+$l['userdata_invalid_birthday'] = "La date de naissance saisie est invalide. Veuillez saisir une date valide ou laisser ce champ vide.";
 $l['userdata_invalid_birthday_coppa'] = "Pour vérifier votre âge, indiquez votre année de naissance. Vous aurez la possibilité de masquer votre âge et votre date de naissance dans les options de votre profil.";
 $l['userdata_invalid_birthday_coppa2'] = "Vous devez avoir au moins 13 ans pour être membre de ce forum. Veuillez contacter un administrateur.";
 $l['userdata_invalid_birthday_privacy'] = "Veuillez choisir une option valide pour la confidentialité de votre date de naissance.";
@@ -37,12 +37,12 @@ $l['userdata_invalid_style'] = "Veuillez choisir un thème valide.";
 $l['userdata_away_too_long'] = "Le motif d'absence est trop long. Ce champ ne peut pas dépasser 200 caractères. Veuillez supprimer {1} caractère(s).";
 $l['userdata_missing_returndate'] = "Veuillez sélectionner le jour, le mois et l’année pour la date de retour.";
 $l['userdata_missing_required_profile_field'] = "Vous n’avez pas renseigné le champ « {1} ». Veuillez le remplir ou sélectionner une valeur.";
-$l['userdata_bad_profile_field_value'] = "La valeur saisie pour le champ « {1} » n’est pas valide. Veuillez entrer une valeur correcte.";
+$l['userdata_bad_profile_field_value'] = "La valeur saisie pour le champ « {1} » n’est pas valide. Veuillez saisir une valeur correcte.";
 $l['userdata_bad_profile_field_values'] = "Veuillez sélectionner une option valide pour le champ « {1} ».";
 $l['userdata_max_limit_reached'] = "Le champ « {1} » dépasse le nombre maximal de caractères ({2}). Veuillez le remplir correctement.";
 $l['userdata_invalid_checkfield'] = "Ce formulaire semble avoir été soumis par un spammeur. S’il s’agit d’une erreur, contactez l’administrateur.";
-$l['userdata_invalid_postnum'] = "Le nombre de messages saisi n’est pas valide. Veuillez entrer un nombre correct ou laisser le champ vide.";
-$l['userdata_invalid_threadnum'] = "Le nombre de sujets saisi n’est pas valide. Veuillez entrer un nombre correct ou laisser le champ vide.";
+$l['userdata_invalid_postnum'] = "Le nombre de messages saisi n’est pas valide. Veuillez saisir un nombre correct ou laisser le champ vide.";
+$l['userdata_invalid_threadnum'] = "Le nombre de sujets saisi n’est pas valide. Veuillez saisir un nombre correct ou laisser le champ vide.";
 
 $l['userdata_too_many_sig_images'] = "Vous ne pouvez pas mettre à jour votre signature car elle contient trop d’images. Veuillez en retirer pour continuer.";
 $l['userdata_too_many_sig_images2'] = "<strong>Attention :</strong> Le nombre maximal d’images autorisées dans une signature est {1}.";
