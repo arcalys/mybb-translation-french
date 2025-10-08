@@ -243,8 +243,8 @@ $l['directory_not_writable'] = 'Le répertoire <code>{1}</code> n’est pas acce
 $l['file_not_writable'] = 'Le fichier <code>{1}</code> n’est pas accessible en écriture. Veuillez <a href="https://docs.mybb.com/1.8/administration/security/file-permissions" target="_blank" rel="noreferrer">ajuster les permissions</a> pour permettre l’écriture.';
 $l['lock_file_not_writable'] = 'Impossible de créer le fichier de verrouillage <code>{1}</code>. Veuillez supprimer le répertoire d’installation avant de continuer sur votre forum.';
 
-$l['file_verification_checksums_missing'] = 'Impossible de vérifier les fichiers car le fichier <code>{1}</code> est manquant. Vous pouvez télécharger ce fichier depuis un <a href="https://mybb.com/download" target="_blank" rel="noreferrer">package MyBB officiel</a>. Ce fichier peut ne pas être inclus dans les versions destinées au développement.';
-$l['file_verification_failed'] = 'Les fichiers suivants ({1}) pourraient être corrompus. Vous devriez les copier depuis un <a href="https://mybb.com/download" target="_blank">package MyBB officiel</a> avant de continuer.';
+$l['file_verification_checksums_missing'] = 'Impossible de vérifier les fichiers car le fichier <code>{1}</code> est manquant. Vous pouvez télécharger ce fichier depuis une <a href="https://mybb.com/download" target="_blank" rel="noreferrer">archive MyBB officielle</a>. Ce fichier peut ne pas être inclus dans les versions destinées au développement.';
+$l['file_verification_failed'] = 'Les fichiers suivants ({1}) pourraient être corrompus. Vous devriez les copier depuis une <a href="https://mybb.com/download" target="_blank">archive MyBB officielle</a> avant de continuer.';
 $l['file_verification_changed'] = 'Modifié : {1}';
 $l['file_verification_missing'] = 'Manquant : {1}';
 
