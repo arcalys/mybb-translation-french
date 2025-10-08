@@ -14,7 +14,7 @@ $l['add_new_mycode_desc'] = "Cette page vous permet d’ajouter un nouveau MyCod
 $l['edit_mycode_desc'] = "Cette page vous permet de modifier un MyCode personnalisé. Utilisez la zone de test située sous le formulaire afin de vérifier votre expression régulière et sa valeur de remplacement avant de l’enregistrer.";
 
 $l['title'] = "Titre";
-$l['short_description'] = "Description";
+$l['short_description'] = "Brève description";
 $l['regular_expression'] = "Expression régulière";
 $l['regular_expression_desc'] = "Saisissez une expression régulière correspondant à une combinaison spécifique de caractères. Assurez-vous qu’elle soit valide et sécurisée — aucune vérification n’est effectuée.";
 $l['replacement'] = "Valeur de remplacement";
