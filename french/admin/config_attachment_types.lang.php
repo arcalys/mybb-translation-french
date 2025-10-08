@@ -43,8 +43,8 @@ $l['success_attachment_type_deleted'] = "Le type de pièce jointe a bien été s
 
 $l['confirm_attachment_type_deletion'] = "Êtes-vous sûr de vouloir supprimer ce type de pièce jointe ?";
 
-$l['success_activated_attachment_type'] = "Le type de pièce jointe sélectionné a été activé avec succès.";
-$l['success_deactivated_attachment_type'] = "Le type de pièce jointe sélectionné a été désactivé avec succès.";
+$l['success_activated_attachment_type'] = "Le type de pièce jointe sélectionné a bien été activé.";
+$l['success_deactivated_attachment_type'] = "Le type de pièce jointe sélectionné a bien été désactivé.";
 
 $l['enabled'] = "Activé ?";
 $l['forcedownload'] = "Forcer le téléchargement";
