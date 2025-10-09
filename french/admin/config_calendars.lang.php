@@ -39,8 +39,8 @@ $l['moderate_events'] = "Modérer les nouveaux événements ?";
 $l['moderate_events_desc'] = "Si cette option est activée, tous les événements devront être modérés, sauf ceux créés par les membres ayant la permission « Ignorer la modération » pour ce calendrier.";
 $l['allow_html'] = "Autoriser l’HTML dans les événements ?";
 $l['allow_mycode'] = "Autoriser les MyCodes dans les événements ?";
-$l['allow_img'] = "Autoriser les balises [IMG] dans les événements ?";
-$l['allow_video'] = "Autoriser les balises [VIDEO] dans les événements ?";
+$l['allow_img'] = "Autoriser les balises [img] dans les événements ?";
+$l['allow_video'] = "Autoriser les balises [video] dans les événements ?";
 $l['allow_smilies'] = "Autoriser les émoticônes dans les événements ?";
 $l['save_calendar'] = "Enregistrer";
 
