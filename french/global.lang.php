@@ -328,7 +328,7 @@ $l['forumjump_home'] = "Accueil du forum";
 
 $l['confirm_title'] = "Veuillez confirmer";
 $l['redirect'] = "Vous allez maintenant être redirigé";
-$l['unknown_error'] = "Une erreur inconnue est survenue.";
+$l['unknown_error'] = "Une erreur inconnue s’est produite.";
 $l['post_fetch_error'] = "Une erreur est survenue lors de la récupération des messages.";
 
 $l['smilieinsert'] = "Émoticônes";
