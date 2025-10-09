@@ -321,7 +321,7 @@ $l['error_missing_forum'] = "Vous n’avez pas sélectionné de forum.";
 $l['error_invalid_start_date'] = "La date de début de l’annonce est invalide.";
 $l['error_invalid_end_date'] = "La date de fin de l’annonce est invalide.";
 $l['error_end_before_start'] = "La date de fin doit être postérieure à la date de début.";
-$l['error_invalid_announcement'] = "L’annonce spécifiée est invalide.";
+$l['error_invalid_announcement'] = "L’annonce spécifiée est invalide ou n’existe pas.";
 
 $l['announcement_added'] = "Annonce ajoutée";
 $l['announcement_edited'] = "Annonce modifiée";

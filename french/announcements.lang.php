@@ -9,7 +9,7 @@
 $l['nav_announcements'] = "Annonce";
 $l['announcements'] = "Annonce";
 $l['forum_announcement'] = "Annonce : {1}";
-$l['error_invalidannouncement'] = "L’annonce spécifiée est invalide.";
+$l['error_invalidannouncement'] = "L’annonce spécifiée est invalide ou n’existe pas.";
 
 $l['announcement_edit'] = "Modifier cette annonce";
 $l['announcement_qdelete'] = "Supprimer cette annonce";

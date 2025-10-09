@@ -11,7 +11,7 @@ $l['nav_join_requests'] = "Demandes d’adhésion";
 $l['nav_group_memberships'] = "Vos groupes";
 
 $l['not_leader_of_this_group'] = "Vous n’êtes pas responsable de ce groupe d’utilisateurs.";
-$l['invalid_group'] = "Ce groupe n’existe pas.";
+$l['invalid_group'] = "Le groupe spécifié est invalide ou n’existe pas.";
 $l['pending_requests'] = "Demandes d’adhésion en attente";
 $l['num_requests_pending'] = "Il y a actuellement <strong>{1}</strong> demande(s) d’adhésion en attente pour ce groupe.";
 $l['group_management'] = "Gestion du groupe";
