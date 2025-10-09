@@ -72,7 +72,7 @@ $l['redirect_markforumsread'] = "Tous les forums ont bien été marqués comme l
 $l['redirect_forumpasscleared'] = "Le mot de passe enregistré pour ce forum a bien été effacé.";
 $l['redirect_cookiescleared'] = "Tous les cookies ont bien été effacés.";
 
-$l['error_invalidforum'] = "Forum invalide";
+$l['error_invalidforum'] = "Le forum spécifié est invalide ou n’existe pas.";
 $l['error_invalidhelpdoc'] = "Le document d’aide spécifié n’existe pas.";
 $l['error_invalidsearch'] = "Une recherche invalide a été spécifiée. Veuillez revenir en arrière et réessayer.";
 $l['error_no_search_support'] = "Ce moteur de base de données ne supporte pas la recherche.";
