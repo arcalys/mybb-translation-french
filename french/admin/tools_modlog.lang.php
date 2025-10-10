@@ -40,7 +40,7 @@ $l['asc'] = "croissant";
 $l['desc'] = "décroissant";
 
 $l['in'] = "dans l’ordre";
-$l['order'] = "";
+$l['order'] = " ";
 $l['days'] = "jours";
 
 $l['prune_moderator_logs'] = "Purger le journal de modération";

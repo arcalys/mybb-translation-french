@@ -30,6 +30,6 @@ $l['search_ip_on_sfs'] = "Rechercher cette IP sur « Stop Forum Spam »";
 $l['search'] = "Rechercher";
 
 $l['in'] = "dans l’ordre";
-$l['order'] = "";
+$l['order'] = " ";
 $l['sort_by'] = "Trier par";
 $l['results_per_page'] = "Résultats par page";

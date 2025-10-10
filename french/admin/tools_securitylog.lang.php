@@ -37,7 +37,7 @@ $l['type_colon'] = "Type :";
 $l['sort_by'] = "Trier par :";
 $l['results_per_page'] = "Résultats par page :";
 $l['in'] = "dans l’ordre";
-$l['order'] = "";
+$l['order'] = " ";
 
 $l['date_range'] = "Période :";
 $l['older_than'] = "Entrées datant de plus de ";
