@@ -153,7 +153,7 @@ $l['na'] = 'N/A';
 $l['install_page_title'] = 'Installation de MyBB';
 $l['install_header_title'] = 'Installation';
 
-// étapes
+// steps
 $l['install_step_start_title'] = 'Démarrage';
 $l['install_step_database_title'] = 'Base de données';
 $l['install_step_settings_title'] = 'Paramètres';
@@ -280,7 +280,7 @@ $l['upgrade_step_rebuilding_description'] = 'Les paramètres et les caches seron
 $l['operation_upgrade_plan_title'] = 'Planification de la mise à jour';
 $l['operation_update_settings_title'] = 'Reconstruction des paramètres';
 
-// paramètres
+// parameters
 $l['parameter_upgrade_start_title'] = 'Numéro de version de départ';
 $l['parameter_upgrade_start_description'] = 'La mise à jour sélectionnée, ainsi que toutes les mises à jour des versions ultérieures, sera appliquée.';
 

@@ -10,13 +10,13 @@ $l['report_reason'] = "Motif du signalement :";
 $l['report_to_mod'] = "Signaler ce contenu à un modérateur";
 $l['close_window'] = "Fermer la fenêtre";
 
-// Types de contenu
+// Content types
 $l['report_content'] = "Signaler un contenu";
 $l['report_reason_post'] = "Signaler un message";
 $l['report_reason_profile'] = "Signaler un profil";
 $l['report_reason_reputation'] = "Signaler une réputation";
 
-// Motifs du signalement
+// Content reasons
 $l['report_reason_rules'] = "Enfreint les règles du forum";
 $l['report_reason_bad'] = "Contenu inapproprié";
 $l['report_reason_spam'] = "Contenu indésirable (spam)";
