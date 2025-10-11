@@ -19,7 +19,7 @@ $l['online'] = "En ligne";
 $l['offline'] = "Hors-ligne";
 $l['away'] = "Absent";
 
-$l['group_leaders'] = "Responsables du groupe";
+$l['group_leaders'] = "Responsables des groupes";
 $l['group_members'] = "Membre(s)";
 
 $l['no_members'] = "Il n’y a aucun utilisateur dans ce groupe.";
