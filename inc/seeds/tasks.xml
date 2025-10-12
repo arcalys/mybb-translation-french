@@ -25,8 +25,8 @@
 		<logging>1</logging>
 	</task>
 	<task>
-		<title>Nettoyage des utilisateurs toutes les demi-heures</title>
-		<description><![CDATA[Expire automatiquement les bannissements, avertissements, suspensions de publication et temps de modération des utilisateurs. Cette tâche s’exécute toutes les demi-heures.]]></description>
+		<title>Nettoyage des utilisateurs</title>
+		<description><![CDATA[Expire automatiquement les bannissements, les avertissements, les suspensions et les périodes de modération des utilisateurs. Cette tâche s’exécute toutes les demi-heures.]]></description>
 		<file>usercleanup</file>
 		<minute>30,59</minute>
 		<hour>*</hour>
@@ -38,7 +38,7 @@
 	</task>
 	<task>
 		<title>Sauvegarde hebdomadaire</title>
-		<description><![CDATA[Sauvegarde automatiquement les tables de la base de données dans le répertoire de sauvegarde. Cette tâche s’exécute toutes les semaines.]]></description>
+		<description><![CDATA[Sauvegarde automatiquement la base de données dans le répertoire de sauvegarde. Cette tâche s’exécute toutes les semaines.]]></description>
 		<file>backupdb</file>
 		<minute>0</minute>
 		<hour>0</hour>
@@ -49,7 +49,7 @@
 		<logging>1</logging>
 	</task>
 	<task>
-		<title>Système de promotion</title>
+		<title>Promotions des utilisateurs</title>
 		<description><![CDATA[Exécute automatiquement le système de promotion de groupe. Cette tâche s’exécute toutes les vingt minutes.]]></description>
 		<file>promotions</file>
 		<minute>5,25,45</minute>
@@ -61,7 +61,7 @@
 		<logging>1</logging>
 	</task>
 	<task>
-		<title>Vues des sujets</title>
+		<title>Mise à jour des vues des sujets</title>
 		<description><![CDATA[Met automatiquement à jour le nombre de vues des sujets. Cette tâche sera automatiquement activée ou désactivée lors de la modification du paramètre « Vues différées des sujets ». Cette tâche s’exécute toutes les quinze minutes.]]></description>
 		<file>threadviews</file>
 		<minute>10,25,40,55</minute>
@@ -97,7 +97,7 @@
 		<logging>1</logging>
 	</task>
 	<task>
-		<title>Envoi des courriels groupés</title>
+		<title>Traitement des courriels groupés</title>
 		<description><![CDATA[Envoie automatiquement les courriels groupés en attente. Cette tâche s’exécute toutes les quinze minutes.]]></description>
 		<file>massmail</file>
 		<minute>10,25,40,55</minute>
@@ -110,7 +110,7 @@
 	</task>
 	<task>
 		<title>Purge des utilisateurs</title>
-		<description><![CDATA[Supprime automatiquement les utilisateurs selon les critères définis dans les paramètres. Cette tâche s’exécute tous les jours.]]></description>
+		<description><![CDATA[Supprime automatiquement les utilisateurs selon les critères définis dans les paramètres du forum. Cette tâche s’exécute tous les jours.]]></description>
 		<file>userpruning</file>
 		<minute>0</minute>
 		<hour>2</hour>
@@ -133,7 +133,7 @@
 		<logging>1</logging>
 	</task>
 	<task>
-		<title>Vérification de version</title>
+		<title>Vérification de la version</title>
 		<description><![CDATA[Recherche automatiquement les dernières annonces et nouvelles versions de MyBB. Cette tâche s’exécute tous les jours.]]></description>
 		<file>versioncheck</file>
 		<minute>0</minute>
@@ -157,7 +157,7 @@
         <logging>1</logging>
     </task>
     <task>
-        <title>Traitement de la file d’attente des courriels</title>
+        <title>Traitement des courriels</title>
         <description><![CDATA[Traite la file d’attente des courriels. Cette tâche s’exécute toutes les minutes.]]></description>
         <file>sendmailqueue</file>
         <minute>*</minute>
