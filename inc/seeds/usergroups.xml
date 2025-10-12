@@ -286,7 +286,7 @@
 		<gid><![CDATA[4]]></gid>
 		<type><![CDATA[1]]></type>
 		<title><![CDATA[Administrateurs]]></title>
-		<description><![CDATA[Groupe reprenant tous les administrateurs.]]></description>
+		<description><![CDATA[Groupe reprenant les administrateurs du forum.]]></description>
 		<namestyle><![CDATA[<span style="color: green;"><strong><em>{username}</em></strong></span>]]></namestyle>
 		<usertitle><![CDATA[Administrateur]]></usertitle>
 		<stars><![CDATA[7]]></stars>
