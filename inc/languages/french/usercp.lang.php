@@ -18,14 +18,14 @@ $l['nav_forumsubscriptions'] = "Forums suivis";
 $l['nav_editsig'] = "Signature";
 $l['nav_avatar'] = "Avatar";
 $l['nav_notepad'] = "Bloc-notes personnel";
+$l['nav_usergroups'] = "Vos groupes";
+$l['nav_addsubscription'] = "Ajouter un abonnement";
+$l['nav_groups'] = "Groupes";
 $l['nav_editlists'] = "Amis et ignorés";
 $l['nav_drafts'] = "Brouillons";
-$l['nav_usergroups'] = "Vos groupes";
 $l['nav_attachments'] = "Gestionnaire de pièces jointes";
 $l['nav_subscriptions'] = "Abonnements";
-$l['nav_addsubscription'] = "Ajouter un abonnement";
 $l['nav_removesubscription'] = "Se désabonner";
-$l['nav_groups'] = "Groupes";
 $l['nav_securitylog'] = "Journal de sécurité";
 
 $l['resend_activation'] = "Renvoyer le courriel d’activation";
