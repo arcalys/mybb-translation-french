@@ -131,9 +131,9 @@ $l['admin_log_config_spiders_add'] = "Ajout du robot #{1} ({2})";
 $l['admin_log_config_spiders_edit'] = "Modification du robot #{1} ({2})";
 $l['admin_log_config_spiders_delete'] = "Suppression du robot #{1} ({2})";
 
-$l['admin_log_config_thread_prefixes_add_prefix'] = 'Ajout du préfixe de sujet #{1} ({2})';
-$l['admin_log_config_thread_prefixes_edit_prefix'] = 'Modification du préfixe de sujet #{1} ({2})';
-$l['admin_log_config_thread_prefixes_delete_prefix'] = 'Suppression du préfixe de sujet #{1} ({2})';
+$l['admin_log_config_thread_prefixes_add_prefix'] = "Ajout du préfixe de sujet #{1} ({2})";
+$l['admin_log_config_thread_prefixes_edit_prefix'] = "Modification du préfixe de sujet #{1} ({2})";
+$l['admin_log_config_thread_prefixes_delete_prefix'] = "Suppression du préfixe de sujet #{1} ({2})";
 
 $l['admin_log_config_warning_add_level'] = "Ajout du niveau d’avertissement #{1} a {2}%";
 $l['admin_log_config_warning_edit_level'] = "Modification du niveau d’avertissement #{1} a {2}%";

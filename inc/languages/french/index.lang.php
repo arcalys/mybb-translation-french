@@ -38,4 +38,4 @@ $l['online_guest_plural'] = "invités";
 $l['online_guest_singular'] = "invité";
 $l['online_note'] = "{1} {2} actif dans les dernières {3} minutes : {4} {5} dont {6} {7} invisible(s) et {8} {9}.";
 $l['subforums'] = "Sous-forums :";
-$l['board_stats_link_separator'] = ' | ';
+$l['board_stats_link_separator'] = " | ";

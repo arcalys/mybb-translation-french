@@ -32,17 +32,17 @@ $l['rtl'] = "S’écrit de droite à gauche ?";
 $l['support_link'] = "Lien du site de support";
 $l['support_name'] = "Nom du site de support";
 
-$l['quickphrases_agreement'] = 'Conditions d’inscription — Titre';
-$l['quickphrases_agreement_1'] = 'Conditions d’inscription — Paragraphe 1';
-$l['quickphrases_agreement_2'] = 'Conditions d’inscription — Paragraphe 2';
-$l['quickphrases_agreement_3'] = 'Conditions d’inscription — Paragraphe 3';
-$l['quickphrases_agreement_4'] = 'Conditions d’inscription — Paragraphe 4';
-$l['quickphrases_agreement_5'] = 'Conditions d’inscription — Paragraphe 5';
+$l['quickphrases_agreement'] = "Conditions d’inscription — Titre";
+$l['quickphrases_agreement_1'] = "Conditions d’inscription — Paragraphe 1";
+$l['quickphrases_agreement_2'] = "Conditions d’inscription — Paragraphe 2";
+$l['quickphrases_agreement_3'] = "Conditions d’inscription — Paragraphe 3";
+$l['quickphrases_agreement_4'] = "Conditions d’inscription — Paragraphe 4";
+$l['quickphrases_agreement_5'] = "Conditions d’inscription — Paragraphe 5";
 
-$l['quickphrases_error_nopermission_guest_1'] = 'Message d’absence d’autorisation — Paragraphe 1';
-$l['quickphrases_error_nopermission_guest_2'] = 'Message d’absence d’autorisation — Paragraphe 2';
-$l['quickphrases_error_nopermission_guest_3'] = 'Message d’absence d’autorisation — Paragraphe 3';
-$l['quickphrases_error_nopermission_guest_4'] = 'Message d’absence d’autorisation — Paragraphe 4';
+$l['quickphrases_error_nopermission_guest_1'] = "Message d’absence d’autorisation — Paragraphe 1";
+$l['quickphrases_error_nopermission_guest_2'] = "Message d’absence d’autorisation — Paragraphe 2";
+$l['quickphrases_error_nopermission_guest_3'] = "Message d’absence d’autorisation — Paragraphe 3";
+$l['quickphrases_error_nopermission_guest_4'] = "Message d’absence d’autorisation — Paragraphe 4";
 
 $l['no_languages'] = "Il n’y a actuellement aucune langue installée sur votre forum.";
 $l['no_language_files_front_end'] = "Il n’y a aucun fichier de langue pour l’interface utilisateur.";

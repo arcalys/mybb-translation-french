@@ -11,7 +11,7 @@ $l['redirect_width'] = "50%";
 $l['lastvisit_never'] = "Jamais";
 $l['lastvisit_hidden'] = "(Masqué)";
 
-$l['search_button'] = 'Rechercher';
+$l['search_button'] = "Rechercher";
 $l['toplinks_memberlist'] = "Liste des membres";
 $l['toplinks_search'] = "Rechercher";
 $l['toplinks_calendar'] = "Calendrier";
@@ -300,23 +300,23 @@ $l['postbit_thread_unapproved'] = "Ce sujet est en attente d’approbation";
 $l['postbit_deleted_post_user'] = "Ce message écrit par {1} a été supprimé";
 $l['postbit_post_options'] = "Options";
 
-$l['postbit_button_reputation_add'] = 'Évaluer';
-$l['postbit_button_website'] = 'Site web';
-$l['postbit_button_email'] = 'Courriel';
-$l['postbit_button_find'] = 'Chercher';
-$l['postbit_button_report'] = 'Signaler ce message';
-$l['postbit_button_quote'] = 'Répondre';
-$l['postbit_button_qdelete'] = 'Supprimer';
-$l['postbit_button_qrestore'] = 'Restaurer';
-$l['postbit_button_profile'] = 'Profil';
-$l['postbit_button_pm'] = 'Message privé';
-$l['postbit_button_warn'] = 'Avertir cet utilisateur';
-$l['postbit_button_edit'] = 'Modifier';
-$l['postbit_button_multiquote'] = 'Citer';
-$l['postbit_button_reply_pm'] = 'Répondre';
-$l['postbit_button_reply_all'] = 'Répondre à tous';
-$l['postbit_button_forward'] = 'Transférer';
-$l['postbit_button_delete_pm'] = 'Supprimer';
+$l['postbit_button_reputation_add'] = "Évaluer";
+$l['postbit_button_website'] = "Site web";
+$l['postbit_button_email'] = "Courriel";
+$l['postbit_button_find'] = "Chercher";
+$l['postbit_button_report'] = "Signaler ce message";
+$l['postbit_button_quote'] = "Répondre";
+$l['postbit_button_qdelete'] = "Supprimer";
+$l['postbit_button_qrestore'] = "Restaurer";
+$l['postbit_button_profile'] = "Profil";
+$l['postbit_button_pm'] = "Message privé";
+$l['postbit_button_warn'] = "Avertir cet utilisateur";
+$l['postbit_button_edit'] = "Modifier";
+$l['postbit_button_multiquote'] = "Citer";
+$l['postbit_button_reply_pm'] = "Répondre";
+$l['postbit_button_reply_all'] = "Répondre à tous";
+$l['postbit_button_forward'] = "Transférer";
+$l['postbit_button_delete_pm'] = "Supprimer";
 $l['postbit_button_purgespammer'] = "Purger l’utilisateur";
 
 $l['forumjump'] = "Aller au forum :";
@@ -455,8 +455,8 @@ $l['error_database_repair'] = "MyBB répare automatiquement une table endommagé
 $l['unknown_user_trigger'] = "Une erreur inconnue a été rencontrée.";
 $l['warnings'] = "Les problèmes suivants sont survenus :";
 
-$l['boardclosed'] = 'Temporairement indisponible';
-$l['boardclosed_reason'] = 'Ce forum est actuellement fermé pour maintenance. Veuillez réessayer plus tard.';
+$l['boardclosed'] = "Temporairement indisponible";
+$l['boardclosed_reason'] = "Ce forum est actuellement fermé pour maintenance. Veuillez réessayer plus tard.";
 
 $l['ajax_loading'] = "Chargement. <br />Veuillez patienter…";
 $l['saving_changes'] = "Enregistrement des modifications…";
@@ -617,12 +617,12 @@ $l['stopforumspam_error_retrieving'] = "Erreur lors de la récupération des don
 $l['stopforumspam_invalid_email'] = "Adresse électronique invalide lors de la vérification avec l’API de StopForumSpam.com.";
 $l['stopforumspam_invalid_ip_address'] = "Adresse IP invalide lors de la vérification avec l’API de StopForumSpam.com.";
 
-$l['sfs_error_username'] = 'nom d’utilisateur';
-$l['sfs_error_ip'] = 'adresse IP';
-$l['sfs_error_email'] = 'adresse électronique';
-$l['sfs_error_or'] = 'ou';
+$l['sfs_error_username'] = "nom d’utilisateur";
+$l['sfs_error_ip'] = "adresse IP";
+$l['sfs_error_email'] = "adresse électronique";
+$l['sfs_error_or'] = "ou";
 
-$l['expcol_collapse'] = '[-]';
-$l['expcol_expand'] = '[+]';
+$l['expcol_collapse'] = "[-]";
+$l['expcol_expand'] = "[+]";
 
 $l['use_default'] = "Utiliser la valeur par défaut";

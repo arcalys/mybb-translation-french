@@ -203,4 +203,4 @@ $l['confirm_theme_deletion'] = "Êtes-vous sûr de vouloir supprimer ce thème 
 $l['confirm_stylesheet_deletion'] = "Êtes-vous sûr de vouloir supprimer/restaurer cette feuille de style ?";
 $l['confirm_theme_forced'] = "Êtes-vous sûr de vouloir forcer ce thème pour tous les utilisateurs ? Cela peut réinitialiser les accès au thème.";
 
-$l['saving'] = 'Enregistrement…';
+$l['saving'] = "Enregistrement…";

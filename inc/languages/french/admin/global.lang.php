@@ -141,8 +141,8 @@ $l['alt_enabled'] = "Activé";
 $l['alt_disabled'] = "Désactivé";
 $l['enable'] = "Activer";
 $l['disable'] = "Désactiver";
-$l['saved'] = 'Enregistré';
-$l['guest'] = 'Invité';
+$l['saved'] = "Enregistré";
+$l['guest'] = "Invité";
 
 $l['rel_in'] = "Dans ";
 $l['rel_ago'] = "Il y a";

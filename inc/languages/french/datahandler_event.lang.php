@@ -6,8 +6,8 @@
  *
  */
 
-$l['eventdata_missing_name'] = 'Veuillez saisir un nom pour l’événement.';
-$l['eventdata_missing_description'] = 'Veuillez saisir une description pour l’événement.';
+$l['eventdata_missing_name'] = "Veuillez saisir un nom pour l’événement.";
+$l['eventdata_missing_description'] = "Veuillez saisir une description pour l’événement.";
 
 $l['eventdata_invalid_start_date'] = "La date de début de l’événement que vous avez saisie est invalide. Vous devez indiquer le jour, le mois et l’année, et vérifier que le jour saisi est valide pour le mois concerné.";
 $l['eventdata_invalid_start_year'] = "Les événements ne peuvent être créés que dans les 5 prochaines années. Veuillez sélectionner une année de début raisonnable dans la liste.";

@@ -94,27 +94,27 @@ $l['error_cannot_edit_php'] = "Il s’agit d’un type de paramètre spécial qu
 $l['error_ajax_search'] = "Un problème est survenu lors de la recherche des paramètres :";
 $l['error_ajax_unknown'] = "Une erreur inconnue s’est produite lors de la recherche des paramètres.";
 $l['error_chmod_settings_file'] = "Le fichier de configuration « ./inc/settings.php » n’est pas accessible en écriture. Veuillez ajuster ses permissions (CHMOD à 666).<br />Pour plus d’informations sur le CHMOD, consultez la <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">documentation officielle</a>.";
-$l['error_admin_email_settings_empty'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que l’<strong>adresse électronique de l’administrateur</strong> n’a pas été enregistrée car ce champ doit contenir une adresse électronique valide.</div>';
+$l['error_admin_email_settings_empty'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que l’<strong>adresse électronique de l’administrateur</strong> n’a pas été enregistrée car ce champ doit contenir une adresse électronique valide.</div>";
 
 $l['success_setting_added'] = "Le paramètre a bien été créé.";
 $l['success_setting_updated'] = "Le paramètre a bien été mis à jour.";
 $l['success_setting_deleted'] = "Le paramètre a bien été supprimé.";
 $l['success_settings_updated'] = "Les paramètres ont bien été mis à jour.";
-$l['success_settings_updated_hiddencaptchaimage'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que le paramètre <strong>Champ CAPTCHA caché</strong> a été rétabli à <strong>{1}</strong> en raison d’un conflit avec le champ <strong>{2}</strong> dans le formulaire d’inscription.</div>';
-$l['success_settings_updated_username_method_conflict'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que le paramètre <strong>Méthodes de connexion autorisées</strong> n’a pas été mis à jour car l’enregistrement multiple d’une même adresse électronique est actuellement autorisé.</div>';
-$l['success_settings_updated_username_method'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que le paramètre <strong>Méthodes de connexion autorisées</strong> n’a pas été mis à jour, car plusieurs utilisateurs utilisent actuellement la même adresse électronique.</div>';
-$l['success_settings_updated_allowmultipleemails'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que le paramètre <strong>Autoriser l’enregistrement multiple d’une même adresse électronique ?</strong> ne peut pas être activé car le paramètre <strong>Méthodes de connexion autorisées</strong> permet la connexion via l’adresse électronique.</div>';
-$l['success_settings_updated_captchaimage'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que le paramètre <strong>Images CAPTCHA pour l’inscription et la publication</strong> a été rétabli à <strong>CAPTCHA par défaut de MyBB</strong> en raison de l’absence de clé(s) publique(s)/privée(s).</div>';
-$l['success_settings_updated_minsearchword'] = '<div class="smalltext" style="font-weight: normal;">Veuillez noter que le paramètre <strong>Longueur minimale des termes de recherche</strong> a été ajusté pour correspondre à la configuration du système de base de données.</div>';
+$l['success_settings_updated_hiddencaptchaimage'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que le paramètre <strong>Champ CAPTCHA caché</strong> a été rétabli à <strong>{1}</strong> en raison d’un conflit avec le champ <strong>{2}</strong> dans le formulaire d’inscription.</div>";
+$l['success_settings_updated_username_method_conflict'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que le paramètre <strong>Méthodes de connexion autorisées</strong> n’a pas été mis à jour car l’enregistrement multiple d’une même adresse électronique est actuellement autorisé.</div>";
+$l['success_settings_updated_username_method'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que le paramètre <strong>Méthodes de connexion autorisées</strong> n’a pas été mis à jour, car plusieurs utilisateurs utilisent actuellement la même adresse électronique.</div>";
+$l['success_settings_updated_allowmultipleemails'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que le paramètre <strong>Autoriser l’enregistrement multiple d’une même adresse électronique ?</strong> ne peut pas être activé car le paramètre <strong>Méthodes de connexion autorisées</strong> permet la connexion via l’adresse électronique.</div>";
+$l['success_settings_updated_captchaimage'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que le paramètre <strong>Images CAPTCHA pour l’inscription et la publication</strong> a été rétabli à <strong>CAPTCHA par défaut de MyBB</strong> en raison de l’absence de clé(s) publique(s)/privée(s).</div>";
+$l['success_settings_updated_minsearchword'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que le paramètre <strong>Longueur minimale des termes de recherche</strong> a été ajusté pour correspondre à la configuration du système de base de données.</div>";
 $l['success_display_orders_updated'] = "L’ordre d’affichage des paramètres a bien été mis à jour.";
 $l['success_setting_group_added'] = "Le groupe de paramètres a bien été créé.";
 $l['success_setting_group_updated'] = "Le groupe de paramètres a bien été mis à jour.";
 $l['success_setting_group_deleted'] = "Le groupe de paramètres a bien été supprimé.";
 $l['success_duplicate_settings_deleted'] = "Tous les groupes de paramètres en double ont bien été supprimés.";
 
-$l['searching'] = 'Recherche en cours…';
-$l['search_error'] = 'Une erreur s’est produite lors de la récupération des résultats de recherche :';
-$l['search_done'] = 'Terminé !';
+$l['searching'] = "Recherche en cours…";
+$l['search_error'] = "Une erreur s’est produite lors de la récupération des résultats de recherche :";
+$l['search_done'] = "Terminé !";
 
 // --- Settings groups translations ---
 $l['setting_group_onlineoffline'] = "Options de disponibilité du forum";

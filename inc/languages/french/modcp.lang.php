@@ -327,7 +327,7 @@ $l['announcement_added'] = "Annonce ajoutée";
 $l['announcement_edited'] = "Annonce modifiée";
 $l['announcement_deleted'] = "Annonce supprimée";
 
-$l['preview'] = 'Prévisualiser';
+$l['preview'] = "Prévisualiser";
 
 $l['you_cannot_view_mod_logs'] = "Vous n’avez pas la permission de consulter les journaux de modération.";
 $l['you_cannot_view_reported_posts'] = "Vous n’avez pas la permission de consulter les messages signalés.";
@@ -337,4 +337,4 @@ $l['you_cannot_moderate_posts'] = "Vous n’avez pas la permission de modérer l
 $l['you_cannot_moderate_attachments'] = "Vous n’avez pas la permission de modérer les pièces jointes.";
 $l['you_cannot_use_mod_queue'] = "Vous n’avez pas la permission d’utiliser la file de modération.";
 
-$l['post'] = 'Message';
+$l['post'] = "Message";

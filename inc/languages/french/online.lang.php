@@ -38,7 +38,7 @@ $l['viewing_whoposted'] = "Consultation des contributeurs";
 $l['viewing_whoposted2'] = "Consultation des contributeurs dans le sujet <a href=\"{1}\">{2}</a>";
 $l['marking_read'] = "<a href=\"misc.php?action=markread&amp;my_post_key={1}\">Marquer les forums comme lus</a>";
 $l['viewing_helpdocs'] = "Consultation des <a href=\"misc.php?action=help\">documents d’aide</a>";
-$l['viewing_buddylist'] = 'Consultation de la <a href="#" onclick="MyBB.popupWindow(\'/misc.php?action=buddypopup&amp;modal=1\'); return false;">liste d’amis</a>';
+$l['viewing_buddylist'] = "Consultation de la <a href=\"#\" onclick=\"MyBB.popupWindow('/misc.php?action=buddypopup&amp;modal=1'); return false;\">liste d’amis</a>";
 $l['viewing_smilies'] = "Consultation de la <a href=\"misc.php?action=smilies\">liste des émoticônes</a>";
 $l['viewing_syndication'] = "Consultation de la <a href=\"misc.php?action=syndication\">page RSS</a>";
 $l['replying_thread'] = "Réponse à un sujet";
@@ -67,7 +67,7 @@ $l['updating_options'] = "<a href=\"usercp.php?action=options\">Mise à jour des
 $l['editing_signature'] = "<a href=\"usercp.php?action=editsig\">Modification de la signature</a>";
 $l['changing_avatar'] = "<a href=\"usercp.php?action=avatar\">Modification de l’avatar</a>";
 $l['viewing_subscriptions'] = "Consultation des <a href=\"usercp.php?action=subscriptions\">sujets suivis</a>";
-$l['editing_pad'] = 'Modification du <a href="usercp.php">carnet personnel</a>';
+$l['editing_pad'] = "Modification du <a href=\"usercp.php\">carnet personnel</a>";
 $l['editing_password'] = "Modification du <a href=\"usercp.php?action=password\">mot de passe</a>";
 $l['user_cp'] = "Consultation du <a href=\"usercp.php\">panneau de contrôle de l’utilisateur</a>";
 $l['viewing_portal'] = "Consultation du <a href=\"portal.php\">portail</a>";

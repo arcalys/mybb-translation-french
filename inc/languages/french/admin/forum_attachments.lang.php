@@ -31,7 +31,7 @@ $l['error_does_not_exist'] = "Le sujet ou le message correspondant à cette piè
 // Success
 $l['success_deleted'] = "Les pièces jointes sélectionnées ont bien été supprimées.";
 $l['success_orphan_deleted'] = "Les pièces jointes orphelines sélectionnées ont bien été supprimées.";
-$l['success_count'] = '{1} pièce(s) jointe(s) supprimée(s) avec succès.';
+$l['success_count'] = "{1} pièce(s) jointe(s) supprimée(s) avec succès.";
 $l['success_no_orphans'] = "Il n’y a aucune pièce jointe orpheline sur votre forum.";
 
 // Confirm
@@ -73,7 +73,7 @@ $l['step2of2'] = "Étape 2 sur 2 - Analyse de la base de données";
 $l['step1of2_line1'] = "Veuillez patienter, le système de fichiers est en cours d’analyse afin de détecter les pièces jointes orphelines.";
 $l['step2of2_line1'] = "Veuillez patienter, la base de données est en cours d’analyse afin de détecter les pièces jointes orphelines.";
 $l['step_line2'] = "Vous serez automatiquement redirigé vers l’étape suivante une fois ce processus terminé.";
-$l['scanning'] = 'Analyse en cours…';
+$l['scanning'] = "Analyse en cours…";
 
 // = Attachments / Index
 $l['index_find_attachments'] = "Rechercher des pièces jointes";
