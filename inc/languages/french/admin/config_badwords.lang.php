@@ -36,4 +36,4 @@ $l['success_added_bad_word'] = "Le filtre a bien été ajouté.";
 $l['success_deleted_bad_word'] = "Le filtre a bien été supprimé.";
 $l['success_updated_bad_word'] = "Le filtre a bien été mis à jour.";
 
-$l['confirm_bad_word_deletion'] = "Êtes-vous sûr de vouloir supprimer ce filtre ?";
+$l['confirm_bad_word_deletion'] = "Êtes-vous sûr de vouloir supprimer ce filtre ?";

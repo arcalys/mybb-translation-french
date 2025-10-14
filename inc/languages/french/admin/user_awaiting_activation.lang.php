@@ -27,8 +27,8 @@ $l['admin_activation_coppa'] = "En attente d’activation par un administrateur 
 $l['activate_users'] = "Activer les utilisateurs";
 $l['delete_users'] = "Supprimer les utilisateurs";
 
-$l['confirm_activate_users'] = "Êtes-vous sûr de vouloir activer les utilisateurs sélectionnés ?";
-$l['confirm_delete_users'] = "Êtes-vous sûr de vouloir supprimer les utilisateurs sélectionnés ?";
+$l['confirm_activate_users'] = "Êtes-vous sûr de vouloir activer les utilisateurs sélectionnés ?";
+$l['confirm_delete_users'] = "Êtes-vous sûr de vouloir supprimer les utilisateurs sélectionnés ?";
 
 $l['no_users_selected'] = "Vous n'avez sélectionné aucun utilisateur.";
 

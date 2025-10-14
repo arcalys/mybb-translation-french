@@ -40,4 +40,4 @@ $l['success_question_disabled'] = "La question a bien été désactivée.";
 $l['success_question_enabled'] = "La question a bien été activée.";
 $l['success_question_deleted'] = "La question a bien été supprimée.";
 
-$l['confirm_question_deletion'] = "Êtes-vous sûr de vouloir supprimer cette question ?";
+$l['confirm_question_deletion'] = "Êtes-vous sûr de vouloir supprimer cette question ?";

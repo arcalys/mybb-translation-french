@@ -43,9 +43,9 @@ $l['colors_please_select'] = "Aucune";
 $l['colors_add_edit_desc'] = "Sélectionnez une couleur pour attacher cette feuille de style. Vous pouvez en sélectionner plusieurs.";
 $l['colors_specific_color'] = "Couleur spécifique";
 
-$l['include_custom_only'] = "Inclure uniquement les éléments personnalisés ?";
+$l['include_custom_only'] = "Inclure uniquement les éléments personnalisés ?";
 $l['include_custom_only_desc'] = "Sélectionnez « Oui » pour inclure uniquement les éléments personnalisés (feuilles de style, etc.). Sinon, les éléments hérités des thèmes parents seront également inclus.";
-$l['include_templates'] = "Inclure les templates dans l’exportation ?";
+$l['include_templates'] = "Inclure les templates dans l’exportation ?";
 $l['include_templates_desc'] = "Sélectionnez « Oui » pour inclure les templates personnalisés utilisés par ce thème.";
 
 $l['edit_stylesheet'] = "Modifier la feuille de style";

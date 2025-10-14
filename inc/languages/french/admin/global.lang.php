@@ -46,7 +46,7 @@ $l['username2'] = "Nom d’utilisateur/Adresse électronique :";
 $l['password'] = "Mot de passe:";
 $l['secret_pin'] = "Code PIN :";
 $l['login'] = "Connexion";
-$l['lost_password'] = "Mot de passe oublié ?";
+$l['lost_password'] = "Mot de passe oublié ?";
 
 $l['error_invalid_admin_session'] = "Session d’administration invalide.";
 $l['error_admin_session_expired'] = "Votre session d’administration a expiré.";

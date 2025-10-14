@@ -41,16 +41,16 @@ $l['success_attachment_type_created'] = "Le type de pièce jointe a bien été c
 $l['success_attachment_type_updated'] = "Le type de pièce jointe a bien été mis à jour.";
 $l['success_attachment_type_deleted'] = "Le type de pièce jointe a bien été supprimé.";
 
-$l['confirm_attachment_type_deletion'] = "Êtes-vous sûr de vouloir supprimer ce type de pièce jointe ?";
+$l['confirm_attachment_type_deletion'] = "Êtes-vous sûr de vouloir supprimer ce type de pièce jointe ?";
 
 $l['success_activated_attachment_type'] = "Le type de pièce jointe sélectionné a bien été activé.";
 $l['success_deactivated_attachment_type'] = "Le type de pièce jointe sélectionné a bien été désactivé.";
 
-$l['enabled'] = "Activé ?";
+$l['enabled'] = "Activé ?";
 $l['forcedownload'] = "Forcer le téléchargement";
 $l['forcedownload_desc'] = "Si cette option est activée, les pièces jointes de ce type seront toujours téléchargées plutôt qu’affichées.";
 $l['avatar_file'] = "Avatar";
-$l['avatar_file_desc'] = "Voulez-vous autoriser l’utilisation de ce type de pièce jointe pour les avatars ?";
+$l['avatar_file_desc'] = "Voulez-vous autoriser l’utilisation de ce type de pièce jointe pour les avatars ?";
 
 $l['available_to_groups'] = "Disponibilité pour les groupes";
 $l['available_in_forums'] = "Disponibilité dans les forums";
