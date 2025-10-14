@@ -7,7 +7,7 @@
  */
 
 $l['themes'] = "Thèmes";
-$l['themes_desc'] = "Cette page vous permet gérer les thèmes configurés sur votre forum. Les thèmes permettent de personnaliser l'apparence de votre forum. La liste des thèmes actuellement configurés est affichée ci-dessous.";
+$l['themes_desc'] = "Cette page vous permet gérer les thèmes disponibles sur votre forum. Ces différents thèmes permettent de personnaliser l'apparence de votre forum.";
 
 $l['create_new_theme'] = "Créer un nouveau thème";
 $l['create_new_theme_desc'] = "Cette page vous permet de créer un nouveau thème basé sur un thème existant. <strong>Les ensembles de templates, les feuilles de style et les autres paramètres sont hérités du thème parent.</strong>";
@@ -30,7 +30,7 @@ $l['export_theme'] = "Exporter un thème";
 $l['export_theme_desc'] = "Cette page vous permet d’exporter vos thèmes et templates personnalisés. L'export de thèmes est utile si vous souhaitez les partager ou les importer sur un autre forum.";
 
 $l['duplicate_theme'] = "Dupliquer un thème";
-$l['duplicate_theme_desc'] = "Cette page vous permet de dupliquer vos thèmes. Cela est utile si vous souhaitez développer une autre version du thème.";
+$l['duplicate_theme_desc'] = "Cette page vous permet de dupliquer vos thèmes et d’en créer des versions alternatives.";
 
 $l['colors_manage'] = "Gérer les couleurs";
 $l['colors_attached_to'] = "paramètre de couleur";
@@ -43,10 +43,10 @@ $l['colors_please_select'] = "Aucune";
 $l['colors_add_edit_desc'] = "Sélectionnez une couleur pour attacher cette feuille de style. Vous pouvez en sélectionner plusieurs.";
 $l['colors_specific_color'] = "Couleur spécifique";
 
-$l['include_custom_only'] = "Inclure uniquement les éléments personnalisés ?";
-$l['include_custom_only_desc'] = "Si vous souhaitez inclure les éléments (CSS et feuilles de style) hérités des thèmes parents, sélectionnez « Non ». Sinon, seuls les éléments personnalisés seront exportés.";
-$l['include_templates'] = "Inclure également les templates dans l'export ?";
-$l['include_templates_desc'] = "Si vous souhaitez exporter également les templates personnalisés utilisés par ce thème, sélectionnez « Oui ».";
+$l['include_custom_only'] = "Inclure uniquement les éléments personnalisés ?";
+$l['include_custom_only_desc'] = "Sélectionnez « Oui » pour inclure uniquement les éléments personnalisés (feuilles de style, etc.). Sinon, les éléments hérités des thèmes parents seront également inclus.";
+$l['include_templates'] = "Inclure les templates dans l’exportation ?";
+$l['include_templates_desc'] = "Sélectionnez « Oui » pour inclure les templates personnalisés utilisés par ce thème.";
 
 $l['edit_stylesheet'] = "Modifier la feuille de style";
 $l['edit_stylesheet_desc'] = "Cette page vous permet de modifier cette feuille de style. Le contenu CSS est affiché dans la zone de texte ci-dessous.";
@@ -66,8 +66,8 @@ $l['import_from'] = "Importer depuis";
 $l['import_from_desc'] = "Sélectionnez un fichier à importer. Vous pouvez importer le thème depuis votre ordinateur ou depuis une adresse. Utilisez uniquement des thèmes provenant de <strong>sources sûres et fiables</strong>.";
 $l['parent_theme'] = "Thème parent";
 $l['parent_theme_desc'] = "Sélectionnez le thème dont ce thème héritera.";
-$l['new_name'] = "Nouveau nom";
-$l['new_name_desc'] = "Un nouveau nom pour le thème importé. Si laissé vide, le nom du fichier sera utilisé.";
+$l['new_name'] = "Nom";
+$l['new_name_desc'] = "Saisissez un nom pour le thème qui sera importé. Si ce champ est vide, le nom du fichier sera utilisé.";
 $l['advanced_options'] = "Options avancées";
 $l['ignore_version_compatibility'] = "Ignorer la compatibilité de version";
 $l['ignore_version_compat_desc'] = "Le thème doit-il être installé indépendamment de la version de MyBB pour laquelle il a été créé ?";
@@ -77,7 +77,7 @@ $l['import_templates'] = "Importer les templates";
 $l['import_templates_desc'] = "Si ce thème contient des templates personnalisés, doivent-ils être importés ?";
 $l['import_theme'] = "Importer le thème";
 
-$l['new_name_duplicate_desc'] = "Un nouveau nom pour le thème dupliqué.";
+$l['new_name_duplicate_desc'] = "Saisissez un nom pour le thème une fois dupliqué.";
 $l['duplicate_stylesheets'] = "Dupliquer les feuilles de style";
 $l['duplicate_stylesheets_desc'] = "Si ce thème contient des feuilles de style personnalisées, doivent-elles être dupliquées ?";
 $l['duplicate_templates'] = "Dupliquer les templates";
@@ -162,26 +162,26 @@ $l['error_theme_already_exists'] = "Un thème portant ce nom existe déjà. Veui
 $l['error_theme_security_problem'] = "Un problème de sécurité potentiel a été détecté dans le thème et il n’a pas été importé. Contactez l’auteur ou MyBB.";
 
 $l['error_local_file'] = "Impossible d’ouvrir le fichier local. Existe-t-il ? Vérifiez et réessayez.";
-$l['error_uploadfailed'] = "Le téléchargement a échoué. Veuillez réessayer.";
-$l['error_uploadfailed_detail'] = "Détails de l’erreur : ";
-$l['error_uploadfailed_php1'] = "PHP a retourné : Le fichier téléchargé dépasse la directive upload_max_filesize dans php.ini. Contactez votre administrateur forum.";
-$l['error_uploadfailed_php2'] = "Le fichier téléchargé dépasse la taille maximale autorisée.";
-$l['error_uploadfailed_php3'] = "Le fichier téléchargé n’a été que partiellement envoyé.";
-$l['error_uploadfailed_php4'] = "Aucun fichier n’a été téléchargé.";
-$l['error_uploadfailed_php6'] = "PHP a retourné : Dossier temporaire manquant. Contactez votre administrateur forum.";
-$l['error_uploadfailed_php7'] = "PHP a retourné : Échec de l’écriture du fichier sur le disque. Contactez votre administrateur forum.";
-$l['error_uploadfailed_phpx'] = "PHP a retourné le code d’erreur : {1}. Contactez votre administrateur forum.";
+$l['error_uploadfailed'] = "Le chargement du fichier a échoué. Veuillez réessayer.";
+$l['error_uploadfailed_detail'] = "Détails de l’erreur : ";
+$l['error_uploadfailed_php1'] = "Erreur PHP : Le fichier charge dépasse la directive upload_max_filesize dans php.ini. Contactez l’administrateur du forum.";
+$l['error_uploadfailed_php2'] = "Le fichier chargé dépasse la taille maximale autorisée.";
+$l['error_uploadfailed_php3'] = "Le fichier chargé n’a été que partiellement envoyé.";
+$l['error_uploadfailed_php4'] = "Aucun fichier n’a été référence ou chargé.";
+$l['error_uploadfailed_php6'] = "Erreur PHP : Dossier temporaire manquant. Contactez l’administrateur du forum.";
+$l['error_uploadfailed_php7'] = "Erreur PHP : Échec de l’écriture du fichier sur le disque. Contactez l’administrateur du forum.";
+$l['error_uploadfailed_phpx'] = "Erreur PHP : {1}. Contactez l’administrateur du forum.";
 $l['error_uploadfailed_lost'] = "Le fichier est introuvable sur le serveur.";
-$l['error_uploadfailed_nocontents'] = "MyBB n’a pas trouvé le thème dans le fichier téléchargé. Vérifiez que le fichier est correct et non corrompu.";
-$l['error_invalid_version'] = "Ce thème a été créé pour une autre version de MyBB. Cochez « Ignorer la compatibilité de version » pour ignorer cette erreur.";
+$l['error_uploadfailed_nocontents'] = "Aucun thème n’a été trouvé dans ce fichier. Vérifiez qu’il est correct et qu’il n’est pas corrompu.";
+$l['error_invalid_version'] = "Ce thème a été créé pour une autre version de MyBB. Cochez « Ignorer la compatibilité de version » pour ignorer cette erreur.";
 $l['error_missing_stylesheet_name'] = "Veuillez saisir un nom pour cette feuille de style.";
-$l['error_missing_stylesheet_extension'] = "Cette feuille de style doit se terminer par l’extension correcte, par exemple {1}<em>.css</em>";
+$l['error_missing_stylesheet_extension'] = "L’extension de cette feuille de style est incorrecte (elle devrait par exemple être {1}<em>.css</em>).";
 $l['error_invalid_parent_theme'] = "Le thème parent sélectionné n’existe pas. Veuillez choisir un thème parent valide.";
-$l['error_invalid_templateset'] = "L’ensemble de templates sélectionné n’existe pas. Veuillez en choisir un valide.";
-$l['error_invalid_color'] = "Le jeu de couleurs défini \"{1}\" contient des caractères invalides ou n’est pas au format requis. Seuls les chiffres, lettres Unicode et underscores sont autorisés pour le nom et la valeur séparée par '='.";
-$l['error_invalid_editortheme'] = "Le thème d’éditeur sélectionné n’existe pas. Veuillez en choisir un valide.";
-$l['error_inheriting_stylesheets'] = "Vous ne pouvez pas supprimer ce thème car d’autres thèmes héritent encore de ses feuilles de style.";
-$l['error_communication_problem'] = "Problème de communication avec le serveur de thèmes MyBB. Réessayez dans quelques minutes.";
+$l['error_invalid_templateset'] = "L’ensemble de templates sélectionné n’existe pas. Veuillez choisir un ensemble de templates valide.";
+$l['error_invalid_color'] = "Le jeu de couleurs « {1} » est invalide : seuls les chiffres, caractères unicode et tirets de soulignement sont autorisés dans le nom et la valeur (séparés par « = »).";
+$l['error_invalid_editortheme'] = "Le thème sélectionné pour l’éditeur n’existe pas. Veuillez choisir un thème valide.";
+$l['error_inheriting_stylesheets'] = "Vous ne pouvez pas supprimer ce thème car d’autres thèmes dépendent encore de ses feuilles de style.";
+$l['error_communication_problem'] = "Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer dans quelques minutes.";
 $l['error_no_results_found'] = "Aucun résultat trouvé pour les mots-clés saisis.";
 $l['error_no_color_picked'] = "Vous n’avez pas spécifié les couleurs auxquelles cette feuille doit être attachée.";
 $l['error_no_display_order'] = "Erreur lors de la récupération de l’ordre d’affichage des feuilles. Veuillez rafraîchir la page et réessayer.";
@@ -194,9 +194,9 @@ $l['success_stylesheet_properties_updated'] = "Les propriétés de la feuille de
 $l['success_stylesheet_updated'] = "La feuille de style sélectionnée a bien été mise à jour.";
 $l['success_stylesheet_deleted'] = "La feuille de style sélectionnée a bien été supprimée/restaurée.";
 $l['success_theme_set_default'] = "Le thème sélectionné est maintenant le thème par défaut du forum.";
-$l['success_theme_forced'] = "Tous les utilisateurs ont bien été forcés à utiliser le thème sélectionné.";
+$l['success_theme_forced'] = "Le thème sélectionné est maintenant le thème de tous les utilisateurs du forum.";
 $l['success_theme_properties_updated'] = "Les propriétés du thème sélectionné ont bien été mises à jour.";
-$l['success_stylesheet_added'] = "La feuille de style pour ce thème a bien été créée.";
+$l['success_stylesheet_added'] = "La feuille de style a bien été créée.";
 $l['success_stylesheet_order_updated'] = "L’ordre d’affichage des feuilles de style a bien été mis à jour.";
 
 $l['confirm_theme_deletion'] = "Êtes-vous sûr de vouloir supprimer ce thème ?";
