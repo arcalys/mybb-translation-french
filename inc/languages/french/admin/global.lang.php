@@ -239,7 +239,7 @@ $l['delete_selected'] = "Supprimer les entrées sélectionnées";
 $l['delete_all'] = "Supprimer toutes les entrées filtrées";
 
 // Misc
-$l['encountered_errors'] = "Les erreurs suivantes ont été rencontrées :";
+$l['encountered_errors'] = "Les erreurs suivantes ont été rencontrées :";
 $l['invalid_post_verify_key'] = "Un code d’autorisation ne correspond pas. Veuillez confirmer que vous souhaitez effectuer l’action ci-dessous.";
 $l['invalid_post_verify_key2'] = "Un code d’autorisation ne correspond pas. Veuillez vérifier que vous accédez correctement à cette page.";
 $l['unknown_error'] = "Une erreur inconnue s’est produite.";
@@ -359,7 +359,7 @@ Si le lien ci-dessus ne fonctionne pas correctement, rendez-vous sur :
 
 {4}/{5}/index.php?action=unlock
 
-Vous devrez saisir les informations suivantes :
+Vous devrez saisir les informations suivantes :
 Nom d’utilisateur : {1}
 Code d’activation : {6}
 

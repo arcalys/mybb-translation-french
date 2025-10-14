@@ -9,7 +9,7 @@
 $l['user_titles'] = "Titres";
 $l['user_titles_desc'] = "Cette section permet de gérer les titres des utilisateurs. Les titres sont attribués en fonction du nombre de messages publiés et peuvent également inclure une image personnalisée.";
 $l['add_new_user_title'] = "Ajouter un titre";
-$l['add_new_user_title_desc'] = "Cette page vous permet d’ajouter un nouveau titre. <em>Attention : il ne s’agit <strong>pas</strong> du <u><a href=\"index.php?module=user-group_promotions\">système de promotions</a></u>.</em>";
+$l['add_new_user_title_desc'] = "Cette page vous permet d’ajouter un nouveau titre. <em>Attention : il ne s’agit <strong>pas</strong> du <u><a href=\"index.php?module=user-group_promotions\">système de promotions</a></u>.</em>";
 
 $l['error_missing_title'] = "Veuillez saisir un nom pour ce titre.";
 $l['error_missing_posts'] = "Veuillez saisir le nombre minimum de messages pour ce titre.";

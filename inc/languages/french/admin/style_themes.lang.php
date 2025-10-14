@@ -178,7 +178,7 @@ $l['error_missing_stylesheet_name'] = "Veuillez saisir un nom pour cette feuille
 $l['error_missing_stylesheet_extension'] = "L’extension de cette feuille de style est incorrecte (elle devrait par exemple être {1}<em>.css</em>).";
 $l['error_invalid_parent_theme'] = "Le thème parent sélectionné n’existe pas. Veuillez choisir un thème parent valide.";
 $l['error_invalid_templateset'] = "L’ensemble de templates sélectionné n’existe pas. Veuillez choisir un ensemble de templates valide.";
-$l['error_invalid_color'] = "Le jeu de couleurs « {1} » est invalide : seuls les chiffres, caractères Unicode et tirets de soulignement sont autorisés dans le nom et la valeur (séparés par « = »).";
+$l['error_invalid_color'] = "Le jeu de couleurs « {1} » est invalide : seuls les chiffres, caractères Unicode et tirets de soulignement sont autorisés dans le nom et la valeur (séparés par « = »).";
 $l['error_invalid_editortheme'] = "Le thème sélectionné pour l’éditeur n’existe pas. Veuillez choisir un thème valide.";
 $l['error_inheriting_stylesheets'] = "Vous ne pouvez pas supprimer ce thème car d’autres thèmes dépendent encore de ses feuilles de style.";
 $l['error_communication_problem'] = "Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer dans quelques minutes.";

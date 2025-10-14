@@ -127,7 +127,7 @@ $l['success_view_deleted'] = "La vue sélectionnée a bien été supprimée.";
 
 $l['confirm_view_deletion'] = "Êtes-vous sûr de vouloir supprimer la vue sélectionnée ?";
 
-$l['warning_coppa_user'] = "<p class=\"alert\"><strong>Attention : </strong> Cet utilisateur attend une validation COPPA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}&amp;my_post_key={2}\">Activer le compte</a></p>";
+$l['warning_coppa_user'] = "<p class=\"alert\"><strong>Attention : </strong> Cet utilisateur attend une validation COPPA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}&amp;my_post_key={2}\">Activer le compte</a></p>";
 
 $l['required_profile_info'] = "Informations requises ";
 $l['password'] = "Mot de passe";
@@ -233,7 +233,7 @@ $l['editor_mode_wysiwyg'] = "Mode WYSIWYG";
 $l['theme'] = "Thème";
 $l['board_language'] = "Langue du forum";
 $l['other_options'] = "Autres options";
-$l['signature_desc'] = "Options de formatage : l’affichage des MyCodes est {1} — L’affichage des émoticônes est {2} — L’affichage des balises [img] est {3} — L’affichage du HTML est {4}";
+$l['signature_desc'] = "Options de formatage : l’affichage des MyCodes est {1} — L’affichage des émoticônes est {2} — L’affichage des balises [img] est {3} — L’affichage du HTML est {4}";
 $l['enable_sig_in_all_posts'] = " Activer la signature dans tous les messages existants. ";
 $l['disable_sig_in_all_posts'] = "Désactiver la signature dans tous les messages existants.";
 $l['do_nothing'] = "Aucune action.";
@@ -243,7 +243,7 @@ $l['suspend_sig_box'] = "Suspendre la signature de cet utilisateur";
 $l['suspend_sig_perm'] = "<small>Suspension permanente.</small>";
 $l['suspend_sig_info'] = "Si une signature est suspendue, l’utilisateur ne peut pas la modifier et elle ne sera pas affichée sur son profil ni dans ses messages.";
 $l['suspend_sig_extend'] = "<small>Entrez une nouvelle durée ci-dessous pour modifier, ou décochez cette option pour lever cette suspension.</small>";
-$l['suspend_expire_info'] = "<small>Restant : <span style=\"color: {2};\">{1}</span></small>";
+$l['suspend_expire_info'] = "<small>Restant : <span style=\"color: {2};\">{1}</span></small>";
 $l['suspend_never_expire'] = "<small>La suspension de {1} n’expirera jamais (suspension permanente).</small>";
 $l['suspend_sig_error'] = "Veuillez saisir une durée correcte pour la suspension de la signature de cet utilisateur.";
 
@@ -251,13 +251,13 @@ $l['moderate_posts'] = "Modérer les messages";
 $l['moderate_posts_info'] = "Modérer les nouveaux messages publiés par {1}.";
 $l['moderate_for'] = "Modérer pendant :";
 $l['moderated_perm'] = "<p><small>Modération permanente.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette modération.</small></p>";
-$l['moderate_length'] = "<p><small>Durée restante de la modération : <span style=\"color: {2};\">{1}</span>.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette modération.</small></p>";
+$l['moderate_length'] = "<p><small>Durée restante de la modération : <span style=\"color: {2};\">{1}</span>.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette modération.</small></p>";
 
 $l['suspend_posts'] = "Suspendre les messages";
 $l['suspend_posts_info'] = "Empêcher {1} de publier de nouveaux messages.";
 $l['suspend_for'] = "Suspendre pendant :";
 $l['suspended_perm'] = "<p><small>Suspension permanente.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette suspension.</small></p>";
-$l['suspend_length'] = "<p><small>Durée restante de la suspension : <span style=\"color: {2};\">{1}</span>.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette suspension.</small></p>";
+$l['suspend_length'] = "<p><small>Durée restante de la suspension : <span style=\"color: {2};\">{1}</span>.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette suspension.</small></p>";
 
 $l['suspendsignature_error'] = "Vous avez choisi de suspendre la signature de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
 $l['moderateposting_error'] = "Vous avez choisi de modérer les messages de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
@@ -397,7 +397,7 @@ $l['email_adminactivateaccount'] = "{1},
 
 Un administrateur a activé votre compte sur le forum.
 
-Pour continuer, veuillez vous rendre à l’adresse suivante :
+Pour continuer, veuillez vous rendre à l’adresse suivante :
 
 {3}
 

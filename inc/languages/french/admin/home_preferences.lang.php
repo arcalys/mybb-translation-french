@@ -27,5 +27,5 @@ $l['use_2fa_desc'] = "L'authentification à deux facteurs permet de sécuriser v
 $l['my2fa_qr'] = "Code d'authentification à deux facteurs";
 $l['recovery_codes_desc'] = "Consultez vos <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">codes de récupération</a>.";
 $l['recovery_codes'] = "Codes de récupération";
-$l['recovery_codes_warning'] = "<strong>Remarque :</strong> les codes seront régénérés à chaque affichage de page et ne peuvent être utilisés qu’une seule fois.";
+$l['recovery_codes_warning'] = "<strong>Remarque :</strong> les codes seront régénérés à chaque affichage de page et ne peuvent être utilisés qu’une seule fois.";
 $l['print_recovery_codes'] = "Imprimer les codes de récupération";

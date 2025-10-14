@@ -20,5 +20,5 @@ $l['plugins'] = "Extensions";
 $l['database_backups'] = "Sauvegardes de la base de données";
 $l['quick_access'] = "Accès rapide";
 $l['online_admins'] = "Administrateurs en ligne";
-$l['ipaddress'] = "Adresse IP :";
+$l['ipaddress'] = "Adresse IP :";
 $l['mybb_documentation'] = "Documentation officielle";

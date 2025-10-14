@@ -84,6 +84,6 @@ $l['day_or_days'] = "jour(s)";
 $l['week_or_weeks'] = "semaine(s)";
 $l['month_or_months'] = "mois";
 $l['expires'] = "Expiration";
-$l['new_warning_level'] = "Nouveau niveau d’avertissement :";
+$l['new_warning_level'] = "Nouveau niveau d’avertissement :";
 $l['error_cant_warn_user'] = "Vous n’avez pas la permission d’avertir cet utilisateur.";
 $l['existing_post_warnings'] = "Avertissements existants pour ce message";

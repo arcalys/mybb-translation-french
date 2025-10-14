@@ -91,7 +91,7 @@ $l['error_duplicate_group_name'] = "L’identifiant spécifié est déjà utilis
 $l['error_no_settings_found'] = "Aucun paramètre n’a été trouvé.";
 $l['error_cannot_edit_default'] = "Les paramètres et groupes par défaut ne peuvent pas être modifiés ou supprimés.";
 $l['error_cannot_edit_php'] = "Il s’agit d’un type de paramètre spécial qui ne peut pas être modifié.";
-$l['error_ajax_search'] = "Un problème est survenu lors de la recherche des paramètres :";
+$l['error_ajax_search'] = "Un problème est survenu lors de la recherche des paramètres :";
 $l['error_ajax_unknown'] = "Une erreur inconnue s’est produite lors de la recherche des paramètres.";
 $l['error_chmod_settings_file'] = "Le fichier de configuration « ./inc/settings.php » n’est pas accessible en écriture. Veuillez ajuster ses permissions (CHMOD à 666).<br />Pour plus d’informations sur le CHMOD, consultez la <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">documentation officielle</a>.";
 $l['error_admin_email_settings_empty'] = "<div class=\"smalltext\" style=\"font-weight: normal;\">Veuillez noter que l’<strong>adresse électronique de l’administrateur</strong> n’a pas été enregistrée car ce champ doit contenir une adresse électronique valide.</div>";
