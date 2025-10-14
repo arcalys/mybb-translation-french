@@ -394,7 +394,7 @@ $l['rel_hours_plural'] = "heures";
 $l['permanent'] = "Permanent";
 $l['save_draft'] = "Enregistrer comme brouillon";
 $l['go'] = "Appliquer";
-$l['bbclosed_warning'] = "Votre forum est actuellement <a href=\"{1}\">fermé</a>.";
+$l['bbclosed_warning'] = "Votre forum est actuellement <a href=\"{1}\">désactivé</a>.";
 $l['banned_warning'] = "Votre compte est actuellement banni.";
 $l['banned_warning2'] = "Motif du bannissement";
 $l['banned_warning3'] = "Le bannissement prendra fin ";
