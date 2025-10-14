@@ -1,0 +1,13 @@
+name: Release translation
+on:
+  push:
+    tags:
+      - 'v*'
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+      - name: Create release
+        uses: softprops/action-gh-release@v2
