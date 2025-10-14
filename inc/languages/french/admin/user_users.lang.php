@@ -342,7 +342,7 @@ $l['card_view'] = "Cartes";
 
 $l['find_users_where'] = "Rechercher des utilisateurs…";
 $l['username_contains'] = "Dont le nom d’utilisateur contient";
-$l['email_address_contains'] = "Dont l’adresse e-mail contient";
+$l['email_address_contains'] = "Dont l’adresse électronique contient";
 $l['is_member_of_groups'] = "Qui sont membres des groupes suivants";
 $l['website_contains'] = "Dont le site web contient";
 $l['signature_contains'] = "Dont la signature contient";

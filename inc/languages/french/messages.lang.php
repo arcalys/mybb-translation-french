@@ -307,7 +307,7 @@ Si le lien ci-dessus ne fonctionne pas correctement, rendez-vous sur :
 {3}/member.php?action=activate
 
 Vous devrez saisir les informations suivantes :
-Votre adresse e-mail
+Votre adresse électronique
 Code d’activation : {5}
 
 Merci,
