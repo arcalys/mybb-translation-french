@@ -7,7 +7,7 @@
  */
 
 $l['plugins'] = "Extensions";
-$l['plugins_desc'] = "Cette page vous permet de gérer les extensions de votre forum (enregistrées dans le répertoire <strong>inc/plugins</strong>). Pour masquer une extension sans en supprimer les informations, cliquez sur « Désactiver ».";
+$l['plugins_desc'] = "Cette page vous permet de gérer les extensions de votre forum (enregistrées dans le répertoire <strong>inc/plugins</strong>). Pour masquer une extension sans en supprimer les informations, cliquez sur « Désactiver ».";
 $l['plugin_updates'] = "Mises à jour des extensions";
 $l['plugin_updates_desc'] = "Cette page vous permet de vérifier les mises à jour disponibles pour vos extensions.";
 $l['browse_plugins'] = "Parcourir les extensions";

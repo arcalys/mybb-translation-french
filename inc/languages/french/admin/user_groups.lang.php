@@ -8,7 +8,7 @@
 
 $l['user_groups'] = "Groupes";
 $l['manage_user_groups'] = "Gestion des groupes";
-$l['manage_user_groups_desc'] = "Cette page vous permet de gérer les différents groupes de votre forum. Vous pouvez également définir l’ordre d’affichage des groupes sur la page de l’équipe du forum et dans la légende. Laisser toutes les valeurs à « 0 » triera les groupes par ordre alphabétique.";
+$l['manage_user_groups_desc'] = "Cette page vous permet de gérer les différents groupes de votre forum. Vous pouvez également définir l’ordre d’affichage des groupes sur la page de l’équipe du forum et dans la légende. Laisser toutes les valeurs à « 0 » triera les groupes par ordre alphabétique.";
 $l['add_user_group'] = "Ajouter un groupe";
 $l['add_user_group_desc'] = "Cette page vous permet de créer un nouveau groupe d’utilisateurs et, si vous le souhaitez, de copier les permissions d’un autre groupe. Après avoir enregistré le groupe, vous serez redirigé vers la page d’édition de ce groupe.";
 $l['group_join_requests'] = "Demandes d’adhésion";

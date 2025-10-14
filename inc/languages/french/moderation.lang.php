@@ -183,7 +183,7 @@ $l['error_delayedmoderation_invalid_date_month'] = "Vous n’avez pas sélection
 $l['error_delayedmoderation_invalid_date_year'] = "Vous n’avez pas sélectionné une année valide pour cette action de modération différée.";
 $l['error_thread_deleted'] = "Le sujet ciblé est temporairement supprimé. Pour effectuer cette action, vous devez d’abord restaurer le sujet.";
 
-$l['redirect_pollnotdeleted'] = "Le sondage n’a pas été supprimé car vous n’avez pas coché la case « Supprimer ». ";
+$l['redirect_pollnotdeleted'] = "Le sondage n’a pas été supprimé car vous n’avez pas coché la case « Supprimer ». ";
 $l['redirect_polldeleted'] = "Le sondage de ce sujet a bien été supprimé.<br />Vous allez maintenant être redirigé vers le sujet.";
 
 $l['redirect_mergeposts'] = "Les messages sélectionnés ont été fusionnés.<br />Vous allez maintenant être redirigé vers le sujet.";

@@ -51,13 +51,13 @@ $l['error_alreadyingroup'] = "L’utilisateur spécifié fait déjà partie de c
 $l['error_alreadyinvited'] = "L’utilisateur spécifié a déjà été invité.";
 
 $l['user_invited'] = "L’utilisateur a été invité à rejoindre le groupe.";
-$l['invite_pm_subject'] = "Vous avez été invité à rejoindre « {1} »";
-$l['invite_pm_message'] = "Vous avez reçu une invitation pour rejoindre le groupe d’utilisateurs « {1} ».
+$l['invite_pm_subject'] = "Vous avez été invité à rejoindre « {1} »";
+$l['invite_pm_message'] = "Vous avez reçu une invitation pour rejoindre le groupe d’utilisateurs « {1} ».
 
 Pour accepter, rendez-vous sur votre page « [url={2}/usercp.php?action=usergroups]Groupes[/url] » et cliquez sur « Accepter l’invitation ».
 
 Cette invitation n’a pas de date d’expiration.";
-$l['invite_pm_message_expires'] = "Vous avez reçu une invitation pour rejoindre le groupe d’utilisateurs « {1} ».
+$l['invite_pm_message_expires'] = "Vous avez reçu une invitation pour rejoindre le groupe d’utilisateurs « {1} ».
 
 Pour accepter, rendez-vous sur votre page « [url={2}/usercp.php?action=usergroups]Groupes[/url] » et cliquez sur « Accepter l’invitation ».
 

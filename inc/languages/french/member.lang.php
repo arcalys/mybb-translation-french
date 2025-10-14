@@ -219,7 +219,7 @@ $l['error_badlostpwcode'] = "Vous avez saisi un code de réinitialisation de mot
 $l['error_badactivationcode'] = "Vous avez saisi un code d’activation de compte invalide. Pour renvoyer tous les courriels d’activation à l’adresse enregistrée, cliquez <a href=\"member.php?action=resendactivation\">ici</a>.";
 $l['error_alreadyactivated'] = "Votre compte a déjà été activé ou ne nécessite pas de validation par courriel.";
 $l['error_alreadyvalidated'] = "Votre adresse électronique a déjà été validée.";
-$l['error_nothreadurl'] = "Votre message ne contient pas l’URL du sujet. Veuillez utiliser la fonctionnalité « envoyer à un ami » pour l’objectif prévu.";
+$l['error_nothreadurl'] = "Votre message ne contient pas l’URL du sujet. Veuillez utiliser la fonctionnalité « envoyer à un ami » pour l’objectif prévu.";
 $l['error_bannedusername'] = "Le nom d’utilisateur que vous avez saisi est banni. Veuillez en choisir un autre.";
 $l['error_notloggedout'] = "Votre identifiant n’a pas pu être vérifié pour procéder à la déconnexion. Cela peut être dû à un Javascript malveillant tentant de vous déconnecter automatiquement. Si vous souhaitez vous déconnecter, veuillez cliquer sur le bouton Déconnexion dans le menu supérieur.";
 $l['error_regimageinvalid'] = "Le code de vérification de l’image que vous avez saisi est incorrect. Veuillez saisir le code exactement comme il apparaît dans l’image.";

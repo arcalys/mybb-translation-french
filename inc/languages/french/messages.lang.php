@@ -15,9 +15,9 @@ $l['error_invalidpworusername'] = "Vous avez saisi une combinaison nom d’utili
 $l['error_invalidpworusername1'] = "Vous avez saisi une combinaison adresse électronique/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
 $l['error_invalidpworusername2'] = "Vous avez saisi une combinaison nom d’utilisateur/mot de passe ou adresse électronique/mot de passe invalide. <br /><br />Si vous avez oublié votre mot de passe, veuillez <a href=\"member.php?action=lostpw\">en récupérer un nouveau</a>.";
 $l['error_incompletefields'] = "Il semble que vous ayez laissé un ou plusieurs champs obligatoires vides. Veuillez revenir en arrière et remplir les champs requis.";
-$l['error_alreadyuploaded'] = "Ce message contient déjà une pièce jointe nommée « {1} ». Veuillez renommer le fichier et le télécharger à nouveau. Vous pouvez également cliquer sur « Mettre à jour la pièce jointe ».";
+$l['error_alreadyuploaded'] = "Ce message contient déjà une pièce jointe nommée « {1} ». Veuillez renommer le fichier et le télécharger à nouveau. Vous pouvez également cliquer sur « Mettre à jour la pièce jointe ».";
 $l['error_alreadyuploaded_perm'] = "Ce message contient déjà une pièce jointe portant le même nom. Veuillez soit supprimer le fichier existant, soit renommer le fichier et le télécharger à nouveau.";
-$l['error_updatefailed'] = "Le fichier « {1} » n’est pas déjà attaché et ne peut pas être mis à jour.";
+$l['error_updatefailed'] = "Le fichier « {1} » n’est pas déjà attaché et ne peut pas être mis à jour.";
 $l['error_nomessage'] = "Désolé, nous ne pouvons pas continuer car vous n’avez pas saisi de message valide. Veuillez revenir en arrière et le faire.";
 $l['error_invalidemail'] = "L’adresse électronique saisie n’est pas valide.";
 $l['error_nomember'] = "Le membre que vous avez spécifié est invalide ou n’existe pas.";
@@ -30,8 +30,8 @@ $l['error_invalidattachment'] = "La pièce jointe spécifiée est invalide ou n�
 $l['error_invalidforum'] = "Le forum spécifié est invalide ou n’existe pas.";
 $l['error_closedinvalidforum'] = "Vous ne pouvez pas poster dans ce forum car soit le forum est fermé, soit il redirige vers une autre page web, soit c’est une catégorie.";
 $l['error_attachtype'] = "Le type de fichier que vous avez joint n’est pas autorisé. Veuillez retirer la pièce jointe ou choisir un autre type.";
-$l['error_attachsize'] = "Le fichier « {1} » est trop volumineux. La taille maximale pour ce type de fichier est de {2} kilo-octets.";
-$l['error_uploadempty'] = "Le fichier « {1} » est vide.";
+$l['error_attachsize'] = "Le fichier « {1} » est trop volumineux. La taille maximale pour ce type de fichier est de {2} kilo-octets.";
+$l['error_uploadempty'] = "Le fichier « {1} » est vide.";
 $l['error_uploadsize'] = "La taille du fichier téléchargé est trop importante.";
 $l['error_uploadfailed'] = "Le téléchargement du fichier a échoué. Veuillez choisir un fichier valide et réessayer.";
 $l['error_uploadfailed_detail'] = "Détails de l’erreur : ";
@@ -83,7 +83,7 @@ $l['error_messagelength'] = "Désolé, votre message est trop long et ne peut pa
 $l['error_message_too_short'] = "Désolé, votre message est trop court et ne peut pas être publié.";
 $l['failed_login_wait'] = "Vous avez échoué à vous connecter dans le nombre de tentatives autorisé. Vous devez maintenant attendre {1}h {2}m {3}s avant de pouvoir vous reconnecter.";
 $l['failed_login_again'] = "<br />Il vous reste <strong>{1}</strong> tentatives de connexion.";
-$l['error_max_emails_day'] = "Vous ne pouvez pas utiliser les fonctions « Envoyer le sujet à un ami » ou « Envoyer un courriel à un utilisateur » car vous avez déjà utilisé votre quota de {1} messages au cours des dernières 24 heures.";
+$l['error_max_emails_day'] = "Vous ne pouvez pas utiliser les fonctions « Envoyer le sujet à un ami » ou « Envoyer un courriel à un utilisateur » car vous avez déjà utilisé votre quota de {1} messages au cours des dernières 24 heures.";
 $l['attachments_disabled'] = "Vous ne pouvez pas utiliser le système de pièces jointes car il a été désactivé par l’administrateur.";
 $l['error_attach_filename_length'] = "Le nom de fichier '{1}' dépasse la longueur maximale autorisée de {2}. Veuillez télécharger un fichier avec un nom plus court.";
 
@@ -360,7 +360,7 @@ Ceci est un courriel automatique de {2} pour vous informer que votre boîte de m
 
 Un ou plusieurs utilisateurs ont peut-être essayé de vous envoyer des messages privés sans succès pour cette raison.
 
-Veuillez supprimer certains des messages privés que vous avez actuellement enregistrés, en pensant également à vider la « Corbeille ».
+Veuillez supprimer certains des messages privés que vous avez actuellement enregistrés, en pensant également à vider la « Corbeille ».
 
 Merci,
 L’équipe du forum
