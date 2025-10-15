@@ -117,7 +117,7 @@ $l['search_error'] = "Une erreur s’est produite lors de la récupération des 
 $l['search_done'] = "Terminé !";
 
 // --- Settings groups translations ---
-$l['setting_group_onlineoffline'] = "Options de disponibilité du forum";
+$l['setting_group_onlineoffline'] = "Disponibilité du forum";
 $l['setting_group_onlineoffline_desc'] = "Ces paramètres vous permettent de gérer les options de disponibilité de votre forum (fermeture, maintenance, etc.).";
 
 $l['setting_group_details'] = "Informations du forum";
@@ -126,80 +126,80 @@ $l['setting_group_details_desc'] = "Ces paramètres vous permettent de gérer le
 $l['setting_group_general'] = "Configuration générale";
 $l['setting_group_general_desc'] = "Ces paramètres vous permettent de gérer les aspects généraux de votre forum.";
 
-$l['setting_group_server'] = "Options du serveur et d’optimisation";
+$l['setting_group_server'] = "Paramètres du serveur et d’optimisation";
 $l['setting_group_server_desc'] = "Ces paramètres vous permettent de gérer les options liées au serveur et à l’optimisation, afin de réduire la charge sur votre serveur et d’améliorer les performances de votre forum.";
 
-$l['setting_group_datetime'] = "Options des dates et des heures";
+$l['setting_group_datetime'] = "Paramètres des dates et des heures";
 $l['setting_group_datetime_desc'] = "Ces paramètres vous permettent de définir les formats à utiliser pour l’affichage des dates et des heures sur votre forum.";
 
-$l['setting_group_forumhome'] = "Options de la page d’accueil";
+$l['setting_group_forumhome'] = "Paramètres de la page d’accueil";
 $l['setting_group_forumhome_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités de la page d’accueil.";
 
-$l['setting_group_forumdisplay'] = "Options d’affichage des forums";
+$l['setting_group_forumdisplay'] = "Paramètres d’affichage des forums";
 $l['setting_group_forumdisplay_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités des forums.";
 
-$l['setting_group_showthread'] = "Options d’affichage des sujets";
+$l['setting_group_showthread'] = "Paramètres d’affichage des sujets";
 $l['setting_group_showthread_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités des sujets.";
 
-$l['setting_group_member'] = "Options de connexion et d’inscription";
+$l['setting_group_member'] = "Paramètres de connexion et d’inscription";
 $l['setting_group_member_desc'] = "Ces paramètres vous permettent de gérer les options liées aux inscriptions et aux connexions des utilisateurs.";
 
-$l['setting_group_profile'] = "Options du profil";
+$l['setting_group_profile'] = "Paramètres des profils";
 $l['setting_group_profile_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités des profils des utilisateurs.";
 
-$l['setting_group_posting'] = "Options de publication";
+$l['setting_group_posting'] = "Paramètres de publication";
 $l['setting_group_posting_desc'] = "Ces paramètres vous permettent de gérer les options liées à la publication de messages sur le forum.";
 
-$l['setting_group_attachments'] = "Options des pièces jointes";
+$l['setting_group_attachments'] = "Paramètres des pièces jointes";
 $l['setting_group_attachments_desc'] = "Ces paramètres vous permettent de gérer les options du système de pièces jointes.";
 
-$l['setting_group_memberlist'] = "Options de la liste des membres";
+$l['setting_group_memberlist'] = "Paramètres de la liste des membres";
 $l['setting_group_memberlist_desc'] = "Ces paramètres vous permettent de gérer les options liées à la liste des membres (memberlist.php).";
 
-$l['setting_group_reputation'] = "Options du système de réputation";
+$l['setting_group_reputation'] = "Paramètres du système de réputation";
 $l['setting_group_reputation_desc'] = "Ces paramètres vous permettent de gérer les options du système de réputation, qui permet à vos utilisateurs d’évaluer les messages et les autres membres.";
 
-$l['setting_group_warning'] = "Options du système d’avertissements";
+$l['setting_group_warning'] = "Paramètres du système d’avertissements";
 $l['setting_group_warning_desc'] = "Ces paramètres vous permettent de gérer les options du système d’avertissements, qui permet à l’équipe du forum d’avertir les utilisateurs en cas d’infraction au règlement.";
 
-$l['setting_group_privatemessaging'] = "Options de la messagerie privée";
+$l['setting_group_privatemessaging'] = "Paramètres de la messagerie privée";
 $l['setting_group_privatemessaging_desc'] = "Ces paramètres vous permettent de gérer les options du système de messagerie du forum.";
 
-$l['setting_group_calendar'] = "Options du calendrier";
-$l['setting_group_calendar_desc'] = "Ces paramètres vous permettent de gérer les options du calendrier (calendar.php), qui permettent d’afficher et gérer des événements publics et privés sur votre forum.";
+$l['setting_group_calendar'] = "Paramètres des calendriers";
+$l['setting_group_calendar_desc'] = "Ces paramètres vous permettent de gérer les options des calendriers (calendar.php), qui permettent d’afficher et gérer des événements publics et privés sur votre forum.";
 
-$l['setting_group_whosonline'] = "Options de la liste des utilisateurs en ligne";
+$l['setting_group_whosonline'] = "Paramètres de la liste des utilisateurs en ligne";
 $l['setting_group_whosonline_desc'] = "Ces paramètres vous permettent de gérer les options liées à la liste des utilisateurs en ligne (online.php).";
 
-$l['setting_group_userpruning'] = "Options de purge des utilisateurs";
+$l['setting_group_userpruning'] = "Paramètres de purge des utilisateurs";
 $l['setting_group_userpruning_desc'] = "Ces paramètres vous permettent de gérer les options liées à la purge automatique des utilisateurs.";
 
-$l['setting_group_portal'] = "Options du portail";
+$l['setting_group_portal'] = "Paramètres du portail";
 $l['setting_group_portal_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités du portail.";
 
-$l['setting_group_search'] = "Options du système de recherche";
+$l['setting_group_search'] = "Paramètres du système de recherche";
 $l['setting_group_search_desc'] = "Ces paramètres vous permettent de gérer les options liées au système de recherche du forum.";
 
-$l['setting_group_clickablecode'] = "Options des émoticônes cliquables et des MyCodes";
+$l['setting_group_clickablecode'] = "Paramètres des émoticônes cliquables et des MyCodes";
 $l['setting_group_clickablecode_desc'] = "Ces paramètres vous permettent de gérer les options liées à la fenêtre de sélection des émoticônes et aux MyCodes disponibles par défaut.";
 
-$l['setting_group_cpprefs'] = "Options du panneau d’administration (globales)";
+$l['setting_group_cpprefs'] = "Paramètres du panneau d’administration (globaux)";
 $l['setting_group_cpprefs_desc'] = "Ces paramètres vous permettent de gérer les préférences globales du panneau d’administration.";
 
-$l['setting_group_mailsettings'] = "Options des courriels";
+$l['setting_group_mailsettings'] = "Paramètres d’envoi des courriels";
 $l['setting_group_mailsettings_desc'] = "Ces paramètres vous permettent de gérer les options du système d’envoi des courriels de votre forum.";
 
-$l['setting_group_contactsettings'] = "Options de contact";
+$l['setting_group_contactsettings'] = "Paramètres de contact";
 $l['setting_group_contactsettings_desc'] = "Ces paramètres vous permettent de gérer les options de la page de contact de votre forum.";
 
-$l['setting_group_purgespammer'] = "Options de purge des indésirables";
+$l['setting_group_purgespammer'] = "Paramètres de purge des indésirables";
 $l['setting_group_purgespammer_desc'] = "Ces paramètres vous permettent de gérer les options liées à la purge automatique des indésirables.";
 
-$l['setting_group_stopforumspam'] = "Stop Forum Spam";
+$l['setting_group_stopforumspam'] = "Paramètres de lutte contre les indésirables";
 $l['setting_group_stopforumspam_desc'] = "Ces paramètres vous permettent de contrôler l’intégration avec StopForumSpam.com.";
 
-$l['setting_group_statspage'] = "Options de la page de statistiques";
+$l['setting_group_statspage'] = "Paramètres de la page de statistiques";
 $l['setting_group_statspage_desc'] = "Ces paramètres vous permettent de gérer les options liées à la page de statistiques du forum.";
 
-$l['setting_group_forumteam'] = "Options de la page de l’équipe du forum";
+$l['setting_group_forumteam'] = "Paramètres de la page de l’équipe du forum";
 $l['setting_group_forumteam_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités de la page de l’équipe du forum.";
