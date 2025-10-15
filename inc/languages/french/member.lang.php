@@ -38,7 +38,7 @@ $l['error_no_email_message'] = "Veuillez saisir un message pour votre courriel";
 
 $l['login'] = "Connexion";
 $l['pw_note'] = "Les mots de passe sont sensibles à la casse.";
-$l['lostpw_note'] = "Mot de passe oublié&nbsp;?";
+$l['lostpw_note'] = "Mot de passe oublié ?";
 $l['lost_pw'] = "Mot de passe du compte perdu";
 $l['lost_pw_form'] = "Formulaire de récupération du mot de passe";
 $l['email_address'] = "Adresse électronique :";
