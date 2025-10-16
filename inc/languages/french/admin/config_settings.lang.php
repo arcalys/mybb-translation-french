@@ -203,3 +203,12 @@ $l['setting_group_statspage_desc'] = "Ces paramètres vous permettent de gérer 
 
 $l['setting_group_forumteam'] = "Paramètres de la page de l’équipe du forum";
 $l['setting_group_forumteam_desc'] = "Ces paramètres vous permettent de gérer les options d’affichage et les fonctionnalités de la page de l’équipe du forum.";
+
+// --- Settings translations ---
+// Settings: Board Online / Offline
+$l['setting_boardclosed'] = "Désactiver le forum";
+$l['setting_boardclosed_desc'] = "Si vous cochez cette option, le forum sera désactivé et ne sera accessible qu’aux administrateurs. Si vous le souhaitez, vous pouvez également fournir un motif qui sera affiché aux autres utilisateurs.";
+$l['setting_boardclosed_title'] = "Titre de la fermeture du forum";
+$l['setting_boardclosed_title_desc'] = "Si votre forum est désactivé, vous pouvez définir un titre de page que vos visiteurs verront lorsqu'ils visiteront votre forum. Vous pouvez laisser ce champ vide pour utiliser le système de traduction.";
+$l['setting_boardclosed_reason'] = "Raison de la fermeture du forum";
+$l['setting_boardclosed_reason_desc'] = "Si votre forum est désactivé, vous pouvez définir un message que vos visiteurs verront lorsqu'ils visiteront votre forum. Vous pouvez laisser ce champ vide pour utiliser le système de traduction.";
