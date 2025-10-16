@@ -382,7 +382,7 @@ $l['second_short'] = "s";
 $l['seconds'] = "secondes";
 $l['seconds_short'] = "s";
 
-$l['rel_in'] = "Dans ";
+$l['rel_in'] = "dans ";
 $l['rel_ago'] = "Il y a";
 $l['rel_less_than'] = "moins d’";
 $l['rel_time'] = "{4} {1}{2} {3}";

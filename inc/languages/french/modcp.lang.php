@@ -256,9 +256,9 @@ $l['suspend_posts'] = "Suspendre les droits de publication de cet utilisateur";
 $l['modpost_length'] = "Durée de la modération";
 $l['suspost_length'] = "Durée de la suspension";
 
-$l['moderateposts_for'] = "Modération des messages jusqu’au {1}.<br />Décochez cette option pour la retirer, ou prolongez ci-dessous.";
-$l['suspendposting_for'] = "Suspension des messages jusqu’au {1}.<br />Décochez cette option pour la retirer, ou prolongez ci-dessous.";
-$l['suspendsignature_for'] = "Suspension de la signature jusqu’au {1}.<br />Décochez cette option pour la retirer, ou prolongez ci-dessous.";
+$l['moderateposts_for'] = "Modération des messages jusqu’à : {1}.<br />Décochez cette option pour la retirer, ou prolongez ci-dessous.";
+$l['suspendposting_for'] = "Suspension des messages jusqu’à : {1}.<br />Décochez cette option pour la retirer, ou prolongez ci-dessous.";
+$l['suspendsignature_for'] = "Suspension de la signature jusqu’à : {1}.<br />Décochez cette option pour la retirer, ou prolongez ci-dessous.";
 $l['suspendposting_perm'] = "Suspension permanente des messages.<br />Décochez cette option pour la retirer ou modifiez ci-dessous.";
 $l['moderateposts_perm'] = "Modération permanente des messages.<br />Décochez cette option pour la retirer ou modifiez ci-dessous.";
 $l['suspendsignature_perm'] = "Suspension permanente de la signature.<br />Décochez cette option pour la retirer ou modifiez ci-dessous.";
