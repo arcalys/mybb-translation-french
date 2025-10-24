@@ -246,3 +246,38 @@ $l['setting_mailingaddress'] = "Adresse postale";
 $l['setting_mailingaddress_desc'] = "Si vous disposez d’une adresse postale, indiquez-la ici. Elle apparaîtra dans le formulaire de conformité COPPA.";
 $l['setting_faxno'] = "Numéro de fax";
 $l['setting_faxno_desc'] = "Si vous disposez d’un numéro de fax, indiquez-le ici. Il apparaîtra dans le formulaire de conformité COPPA.";
+
+// Settings: General configuration
+// Settings: Server and Optimization Options
+// Settings: Date and Time Formats
+// Settings: Forum Home Options
+// Settings: Forum Display Options
+// Settings: Show Thread Options
+// Settings: Login and Registration Options
+// Settings: Profile Options
+// Settings: Posting
+// Settings: Attachments
+// Settings: Member List
+// Settings: Reputation
+// Settings: Warning System Settings
+// Settings: Private Messaging
+// Settings: Calendar
+// Settings: Who's Online
+// Settings: User Pruning
+// Settings: Portal Settings
+// Settings: Search System
+// Settings: Clickable Smilies and BB Code
+// Settings: Control Panel Preferences (Global)
+// Settings: Mail Settings
+// Settings: Contact Settings
+// Settings: Purge Spammer
+// Settings: Stop Forum Spam
+// Settings: Statistics Page
+
+// Settings: Forum team
+$l['setting_enableshowteam'] = "Activer la page de l’équipe du forum";
+$l['setting_enableshowteam_desc'] = "Activer ou désactiver la page de l’équipe du forum.";
+$l['setting_showaddlgroups'] = "Afficher les groupes supplémentaires";
+$l['setting_showaddlgroups_desc'] = "Inclure les groupes supplémentaires dans l’affichage de l’équipe.";
+$l['setting_showgroupleaders'] = "Afficher les responsables des groupes";
+$l['setting_showgroupleaders_desc'] = "Inclure les responsables de groupe dans l’affichage de l’équipe.";
