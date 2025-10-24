@@ -272,7 +272,16 @@ $l['setting_faxno_desc'] = "Si vous disposez d’un numéro de fax, indiquez-le 
 // Settings: Contact Settings
 // Settings: Purge Spammer
 // Settings: Stop Forum Spam
+
 // Settings: Statistics Page
+$l['setting_statsenabled'] = "Activer la page des statistiques";
+$l['setting_statsenabled_desc'] = "Activer ou désactiver la page des statistiques.";
+$l['setting_statscachetime'] = "Durée de mise en cache des statistiques";
+$l['setting_statscachetime_desc'] = "Indiquez l’intervalle de temps (en heures) avant l’actualisation du cache de la page des statistiques. Saisissez « 0 » pour désactiver la mise en cache.";
+$l['setting_statslimit'] = "Limite des statistiques";
+$l['setting_statslimit_desc'] = "Nombre de sujets à afficher pour les sections « Sujets les plus commentés » et « Sujets les plus consultés ». Saisissez « 0 » pour désactiver ces sections.";
+$l['setting_statstopreferrer'] = "Afficher le meilleur parrain sur la page des statistiques";
+$l['setting_statstopreferrer_desc'] = "Afficher le membre ayant effectué le plus de parrainages ? Cela ajoute une requête supplémentaire vers la base de données.";
 
 // Settings: Forum team
 $l['setting_enableshowteam'] = "Activer la page de l’équipe du forum";
