@@ -57,7 +57,7 @@ $l['change_language'] = "Appliquer";
 $l['version_check'] = "Vérifier la dernière version";
 $l['version_check_active'] = "Vérification en cours…";
 $l['version_check_newer'] = "La version la plus récente est <a href=\"https://mybb.com/download\" target=\"_blank\">{1}</a>";
-$l['version_check_latest'] = "Dernière version";
+$l['version_check_latest'] = "Il s’agit de la dernière version";
 $l['version_check_error'] = "Impossible de vérifier automatiquement — rendez-vous sur <a href=\"https://mybb.com\" target=\"_blank\" rel=\"noreferrer\">MyBB.com</a>";
 
 // insecure transport warning
@@ -285,7 +285,7 @@ $l['parameter_upgrade_start_title'] = "Numéro de version de départ";
 $l['parameter_upgrade_start_description'] = "La mise à jour sélectionnée, ainsi que toutes les mises à jour des versions ultérieures, sera appliquée.";
 
 // operations content
-$l['upgrade_version_to_be_installed'] = "Version à installer après mise à jour";
+$l['upgrade_version_to_be_installed'] = "Version à installer";
 $l['upgrades_to_apply'] = "Mises à jour à appliquer";
 $l['upgrade_to_apply'] = "#{1} (depuis la version {2})";
 #endregion
