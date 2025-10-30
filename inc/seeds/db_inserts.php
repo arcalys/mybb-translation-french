@@ -1388,6 +1388,16 @@ dix-neuf',
             'isdefault' => '1',
         ],
     ],
+    'themes' => [
+        [
+            'package' => 'core.base',
+            'name' => 'Base',
+            'def' => '1',
+            'properties' => 'a:0:{}',
+            'stylesheets' => 'a:0:{}',
+            'allowedgroups' => 'all',
+        ],
+    ],
     'usertitles' => [
         [
             'utid' => '1',
