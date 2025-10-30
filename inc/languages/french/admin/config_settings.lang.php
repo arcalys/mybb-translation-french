@@ -258,6 +258,17 @@ $l['setting_faxno_desc'] = "Si vous disposez d’un numéro de fax, indiquez-le 
 // Settings: Posting
 // Settings: Attachments
 // Settings: Member List
+$l['setting_enablememberlist'] = "Activer la liste des membres";
+$l['setting_enablememberlist_desc'] = "Activer ou désactiver la page listant les membres du forum.";
+$l['setting_membersperpage'] = "Membres par page";
+$l['setting_membersperpage_desc'] = "Nombre de membres à afficher par page dans la liste des membres.";
+$l['setting_default_memberlist_sortby'] = "Champ de tri par défaut";
+$l['setting_default_memberlist_sortby_desc'] = "Sélectionnez le champ selon lequel les membres seront triés par défaut.";
+$l['setting_default_memberlist_order'] = "Ordre de tri par défaut";
+$l['setting_default_memberlist_order_desc'] = "Sélectionnez l’ordre selon lequel les membres seront triés par défaut.<br />Croissant : A-Z / début-fin<br />Décroissant : Z-A / fin-début";
+$l['setting_memberlistmaxavatarsize'] = "Dimensions maximales d’affichage des avatars";
+$l['setting_memberlistmaxavatarsize_desc'] = "Les dimensions maximales des avatars affichés dans la liste des membres, avec la largeur et la hauteur séparées par « x » ou « | ».<br />Si un avatar est trop grand, il sera automatiquement redimensionné.";
+
 // Settings: Reputation
 // Settings: Warning System Settings
 // Settings: Private Messaging
