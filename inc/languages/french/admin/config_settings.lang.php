@@ -248,6 +248,55 @@ $l['setting_faxno'] = "Numéro de fax";
 $l['setting_faxno_desc'] = "Si vous disposez d’un numéro de fax, indiquez-le ici. Il apparaîtra dans le formulaire de conformité COPPA.";
 
 // Settings: General configuration
+$l['setting_bblanguage'] = "Langue par défaut";
+$l['setting_bblanguage_desc'] = "La langue que MyBB doit utiliser pour les invités et pour les utilisateurs n’ayant pas sélectionné de langue dans leur panneau de contrôle.";
+$l['setting_captchaimage'] = "Images de vérification pour l’inscription et la publication";
+$l['setting_captchaimage_desc'] = "Pour aider à prévenir les inscriptions et publications automatisées, vous pouvez choisir un type d’image de vérification que l’utilisateur devra compléter. Veuillez consulter la documentation officielle pour plus d’informations sur les images de confirmation.";
+$l['setting_recaptchapublickey'] = "Clé publique reCAPTCHA";
+$l['setting_recaptchapublickey_desc'] = "Saisissez votre clé publique pour utiliser reCAPTCHA.";
+$l['setting_recaptchaprivatekey'] = "Clé privée reCAPTCHA";
+$l['setting_recaptchaprivatekey_desc'] = "Saisissez votre clé privée pour utiliser reCAPTCHA.";
+$l['setting_recaptchascore'] = "Score reCAPTCHA v3";
+$l['setting_recaptchascore_desc'] = "Le score de rejet des utilisateurs pour reCAPTCHA v3. Un score de 1,0 indique très probablement un utilisateur légitime, tandis qu’un score de 0,0 indique très probablement un robot.";
+$l['setting_cfturnstilepublickey'] = "Clé publique Cloudflare Turnstile";
+$l['setting_cfturnstilepublickey_desc'] = "Saisissez votre clé publique pour utiliser Cloudflare Turnstile.";
+$l['setting_cfturnstileprivatekey'] = "Clé privée Cloudflare Turnstile";
+$l['setting_cfturnstileprivatekey_desc'] = "Saisissez votre clé privée pour utiliser Cloudflare Turnstile.";
+$l['setting_cfturnstiletheme'] = "Thème du composant Cloudflare Turnstile";
+$l['setting_cfturnstiletheme_desc'] = "Sélectionnez le thème à utiliser pour le composant Cloudflare Turnstile.";
+$l['setting_cfturnstilesize'] = "Taille du composant Cloudflare Turnstile";
+$l['setting_cfturnstilesize_desc'] = "Sélectionnez la taille à utiliser pour le composant Cloudflare Turnstile.";
+$l['setting_hcaptchapublickey'] = "Clé publique hCaptcha";
+$l['setting_hcaptchapublickey_desc'] = "Saisissez votre clé publique pour utiliser hCaptcha.";
+$l['setting_hcaptchaprivatekey'] = "Clé privée hCaptcha";
+$l['setting_hcaptchaprivatekey_desc'] = "Saisissez votre clé privée pour utiliser hCaptcha.";
+$l['setting_hcaptchatheme'] = "Thème du composant hCaptcha";
+$l['setting_hcaptchatheme_desc'] = "Sélectionnez le thème à utiliser pour le composant hCaptcha.";
+$l['setting_hcaptchasize'] = "Taille du composant hCaptcha";
+$l['setting_hcaptchasize_desc'] = "Sélectionnez la taille à utiliser pour le composant hCaptcha.";
+$l['setting_reportmethod'] = "Méthode de notification du contenu signalé";
+$l['setting_reportmethod_desc'] = "Sélectionnez la manière dont vous souhaitez que les modérateurs soient notifiés lorsqu’un contenu est signalé.<br />Remarque : les modérateurs ne sont notifiés que pour les messages des forums qu’ils modèrent ou pour tout le contenu s’ils sont super-modérateurs.";
+$l['setting_decpoint'] = "Séparateur décimal";
+$l['setting_decpoint_desc'] = "Le séparateur décimal utilisé dans votre langue ou région.";
+$l['setting_thousandssep'] = "Séparateur des milliers";
+$l['setting_thousandssep_desc'] = "Le séparateur des milliers utilisé dans votre langue ou région pour faciliter la lecture des grands nombres.";
+$l['setting_showlanguageselect'] = "Afficher le sélecteur de langue dans le pied de page";
+$l['setting_showlanguageselect_desc'] = "Sélectionnez « Non » si vous ne souhaitez pas afficher le sélecteur de langue dans le pied de page du forum. Ce paramètre sera ignoré si vous n’avez installé qu’une seule langue.";
+$l['setting_showthemeselect'] = "Afficher le sélecteur de thème dans le pied de page";
+$l['setting_showthemeselect_desc'] = "Sélectionnez « Non » si vous ne souhaitez pas afficher le sélecteur de thème dans le pied de page du forum.";
+$l['setting_maxmultipagelinks'] = "Nombre maximal de liens de page dans la pagination";
+$l['setting_maxmultipagelinks_desc'] = "Le nombre de liens vers les pages précédentes et suivantes à afficher dans la pagination des sujets et forums. Saisissez « 0 » pour désactiver cette limitation.";
+$l['setting_jumptopagemultipage'] = "Afficher le formulaire « Aller à la page » dans la pagination";
+$l['setting_jumptopagemultipage_desc'] = "Afficher un formulaire « Aller à la page » si le nombre de pages dépasse la valeur définie dans « Nombre maximal de liens de page dans la pagination ».";
+$l['setting_no_plugins'] = "Désactiver toutes les extensions";
+$l['setting_no_plugins_desc'] = "Sélectionnez « Oui » si vous souhaitez désactiver toutes les extensions sans devoir les désactiver individuellement. Cela équivaut à définir manuellement « NO_PLUGINS » dans le fichier « ./inc/init.php ».";
+$l['setting_deleteinvites'] = "Délai d’expiration des invitations aux groupes";
+$l['setting_deleteinvites_desc'] = "Le nombre de jours avant que les invitations en attente pour rejoindre des groupes n’expirent. Saisissez « 0 » pour désactiver cette fonctionnalité.";
+$l['setting_redirects'] = "Pages de redirection intermédiaires";
+$l['setting_redirects_desc'] = "Activer les pages de redirection intermédiaires au lieu de rediriger directement les utilisateurs.";
+$l['setting_enableforumjump'] = "Activer le menu d’accès rapide aux forums";
+$l['setting_enableforumjump_desc'] = "Le menu d’accès rapide aux forums s’affiche sur les pages des forums et des sujets. Il peut ajouter une charge significative si vous avez un grand nombre de forums. Sélectionnez « Non » pour le désactiver.";
+
 // Settings: Server and Optimization Options
 // Settings: Date and Time Formats
 // Settings: Forum Home Options
@@ -261,7 +310,7 @@ $l['setting_faxno_desc'] = "Si vous disposez d’un numéro de fax, indiquez-le 
 $l['setting_enablememberlist'] = "Activer la liste des membres";
 $l['setting_enablememberlist_desc'] = "Activer ou désactiver la page listant les membres du forum.";
 $l['setting_membersperpage'] = "Membres par page";
-$l['setting_membersperpage_desc'] = "Nombre de membres à afficher par page dans la liste des membres.";
+$l['setting_membersperpage_desc'] = "Le nombre de membres à afficher par page dans la liste des membres.";
 $l['setting_default_memberlist_sortby'] = "Champ de tri par défaut";
 $l['setting_default_memberlist_sortby_desc'] = "Sélectionnez le champ selon lequel les membres seront triés par défaut.";
 $l['setting_default_memberlist_order'] = "Ordre de tri par défaut";
@@ -290,7 +339,7 @@ $l['setting_statsenabled_desc'] = "Activer ou désactiver la page des statistiqu
 $l['setting_statscachetime'] = "Durée de mise en cache des statistiques";
 $l['setting_statscachetime_desc'] = "Indiquez l’intervalle de temps (en heures) avant l’actualisation du cache de la page des statistiques. Saisissez « 0 » pour désactiver la mise en cache.";
 $l['setting_statslimit'] = "Limite des statistiques";
-$l['setting_statslimit_desc'] = "Nombre de sujets à afficher pour les sections « Sujets les plus commentés » et « Sujets les plus consultés ». Saisissez « 0 » pour désactiver ces sections.";
+$l['setting_statslimit_desc'] = "Le nombre de sujets à afficher pour les sections « Sujets les plus commentés » et « Sujets les plus consultés ». Saisissez « 0 » pour désactiver ces sections.";
 $l['setting_statstopreferrer'] = "Afficher le meilleur parrain sur la page des statistiques";
 $l['setting_statstopreferrer_desc'] = "Afficher le membre ayant effectué le plus de parrainages ? Cela ajoute une requête supplémentaire vers la base de données.";
 
