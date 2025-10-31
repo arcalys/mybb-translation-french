@@ -298,6 +298,43 @@ $l['setting_enableforumjump'] = "Activer le menu d’accès rapide aux forums";
 $l['setting_enableforumjump_desc'] = "Le menu d’accès rapide aux forums s’affiche sur les pages des forums et des sujets. Il peut ajouter une charge significative si vous avez un grand nombre de forums. Sélectionnez « Non » pour le désactiver.";
 
 // Settings: Server and Optimization Options
+$l['setting_seourls'] = "Activer les adresses conviviales pour les moteurs de recherche ?";
+$l['setting_seourls_desc'] = "Ce paramètre raccourcit les liens, les rendant plus conviviaux, plus faciles à lire et pertinents pour les moteur de recherche. Par exemple : « showthread.php?tid=1 » devient « thread-1.html ».<br /><strong>Une fois ce paramètre activé, assurez-vous que le fichier « .htaccess » de MyBB soit présent dans le répertoire racine de votre forum (ou l’équivalent pour votre serveur web).<br />La détection automatique peut ne pas fonctionner sur tous les serveurs.</strong><br />Consultez la <a href=\"https://docs.mybb.com/1.8/administration/configuring-search-engine-friendly-URLs\">documentation officielle</a> pour plus d’informations.";
+$l['setting_gzipoutput'] = "Utiliser la compression GZip des pages ?";
+$l['setting_gzipoutput_desc'] = "Souhaitez-vous compresser les pages au format GZip lorsqu’elles sont envoyées au navigateur ? Cela permet des téléchargements plus rapides pour vos visiteurs et réduit l’utilisation de la bande passante pour le serveur.";
+$l['setting_gziplevel'] = "Niveau de compression GZip";
+$l['setting_gziplevel_desc'] = "Définissez le niveau de compression GZip de 0 à 9 (0 = aucune compression, 9 = compression maximale). Un niveau de 4 est recommandé pour la plupart des installations.";
+$l['setting_nocacheheaders'] = "Envoyer les en-têtes « No Cache »";
+$l['setting_nocacheheaders_desc'] = "Activez cette option pour forcer les pages dynamiques à être revalidées par les navigateurs et à ne pas être mises en cache par les serveurs.";
+$l['setting_load'] = "Limitation de la charge serveur (NIX)";
+$l['setting_load_desc'] = "Limite la charge maximale du serveur avant que MyBB ne refuse l’accès aux utilisateurs. La limite recommandée est de 5,0. Saisissez « 0 » pour désactiver cette limite.";
+$l['setting_tplhtmlcomments'] = "Afficher les commentaires de début/fin de template ?";
+$l['setting_tplhtmlcomments_desc'] = "Activer ou désactiver l’affichage des commentaires de début et de fin des templates dans le HTML.";
+$l['setting_use_xmlhttprequest'] = "Activer les fonctionnalités XMLHttpRequest ?";
+$l['setting_use_xmlhttprequest_desc'] = "Activer ou désactiver les fonctionnalités XMLHttpRequest.";
+$l['setting_extraadmininfo'] = "Statistiques avancées et informations de débogage";
+$l['setting_extraadmininfo_desc'] = "Affiche la charge du serveur, le temps de génération et l’utilisation de la mémoire en bas de toutes les pages du dossier racine. Seuls les administrateurs peuvent voir ces informations.";
+$l['setting_uploadspath'] = "Chemin des fichiers chargés";
+$l['setting_uploadspath_desc'] = "Le chemin utilisé pour tous les fichiers chargés sur le forum. Il doit avoir les permissions appropriées et, si le chemin est relatif, il est considéré comme relatif au répertoire racine de MyBB.<br />Valeur par défaut : « ./uploads ».";
+$l['setting_useerrorhandling'] = "Activer la gestion des erreurs";
+$l['setting_useerrorhandling_desc'] = "Activer ou désactiver la gestion des erreurs sur le forum.";
+$l['setting_errorlogmedium'] = "Support de journalisation des erreurs";
+$l['setting_errorlogmedium_desc'] = "Type de support à utiliser pour journaliser les erreurs.";
+$l['setting_errortypemedium'] = "Types d’erreurs à afficher";
+$l['setting_errortypemedium_desc'] = "Les types d’erreurs à afficher. Il est recommandé de masquer les erreurs et avertissements en production et de les journaliser à la place.";
+$l['setting_errorloglocation'] = "Emplacement du journal des erreurs";
+$l['setting_errorloglocation_desc'] = "L’emplacement du fichier de journal dans lequel envoyer les erreurs.";
+$l['setting_ip_forwarded_check'] = "Vérifier les adresses IP des utilisateurs ?";
+$l['setting_ip_forwarded_check_desc'] = "Voulez-vous vérifier les adresses IP des utilisateurs via les en-têtes « HTTP_X_FORWARDED_FOR » ou « HTTP_X_REAL_IP » ? En cas d’incertitude, sélectionnez « Non ».";
+$l['setting_minifycss'] = "Minifier les feuilles de style ?";
+$l['setting_minifycss_desc'] = "Souhaitez-vous minifier les feuilles de style ? Cela permet d’économiser de la bande passante et d’accélérer le chargement des pages.";
+$l['setting_usecdn'] = "Utiliser un CDN ?";
+$l['setting_usecdn_desc'] = "Souhaitez-vous utiliser un CDN (Content Delivery Network) pour délester le chargement des fichiers statiques comme les feuilles de style, les fichiers JavaScript et les images ?";
+$l['setting_cdnurl'] = "Adresse pour les fichiers statiques";
+$l['setting_cdnurl_desc'] = "Si vous avez choisi d’utiliser un CDN, saisissez l’adresse de base pour servir le contenu statique. Il doit s’agir d’une adresse valide sans barre oblique finale.";
+$l['setting_cdnpath'] = "Chemin pour stocker les fichiers statiques";
+$l['setting_cdnpath_desc'] = "Si vous avez choisi d’utiliser un CDN, saisissez éventuellement un chemin complet pour stocker les fichiers statiques. Cela n’est utile que pour les CDN de type « Envoi » ou pour des sous-domaines locaux. Ce chemin ne doit pas se terminer par une barre oblique.";
+
 // Settings: Date and Time Formats
 $l['setting_dateformat'] = "Format des dates";
 $l['setting_dateformat_desc'] = "Le format des dates utilisé sur le forum. Ce format utilise la fonction PHP « date() ». Il est recommandé de ne modifier ce paramètre que si vous êtes certain de ce que vous faites.";
