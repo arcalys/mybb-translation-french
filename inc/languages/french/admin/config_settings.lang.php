@@ -350,6 +350,29 @@ $l['setting_dstcorrection'] = "Heure d’été";
 $l['setting_dstcorrection_desc'] = "Activez ce paramètre si les heures affichées sont décalées d’une heure malgré la sélection correcte de votre fuseau horaire.";
 
 // Settings: Forum Home Options
+$l['setting_showdescriptions'] = "Affichage des descriptions des forums";
+$l['setting_showdescriptions_desc'] = "Afficher les descriptions des forums ?";
+$l['setting_subforumsindex'] = "Sous-forums à afficher sur la page d’index";
+$l['setting_subforumsindex_desc'] = "Le nombre de sous-forums que vous souhaitez afficher sur les pages d’index et de liste des forums. Saisissez « 0 » pour ne pas afficher la liste des sous-forums.";
+$l['setting_subforumsstatusicons'] = "Affichage des icônes de statut des sous-forums";
+$l['setting_subforumsstatusicons_desc'] = "Afficher des icônes indiquant si un sous-forum contient ou non de nouveaux messages ? Ce paramètre n’a aucun effet si les sous-forums ne sont pas affichés sur l’index.";
+$l['setting_hideprivateforums'] = "Masquage des forums privés";
+$l['setting_hideprivateforums_desc'] = "Masquer les forums privés ? Activer cette option masquera également ces forums dans le menu d’accès rapide ainsi que dans les sous-forums.";
+$l['setting_modlist'] = "Affichage des modérateurs des forums";
+$l['setting_modlist_desc'] = "Afficher la liste des modérateurs des forums sur les pages d’index et d’affichage des forums ?";
+$l['setting_showbirthdays'] = "Affichage des anniversaires";
+$l['setting_showbirthdays_desc'] = "Afficher les anniversaires du jour sur la page d’accueil du forum ?";
+$l['setting_showbirthdayspostlimit'] = "Affichage des anniversaires selon le nombre de messages";
+$l['setting_showbirthdayspostlimit_desc'] = "N’afficher que les anniversaires des membres ayant un minimum de messages ? Saisissez « 0 » pour tout afficher.";
+$l['setting_showwol'] = "Affichage de la liste des utilisateurs en ligne";
+$l['setting_showwol_desc'] = "Afficher les utilisateurs actuellement actifs sur la page d’accueil du forum ?";
+$l['setting_showgroupslegend'] = "Affichage de la légende des groupes";
+$l['setting_showgroupslegend_desc'] = "Afficher la liste des groupes d’utilisateurs sous la liste des membres ?";
+$l['setting_showindexstats'] = "Affichage condensé des statistiques";
+$l['setting_showindexstats_desc'] = "Afficher le nombre total de sujets, de messages, de membres ainsi que le dernier membre sur la page d’accueil du forum ?";
+$l['setting_showforumviewing'] = "Affichage des utilisateurs consultant les forums";
+$l['setting_showforumviewing_desc'] = "Afficher une liste des utilisateurs consultant chaque forum ?";
+
 // Settings: Forum Display Options
 // Settings: Show Thread Options
 // Settings: Login and Registration Options
