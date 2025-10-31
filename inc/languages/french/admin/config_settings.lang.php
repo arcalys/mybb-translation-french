@@ -299,6 +299,19 @@ $l['setting_enableforumjump_desc'] = "Le menu d’accès rapide aux forums s’a
 
 // Settings: Server and Optimization Options
 // Settings: Date and Time Formats
+$l['setting_dateformat'] = "Format des dates";
+$l['setting_dateformat_desc'] = "Le format des dates utilisé sur le forum. Ce format utilise la fonction PHP « date() ». Il est recommandé de ne modifier ce paramètre que si vous êtes certain de ce que vous faites.";
+$l['setting_timeformat'] = "Format des heures";
+$l['setting_timeformat_desc'] = "Le format des heures utilisé sur le forum. Ce format utilise la fonction PHP « date() ». Il est recommandé de ne modifier ce paramètre que si vous êtes certain de ce que vous faites.";
+$l['setting_datetimesep'] = "Séparateur date/heure";
+$l['setting_datetimesep_desc'] = "Le caractère à utiliser pour séparer la date et l’heure lorsqu'elles sont affichées ensemble (généralement un espace ou une virgule).";
+$l['setting_regdateformat'] = "Format de la date d’inscription";
+$l['setting_regdateformat_desc'] = "Le format utilisé dans l’affichage des sujets pour indiquer la date d’inscription de l’utilisateur.";
+$l['setting_timezoneoffset'] = "Fuseau horaire par défaut";
+$l['setting_timezoneoffset_desc'] = "Permet de définir le fuseau horaire par défaut pour les invités et les utilisateurs n’ayant pas sélectionné de fuseau horaire dans leur panneau de contrôle.";
+$l['setting_dstcorrection'] = "Heure d’été";
+$l['setting_dstcorrection_desc'] = "Activez ce paramètre si les heures affichées sont décalées d’une heure malgré la sélection correcte de votre fuseau horaire.";
+
 // Settings: Forum Home Options
 // Settings: Forum Display Options
 // Settings: Show Thread Options
