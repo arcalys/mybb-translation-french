@@ -423,6 +423,19 @@ $l['setting_enablecalendar_desc'] = "Activer le système de calendrier et d’é
 // Settings: Control Panel Preferences (Global)
 // Settings: Mail Settings
 // Settings: Contact Settings
+$l['setting_contact'] = "Activation de la page de contact";
+$l['setting_contact_desc'] = "Activer la page de contact du forum ?";
+$l['setting_contact_guests'] = "Accès à la page de contact pour les invités";
+$l['setting_contact_guests_desc'] = "Interdire l’accès à la page de contact pour les invités ?";
+$l['setting_contact_badwords'] = "Activation de la censure sur la page de contact";
+$l['setting_contact_badwords_desc'] = "Utiliser le système de censure pour les messages envoyés via la page de contact ?";
+$l['setting_contact_maxsubjectlength'] = "Longueur maximale du sujet";
+$l['setting_contact_maxsubjectlength_desc'] = "Le nombre maximal de caractères (octets) autorisés dans le sujet. Saisissez « 0 » pour n’imposer aucune limite.";
+$l['setting_contact_minmessagelength'] = "Longueur minimale du message";
+$l['setting_contact_minmessagelength_desc'] = "Le nombre minimal de caractères (octets) requis dans le message. Saisissez « 0 » pour n’imposer aucune limite.";
+$l['setting_contact_maxmessagelength'] = "Longueur maximale du message";
+$l['setting_contact_maxmessagelength_desc'] = "Le nombre maximal de caractères (octets) autorisés dans le message. Saisissez « 0 » pour n’imposer aucune limite.";
+
 // Settings: Purge Spammer
 // Settings: Stop Forum Spam
 
