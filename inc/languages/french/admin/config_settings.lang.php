@@ -710,16 +710,16 @@ $l['setting_woldisplayspiders_desc'] = "Afficher les robots dans la liste des ut
 // $l['setting_portal_excludediscussion_desc'] = "";
 
 // Settings: Search System
-// $l['setting_searchtype'] = "";
-// $l['setting_searchtype_desc'] = "";
-// $l['setting_searchfloodtime'] = "";
-// $l['setting_searchfloodtime_desc'] = "";
-// $l['setting_minsearchword'] = "";
-// $l['setting_minsearchword_desc'] = "";
-// $l['setting_searchhardlimit'] = "";
-// $l['setting_searchhardlimit_desc'] = "";
-// $l['setting_helpsearch'] = "";
-// $l['setting_helpsearch_desc'] = "";
+$l['setting_searchtype'] = "Type de recherche";
+$l['setting_searchtype_desc'] = "Sélectionnez le type de système de recherche que vous souhaitez utiliser. Vous pouvez choisir entre « Standard » ou « Texte intégral » (selon votre moteur de base de données).<br />La recherche en texte intégral est plus puissante et plus rapide que la recherche standard de MyBB.";
+$l['setting_searchfloodtime'] = "Intervalle de temps entre les recherches";
+$l['setting_searchfloodtime_desc'] = "L’intervalle de temps minimal (en secondes) à respecter entre deux recherches. Cela empêche les utilisateurs de surcharger votre serveur en effectuant des recherches de manière répétée. Saisissez « 0 » pour désactiver cette limitation.";
+$l['setting_minsearchword'] = "Longueur minimale des termes recherchés";
+$l['setting_minsearchword_desc'] = "Le nombre minimal de caractères qu’un mot doit contenir pour être pris en compte dans la recherche.<br />Saisissez « 0 » pour désactiver cette limitation et accepter la limite par défaut : 3 pour la recherche standard et 4 pour la recherche en texte intégral (MySQL).";
+$l['setting_searchhardlimit'] = "Limite du nombre de résultats";
+$l['setting_searchhardlimit_desc'] = "Le nombre maximal de résultats à retourner. Saisissez « 0 » pour désactiver cette limitation.<br />Sur les forums volumineux (plus d’un million de messages), il est conseillé de ne pas dépasser « 1000 » pour cette valeur.";
+$l['setting_helpsearch'] = "Activation de la recherche dans les documents d’aide";
+$l['setting_helpsearch_desc'] = "Activer la recherche dans les documents d’aide du forum ?";
 
 // Settings: Clickable Smilies and BB Code
 // $l['setting_bbcodeinserter'] = "";
