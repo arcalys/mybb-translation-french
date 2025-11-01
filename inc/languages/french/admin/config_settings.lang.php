@@ -412,6 +412,9 @@ $l['setting_memberlistmaxavatarsize_desc'] = "Les dimensions maximales des avata
 // Settings: Warning System Settings
 // Settings: Private Messaging
 // Settings: Calendar
+$l['setting_enablecalendar'] = "Activation du calendrier";
+$l['setting_enablecalendar_desc'] = "Activer le système de calendrier et d’événements du forum ?";
+
 // Settings: Who's Online
 // Settings: User Pruning
 // Settings: Portal Settings
