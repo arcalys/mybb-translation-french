@@ -574,16 +574,16 @@ $l['setting_readparentforums_desc'] = "Tenter de marquer les forums parents d’
 // $l['setting_forcesourceeditor_desc'] = "";
 
 // Settings: Attachments
-// $l['setting_enableattachments'] = "";
-// $l['setting_enableattachments_desc'] = "";
-// $l['setting_maxattachments'] = "";
-// $l['setting_maxattachments_desc'] = "";
-// $l['setting_attachthumbnails'] = "";
-// $l['setting_attachthumbnails_desc'] = "";
-// $l['setting_attachthumbh'] = "";
-// $l['setting_attachthumbh_desc'] = "";
-// $l['setting_attachthumbw'] = "";
-// $l['setting_attachthumbw_desc'] = "";
+$l['setting_enableattachments'] = "Activation des pièces jointes";
+$l['setting_enableattachments_desc'] = "Activer les pièces jointes sur le forum ?";
+$l['setting_maxattachments'] = "Nombre de pièces jointes par message";
+$l['setting_maxattachments_desc'] = "Le nombre maximal de pièces jointes qu’un utilisateur peut ajouter par message. Saisissez « 0 » pour désactiver cette limite.";
+$l['setting_attachthumbnails'] = "Affichage des images jointes aux messages";
+$l['setting_attachthumbnails_desc'] = "Sélectionnez la façon dont vous voulez afficher les images jointes aux messages.";
+$l['setting_attachthumbh'] = "Hauteur maximale des vignettes";
+$l['setting_attachthumbh_desc'] = "Saisissez la hauteur maximale à utiliser pour générer les vignettes des pièces jointes.";
+$l['setting_attachthumbw'] = "Largeur maximale des vignettes";
+$l['setting_attachthumbw_desc'] = "Saisissez la largeur maximale à utiliser pour générer les vignettes des pièces jointes.";
 
 // Settings: Member List
 $l['setting_enablememberlist'] = "Activation de la liste des membres";
