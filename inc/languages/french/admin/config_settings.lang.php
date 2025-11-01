@@ -389,7 +389,7 @@ $l['setting_browsingthisforum_desc'] = "Afficher la liste des utilisateurs actue
 $l['setting_announcementlimit'] = "Nombre d’annonces à afficher";
 $l['setting_announcementlimit_desc'] = "Le nombre d’annonces à afficher dans la liste des sujets de chaque forum. Saisissez « 0 » pour désactiver complètement les annonces.";
 $l['setting_readparentforums'] = "Marquer les forums parents comme lus";
-$l['setting_readparentforums_desc'] = "Tenter de marquer les forums parents d’un sous-forum comme lus lorsque tous les messages ont été lus ? Attention, cette option peut entraîner une baisse des performances et générer plusieurs requêtes supplémentaires vers la base de données.<br />Cette fonction est expérimentale. Consultez la <a href=\"https://docs.mybb.com/contents/\" target=\"_blank\" rel=\"noopener\">documentation officielle</a> pour plus d’informations.";
+$l['setting_readparentforums_desc'] = "Tenter de marquer les forums parents d’un sous-forum comme lus lorsque tous les messages ont été lus ? Attention : cette option peut entraîner une baisse des performances et générer plusieurs requêtes supplémentaires vers la base de données.<br />Cette fonction est expérimentale. Consultez la <a href=\"https://docs.mybb.com/contents/\" target=\"_blank\" rel=\"noopener\">documentation officielle</a> pour plus d’informations.";
 
 // Settings: Show Thread Options
 // Settings: Login and Registration Options
@@ -437,6 +437,19 @@ $l['setting_contact_maxmessagelength'] = "Longueur maximale du message";
 $l['setting_contact_maxmessagelength_desc'] = "Le nombre maximal de caractères (octets) autorisés dans le message. Saisissez « 0 » pour n’imposer aucune limite.";
 
 // Settings: Purge Spammer
+$l['setting_purgespammergroups'] = "Groupes autorisés";
+$l['setting_purgespammergroups_desc'] = "Sélectionnez les groupes autorisés à utiliser le système de purge des indésirables.";
+$l['setting_purgespammerpostlimit'] = "Limite de messages";
+$l['setting_purgespammerpostlimit_desc'] = "Empêcher l’utilisation de cet outil sur les utilisateurs ayant plus d’un certain nombre de messages afin d’éviter les suppressions accidentelles de membres actifs. Saisissez « 0 » pour désactiver ce contrôle (déconseillé).";
+$l['setting_purgespammerbandelete'] = "Action à effectuer sur les indésirables";
+$l['setting_purgespammerbandelete_desc'] = "Souhaitez-vous bannir ou supprimer les comptes indésirables ?";
+$l['setting_purgespammerbangroup'] = "Groupe de bannissement";
+$l['setting_purgespammerbangroup_desc'] = "Sélectionnez le groupe dans lequel ajouter les utilisateurs purgés. Par défaut, le groupe « Utilisateurs bannis » sera utilisé.";
+$l['setting_purgespammerbanreason'] = "Raison du bannissement";
+$l['setting_purgespammerbanreason_desc'] = "La raison indiquée lors du bannissement des comptes indésirables.";
+$l['setting_purgespammerbanip'] = "Bannissement des adresses IP";
+$l['setting_purgespammerbanip_desc'] = "Souhaitez-vous également bannir les adresses IP des comptes indésirables ? Attention : si d’autres utilisateurs partagent ces adresses IP, ils ne pourront plus accéder au forum.";
+
 // Settings: Stop Forum Spam
 
 // Settings: Statistics Page
