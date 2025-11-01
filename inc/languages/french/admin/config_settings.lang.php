@@ -206,7 +206,7 @@ $l['setting_group_forumteam_desc'] = "Ces paramètres vous permettent de gérer 
 
 // --- Settings translations ---
 // Settings: Board Online / Offline
-$l['setting_boardclosed'] = "Désactiver le forum";
+$l['setting_boardclosed'] = "Désactivation du forum";
 $l['setting_boardclosed_desc'] = "Si vous cochez cette option, le forum sera désactivé et ne sera accessible qu’aux administrateurs. Si vous le souhaitez, vous pouvez également fournir un motif qui sera affiché aux autres utilisateurs.";
 $l['setting_boardclosed_title'] = "Titre de la fermeture du forum";
 $l['setting_boardclosed_title_desc'] = "Si votre forum est désactivé, vous pouvez définir un titre de page que vos visiteurs verront lorsqu'ils visiteront votre forum. Vous pouvez laisser ce champ vide pour utiliser le système de traduction.";
@@ -280,27 +280,27 @@ $l['setting_decpoint'] = "Séparateur décimal";
 $l['setting_decpoint_desc'] = "Le séparateur décimal utilisé dans votre langue ou région.";
 $l['setting_thousandssep'] = "Séparateur des milliers";
 $l['setting_thousandssep_desc'] = "Le séparateur des milliers utilisé dans votre langue ou région pour faciliter la lecture des grands nombres.";
-$l['setting_showlanguageselect'] = "Afficher le sélecteur de langue dans le pied de page";
-$l['setting_showlanguageselect_desc'] = "Sélectionnez « Non » si vous ne souhaitez pas afficher le sélecteur de langue dans le pied de page du forum. Ce paramètre sera ignoré si vous n’avez installé qu’une seule langue.";
-$l['setting_showthemeselect'] = "Afficher le sélecteur de thème dans le pied de page";
-$l['setting_showthemeselect_desc'] = "Sélectionnez « Non » si vous ne souhaitez pas afficher le sélecteur de thème dans le pied de page du forum.";
+$l['setting_showlanguageselect'] = "Affichage du sélecteur de langue dans le pied de page";
+$l['setting_showlanguageselect_desc'] = "Afficher le sélecteur de langue dans le pied de page du forum ?. Ce paramètre sera ignoré si vous n’avez installé qu’une seule langue.";
+$l['setting_showthemeselect'] = "Affichage du sélecteur de thème dans le pied de page";
+$l['setting_showthemeselect_desc'] = "Afficher le sélecteur de thème dans le pied de page du forum ?";
 $l['setting_maxmultipagelinks'] = "Nombre maximal de liens de page dans la pagination";
 $l['setting_maxmultipagelinks_desc'] = "Le nombre de liens vers les pages précédentes et suivantes à afficher dans la pagination des sujets et forums. Saisissez « 0 » pour désactiver cette limitation.";
-$l['setting_jumptopagemultipage'] = "Afficher le formulaire « Aller à la page » dans la pagination";
+$l['setting_jumptopagemultipage'] = "Affichage du formulaire « Aller à la page » dans la pagination";
 $l['setting_jumptopagemultipage_desc'] = "Afficher un formulaire « Aller à la page » si le nombre de pages dépasse la valeur définie dans « Nombre maximal de liens de page dans la pagination ».";
-$l['setting_no_plugins'] = "Désactiver toutes les extensions";
+$l['setting_no_plugins'] = "Désactivation de toutes les extensions";
 $l['setting_no_plugins_desc'] = "Sélectionnez « Oui » si vous souhaitez désactiver toutes les extensions sans devoir les désactiver individuellement. Cela équivaut à définir manuellement « NO_PLUGINS » dans le fichier « ./inc/init.php ».";
 $l['setting_deleteinvites'] = "Délai d’expiration des invitations aux groupes";
 $l['setting_deleteinvites_desc'] = "Le nombre de jours avant que les invitations en attente pour rejoindre des groupes n’expirent. Saisissez « 0 » pour désactiver cette fonctionnalité.";
-$l['setting_redirects'] = "Pages de redirection intermédiaires";
+$l['setting_redirects'] = "Activation des pages de redirection intermédiaires";
 $l['setting_redirects_desc'] = "Activer les pages de redirection intermédiaires au lieu de rediriger directement les utilisateurs.";
-$l['setting_enableforumjump'] = "Activer le menu d’accès rapide aux forums";
+$l['setting_enableforumjump'] = "Activation du menu d’accès rapide aux forums";
 $l['setting_enableforumjump_desc'] = "Le menu d’accès rapide aux forums s’affiche sur les pages des forums et des sujets. Il peut ajouter une charge significative si vous avez un grand nombre de forums. Sélectionnez « Non » pour le désactiver.";
 
 // Settings: Server and Optimization Options
-$l['setting_seourls'] = "Activer les adresses conviviales pour les moteurs de recherche ?";
+$l['setting_seourls'] = "Activation des adresses conviviales pour les moteurs de recherche";
 $l['setting_seourls_desc'] = "Ce paramètre raccourcit les liens, les rendant plus conviviaux, plus faciles à lire et pertinents pour les moteur de recherche. Par exemple : « showthread.php?tid=1 » devient « thread-1.html ».<br /><strong>Une fois ce paramètre activé, assurez-vous que le fichier « .htaccess » de MyBB soit présent dans le répertoire racine de votre forum (ou l’équivalent pour votre serveur web).<br />La détection automatique peut ne pas fonctionner sur tous les serveurs.</strong><br />Consultez la <a href=\"https://docs.mybb.com/1.8/administration/configuring-search-engine-friendly-URLs\" target=\"_blank\" rel=\"noopener\">documentation officielle</a> pour plus d’informations.";
-$l['setting_gzipoutput'] = "Utiliser la compression GZip des pages ?";
+$l['setting_gzipoutput'] = "Utilisation de la compression GZip des pages";
 $l['setting_gzipoutput_desc'] = "Souhaitez-vous compresser les pages au format GZip lorsqu’elles sont envoyées au navigateur ? Cela permet des téléchargements plus rapides pour vos visiteurs et réduit l’utilisation de la bande passante pour le serveur.";
 $l['setting_gziplevel'] = "Niveau de compression GZip";
 $l['setting_gziplevel_desc'] = "Définissez le niveau de compression GZip de 0 à 9 (0 = aucune compression, 9 = compression maximale). Un niveau de 4 est recommandé pour la plupart des installations.";
@@ -308,15 +308,15 @@ $l['setting_nocacheheaders'] = "Envoyer les en-têtes « No Cache »";
 $l['setting_nocacheheaders_desc'] = "Activez cette option pour forcer les pages dynamiques à être revalidées par les navigateurs et à ne pas être mises en cache par les serveurs.";
 $l['setting_load'] = "Limitation de la charge serveur (NIX)";
 $l['setting_load_desc'] = "Limite la charge maximale du serveur avant que MyBB ne refuse l’accès aux utilisateurs. La limite recommandée est de 5,0. Saisissez « 0 » pour désactiver cette limite.";
-$l['setting_tplhtmlcomments'] = "Afficher les commentaires de début/fin de template ?";
-$l['setting_tplhtmlcomments_desc'] = "Activer ou désactiver l’affichage des commentaires de début et de fin des templates dans le HTML.";
-$l['setting_use_xmlhttprequest'] = "Activer les fonctionnalités XMLHttpRequest ?";
-$l['setting_use_xmlhttprequest_desc'] = "Activer ou désactiver les fonctionnalités XMLHttpRequest.";
+$l['setting_tplhtmlcomments'] = "Affichage des commentaires de début/fin de template";
+$l['setting_tplhtmlcomments_desc'] = "Afficher les commentaires de début et de fin des templates dans le HTML ?";
+$l['setting_use_xmlhttprequest'] = "Activation des fonctionnalités XMLHttpRequest";
+$l['setting_use_xmlhttprequest_desc'] = "Activer les fonctionnalités XMLHttpRequest ?";
 $l['setting_extraadmininfo'] = "Statistiques avancées et informations de débogage";
 $l['setting_extraadmininfo_desc'] = "Affiche la charge du serveur, le temps de génération et l’utilisation de la mémoire en bas de toutes les pages du dossier racine. Seuls les administrateurs peuvent voir ces informations.";
 $l['setting_uploadspath'] = "Chemin des fichiers chargés";
 $l['setting_uploadspath_desc'] = "Le chemin utilisé pour tous les fichiers chargés sur le forum. Il doit avoir les permissions appropriées et, si le chemin est relatif, il est considéré comme relatif au répertoire racine de MyBB.<br />Valeur par défaut : « ./uploads ».";
-$l['setting_useerrorhandling'] = "Activer la gestion des erreurs";
+$l['setting_useerrorhandling'] = "Activation de la gestion des erreurs";
 $l['setting_useerrorhandling_desc'] = "Activer ou désactiver la gestion des erreurs sur le forum.";
 $l['setting_errorlogmedium'] = "Support de journalisation des erreurs";
 $l['setting_errorlogmedium_desc'] = "Type de support à utiliser pour journaliser les erreurs.";
@@ -324,11 +324,11 @@ $l['setting_errortypemedium'] = "Types d’erreurs à afficher";
 $l['setting_errortypemedium_desc'] = "Les types d’erreurs à afficher. Il est recommandé de masquer les erreurs et avertissements en production et de les journaliser à la place.";
 $l['setting_errorloglocation'] = "Emplacement du journal des erreurs";
 $l['setting_errorloglocation_desc'] = "L’emplacement du fichier de journal dans lequel envoyer les erreurs.";
-$l['setting_ip_forwarded_check'] = "Vérifier les adresses IP des utilisateurs ?";
+$l['setting_ip_forwarded_check'] = "Vérification des adresses IP des utilisateurs";
 $l['setting_ip_forwarded_check_desc'] = "Voulez-vous vérifier les adresses IP des utilisateurs via les en-têtes « HTTP_X_FORWARDED_FOR » ou « HTTP_X_REAL_IP » ? En cas d’incertitude, sélectionnez « Non ».";
-$l['setting_minifycss'] = "Minifier les feuilles de style ?";
+$l['setting_minifycss'] = "Minification des feuilles de style";
 $l['setting_minifycss_desc'] = "Souhaitez-vous minifier les feuilles de style ? Cela permet d’économiser de la bande passante et d’accélérer le chargement des pages.";
-$l['setting_usecdn'] = "Utiliser un CDN ?";
+$l['setting_usecdn'] = "Utilisation d’un CDN";
 $l['setting_usecdn_desc'] = "Souhaitez-vous utiliser un CDN (Content Delivery Network) pour délester le chargement des fichiers statiques comme les feuilles de style, les fichiers JavaScript et les images ?";
 $l['setting_cdnurl'] = "Adresse pour les fichiers statiques";
 $l['setting_cdnurl_desc'] = "Si vous avez choisi d’utiliser un CDN, saisissez l’adresse de base pour servir le contenu statique. Il doit s’agir d’une adresse valide sans barre oblique finale.";
@@ -397,8 +397,8 @@ $l['setting_readparentforums_desc'] = "Tenter de marquer les forums parents d’
 // Settings: Posting
 // Settings: Attachments
 // Settings: Member List
-$l['setting_enablememberlist'] = "Activer la liste des membres";
-$l['setting_enablememberlist_desc'] = "Activer ou désactiver la page listant les membres du forum.";
+$l['setting_enablememberlist'] = "Activation de la liste des membres";
+$l['setting_enablememberlist_desc'] = "Activer la page listant les membres du forum ?";
 $l['setting_membersperpage'] = "Membres par page";
 $l['setting_membersperpage_desc'] = "Le nombre de membres à afficher par page dans la liste des membres.";
 $l['setting_default_memberlist_sortby'] = "Champ de tri par défaut";
@@ -424,19 +424,19 @@ $l['setting_memberlistmaxavatarsize_desc'] = "Les dimensions maximales des avata
 // Settings: Stop Forum Spam
 
 // Settings: Statistics Page
-$l['setting_statsenabled'] = "Activer la page des statistiques";
+$l['setting_statsenabled'] = "Activation de la page des statistiques";
 $l['setting_statsenabled_desc'] = "Activer ou désactiver la page des statistiques.";
 $l['setting_statscachetime'] = "Durée de mise en cache des statistiques";
 $l['setting_statscachetime_desc'] = "Indiquez l’intervalle de temps (en heures) avant l’actualisation du cache de la page des statistiques. Saisissez « 0 » pour désactiver la mise en cache.";
 $l['setting_statslimit'] = "Limite des statistiques";
 $l['setting_statslimit_desc'] = "Le nombre de sujets à afficher pour les sections « Sujets les plus commentés » et « Sujets les plus consultés ». Saisissez « 0 » pour désactiver ces sections.";
-$l['setting_statstopreferrer'] = "Afficher le meilleur parrain sur la page des statistiques";
+$l['setting_statstopreferrer'] = "Affichage du meilleur parrain sur la page des statistiques";
 $l['setting_statstopreferrer_desc'] = "Afficher le membre ayant effectué le plus de parrainages ? Cela ajoute une requête supplémentaire vers la base de données.";
 
 // Settings: Forum team
-$l['setting_enableshowteam'] = "Activer la page de l’équipe du forum";
+$l['setting_enableshowteam'] = "Activation de la page de l’équipe du forum";
 $l['setting_enableshowteam_desc'] = "Activer ou désactiver la page de l’équipe du forum.";
-$l['setting_showaddlgroups'] = "Afficher les groupes supplémentaires";
+$l['setting_showaddlgroups'] = "Affichage des groupes supplémentaires";
 $l['setting_showaddlgroups_desc'] = "Inclure les groupes supplémentaires dans l’affichage de l’équipe.";
-$l['setting_showgroupleaders'] = "Afficher les responsables des groupes";
+$l['setting_showgroupleaders'] = "Affichage des responsables des groupes";
 $l['setting_showgroupleaders_desc'] = "Inclure les responsables de groupe dans l’affichage de l’équipe.";
