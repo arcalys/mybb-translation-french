@@ -443,6 +443,26 @@ $l['setting_loginattemptstimeout'] = "Délai d’attente après verrouillage du 
 $l['setting_loginattemptstimeout_desc'] = "Délai d’attente (en minutes) avant de pouvoir faire une nouvelle tentative de connexion. Saisissez « 0 » pour désactiver ce délai.";
 
 // Settings: Mail Settings
+$l['setting_mail_handler'] = "Gestionnaire de courriels";
+$l['setting_mail_handler_desc'] = "Sélectionnez la méthode d’envoi des courriels.";
+$l['setting_smtp_host'] = "Nom d’hôte du serveur SMTP";
+$l['setting_smtp_host_desc'] = "Le nom d’hôte du serveur SMTP.<br />Ce paramètre n’est requis que si le gestionnaire sélectionné est « SMTP ».";
+$l['setting_smtp_port'] = "Port du serveur SMTP";
+$l['setting_smtp_port_desc'] = "Le port du serveur SMTP.<br />Ce paramètre n’est requis que si le gestionnaire sélectionné est « SMTP ».";
+$l['setting_smtp_user'] = "Nom d’utilisateur du serveur SMTP";
+$l['setting_smtp_user_desc'] = "Le nom d’utilisateur utilisé pour s’authentifier sur le serveur SMTP.<br />Ce paramètre n’est requis que si le gestionnaire sélectionné est « SMTP ».";
+$l['setting_smtp_pass'] = "Mot de passe du serveur SMTP";
+$l['setting_smtp_pass_desc'] = "Le mot de passe utilisé pour s’authentifier sur le serveur SMTP.<br />Ce paramètre n’est requis que si le gestionnaire sélectionné est « SMTP ».";
+$l['setting_secure_smtp'] = "Méthode de chiffrement";
+$l['setting_secure_smtp_desc'] = "La méthode de chiffrement utilisée pour communiquer avec le serveur SMTP.<br />Ce paramètre n’est requis que si le gestionnaire sélectionné est « SMTP ».";
+$l['setting_mail_logging'] = "Journalisation des courriels";
+$l['setting_mail_logging_desc'] = "Sélectionnez la manière dont les courriels doivent être journalisés.<br />Attention : il peut être illégal, selon les pays, de journaliser l’intégralité des courriels.";
+$l['setting_mail_message_id'] = "Identifiant du message dans les en-têtes des courriels";
+$l['setting_mail_message_id_desc'] = "Ajouter l’identifiant des messages dans les en-têtes des courriels ?<br />Désactiver cette option peut résoudre certains problèmes de courriels marqués comme indésirables sur certains hébergements partagés.";
+$l['setting_mail_queue_limit'] = "Messages à envoyer depuis la file d’attente";
+$l['setting_mail_queue_limit_desc'] = "Le nombre de messages à envoyer depuis la file d’attente à chaque exécution de la tâche « Traitement des courriels ».";
+$l['setting_mail_format'] = "Format des courriels";
+$l['setting_mail_format_desc'] = "Sélectionnez le(s) format(s) à utiliser pour l’envoi des courriels.";
 
 // Settings: Contact Settings
 $l['setting_contact'] = "Activation de la page de contact";
