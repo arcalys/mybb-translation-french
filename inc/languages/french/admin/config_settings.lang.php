@@ -431,8 +431,19 @@ $l['setting_woldisplayspiders_desc'] = "Afficher les robots dans la liste des ut
 // Settings: Portal Settings
 // Settings: Search System
 // Settings: Clickable Smilies and BB Code
+
 // Settings: Control Panel Preferences (Global)
+$l['setting_cplanguage'] = "Langue du panneau d’administration";
+$l['setting_cplanguage_desc'] = "Sélectionnez la langue à utiliser dans le panneau d’administration.";
+$l['setting_cpstyle'] = "Thème du panneau d’administration";
+$l['setting_cpstyle_desc'] = "Sélectionnez le thème à utiliser dans le panneau d’administration.";
+$l['setting_maxloginattempts'] = "Nombre maximal de tentatives de connexion";
+$l['setting_maxloginattempts_desc'] = "Le nombre maximal de tentatives de connexion avant verrouillage du compte. Saisissez « 0 » pour désactiver cette limitation.";
+$l['setting_loginattemptstimeout'] = "Délai d’attente après verrouillage du compte";
+$l['setting_loginattemptstimeout_desc'] = "Délai d’attente (en minutes) avant de pouvoir faire une nouvelle tentative de connexion. Saisissez « 0 » pour désactiver ce délai.";
+
 // Settings: Mail Settings
+
 // Settings: Contact Settings
 $l['setting_contact'] = "Activation de la page de contact";
 $l['setting_contact_desc'] = "Activer la page de contact du forum ?";
