@@ -451,6 +451,28 @@ $l['setting_purgespammerbanip'] = "Bannissement des adresses IP";
 $l['setting_purgespammerbanip_desc'] = "Souhaitez-vous également bannir les adresses IP des comptes indésirables ? Attention : si d’autres utilisateurs partagent ces adresses IP, ils ne pourront plus accéder au forum.";
 
 // Settings: Stop Forum Spam
+$l['setting_enablestopforumspam_on_register'] = "Vérification des inscriptions";
+$l['setting_enablestopforumspam_on_register_desc'] = "Vérifier les nouvelles inscriptions à l’aide de stopforumspam.com ?";
+$l['setting_stopforumspam_on_contact'] = "Vérification des messages de contact des invités";
+$l['setting_stopforumspam_on_contact_desc'] = "Vérifier les adresses électroniques et IP des invités à l’aide de stopforumspam.com lors de l’envoi du formulaire de contact ?";
+$l['setting_stopforumspam_on_newreply'] = "Vérification des nouvelles réponses";
+$l['setting_stopforumspam_on_newreply_desc'] = "Vérifier les adresses électroniques et IP des invités à l’aide de stopforumspam.com lors de la publication de nouveaux messages ?";
+$l['setting_stopforumspam_on_newthread'] = "Vérification des nouveaux sujets";
+$l['setting_stopforumspam_on_newthread_desc'] = "Vérifier les adresses électroniques et IP des invités à l’aide de stopforumspam.com lors de la publication de nouveaux sujets ?";
+$l['setting_stopforumspam_min_weighting_before_spam'] = "Score minimal";
+$l['setting_stopforumspam_min_weighting_before_spam_desc'] = "Le score minimal retourné par stopforumspam.com avant de considérer un utilisateur comme indésirable. Saisissez une valeur entre « 0 » et « 100 ».";
+$l['setting_stopforumspam_check_usernames'] = "Vérification des noms d’utilisateur";
+$l['setting_stopforumspam_check_usernames_desc'] = "Vérifier les noms des utilisateurs à l’aide de stopforumspam.com ?";
+$l['setting_stopforumspam_check_emails'] = "Vérification des adresses électroniques";
+$l['setting_stopforumspam_check_emails_desc'] = "Vérifier les adresses électroniques des utilisateurs à l’aide de stopforumspam.com ?";
+$l['setting_stopforumspam_check_ips'] = "Vérification des adresses IP";
+$l['setting_stopforumspam_check_ips_desc'] = "Vérifier les adresses IP des utilisateurs à l’aide de stopforumspam.com ?";
+$l['setting_stopforumspam_block_on_error'] = "Blocage en cas d’erreur";
+$l['setting_stopforumspam_block_on_error_desc'] = "Bloquer l’utilisateur en cas d’erreur lors de la requête vers stopforumspam.com ?";
+$l['setting_stopforumspam_log_blocks'] = "Journalisation des blocages";
+$l['setting_stopforumspam_log_blocks_desc'] = "Journaliser chaque blocage fait à l’aide de stopforumspam.com ?";
+$l['setting_purgespammerapikey'] = "Clé API Stop Forum Spam";
+$l['setting_purgespammerapikey_desc'] = "Une clé API est nécessaire pour soumettre des informations à stopforumspam.com. Vous pouvez en obtenir une à <a href=\"https://www.stopforumspam.com/forum/register.php\" target=\"_blank\" rel=\"noopener\">cette adresse</a>.";
 
 // Settings: Statistics Page
 $l['setting_statsenabled'] = "Activation de la page des statistiques";
