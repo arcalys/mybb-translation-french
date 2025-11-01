@@ -416,6 +416,17 @@ $l['setting_enablecalendar'] = "Activation du calendrier";
 $l['setting_enablecalendar_desc'] = "Activer le système de calendrier et d’événements du forum ?";
 
 // Settings: Who's Online
+$l['setting_wolcutoffmins'] = "Période d’inactivité";
+$l['setting_wolcutoffmins_desc'] = "Le nombre de minutes avant qu’un utilisateur ne soit marqué comme hors-ligne. La valeur recommandée est de « 15 » minutes.";
+$l['setting_refreshwol'] = "Intervalle de rafraîchissement";
+$l['setting_refreshwol_desc'] = "L’intervalle auquel rafraîchir la page. Saisissez « 0 » pour désactiver le rafraîchissement automatique.";
+$l['setting_wolorder'] = "Ordre d’affichage";
+$l['setting_wolorder_desc'] = "Sélectionnez le champ selon lequel les utilisateurs seront triés par défaut.<br />Remarque : ce paramètre n’a d’effet que sur les pages du portail et de l’index.";
+$l['setting_wolusersperpage'] = "Nombre d’utilisateurs par page";
+$l['setting_wolusersperpage_desc'] = "Le nombre d’utilisateurs affichés par page. Saisissez « 0 » pour utiliser la valeur par défaut.";
+$l['setting_woldisplayspiders'] = "Affichage des robots";
+$l['setting_woldisplayspiders_desc'] = "Afficher les robots dans la liste des utilisateurs en ligne ?<br />Remarque : ce paramètre n’a d’effet que sur les pages du portail et de l’index.";
+
 // Settings: User Pruning
 // Settings: Portal Settings
 // Settings: Search System
