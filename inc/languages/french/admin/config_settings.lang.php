@@ -251,7 +251,7 @@ $l['setting_faxno_desc'] = "Si vous disposez d’un numéro de fax, indiquez-le 
 $l['setting_bblanguage'] = "Langue par défaut";
 $l['setting_bblanguage_desc'] = "La langue que MyBB doit utiliser pour les invités et pour les utilisateurs n’ayant pas sélectionné de langue dans leur panneau de contrôle.";
 $l['setting_captchaimage'] = "Images de vérification pour l’inscription et la publication";
-$l['setting_captchaimage_desc'] = "Pour aider à prévenir les inscriptions et publications automatisées, vous pouvez choisir un type d’image de vérification que l’utilisateur devra compléter. Veuillez consulter la documentation officielle pour plus d’informations sur les images de confirmation.";
+$l['setting_captchaimage_desc'] = "Pour aider à prévenir les inscriptions et publications automatisées, vous pouvez choisir un type d’image de vérification que l’utilisateur devra compléter. Veuillez consulter la <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">documentation officielle</a> pour plus d’informations sur les images de confirmation.";
 $l['setting_recaptchapublickey'] = "Clé publique reCAPTCHA";
 $l['setting_recaptchapublickey_desc'] = "Saisissez votre clé publique pour utiliser reCAPTCHA.";
 $l['setting_recaptchaprivatekey'] = "Clé privée reCAPTCHA";
@@ -299,7 +299,7 @@ $l['setting_enableforumjump_desc'] = "Le menu d’accès rapide aux forums s’a
 
 // Settings: Server and Optimization Options
 $l['setting_seourls'] = "Activer les adresses conviviales pour les moteurs de recherche ?";
-$l['setting_seourls_desc'] = "Ce paramètre raccourcit les liens, les rendant plus conviviaux, plus faciles à lire et pertinents pour les moteur de recherche. Par exemple : « showthread.php?tid=1 » devient « thread-1.html ».<br /><strong>Une fois ce paramètre activé, assurez-vous que le fichier « .htaccess » de MyBB soit présent dans le répertoire racine de votre forum (ou l’équivalent pour votre serveur web).<br />La détection automatique peut ne pas fonctionner sur tous les serveurs.</strong><br />Consultez la <a href=\"https://docs.mybb.com/1.8/administration/configuring-search-engine-friendly-URLs\">documentation officielle</a> pour plus d’informations.";
+$l['setting_seourls_desc'] = "Ce paramètre raccourcit les liens, les rendant plus conviviaux, plus faciles à lire et pertinents pour les moteur de recherche. Par exemple : « showthread.php?tid=1 » devient « thread-1.html ».<br /><strong>Une fois ce paramètre activé, assurez-vous que le fichier « .htaccess » de MyBB soit présent dans le répertoire racine de votre forum (ou l’équivalent pour votre serveur web).<br />La détection automatique peut ne pas fonctionner sur tous les serveurs.</strong><br />Consultez la <a href=\"https://docs.mybb.com/1.8/administration/configuring-search-engine-friendly-URLs\" target=\"_blank\" rel=\"noopener\">documentation officielle</a> pour plus d’informations.";
 $l['setting_gzipoutput'] = "Utiliser la compression GZip des pages ?";
 $l['setting_gzipoutput_desc'] = "Souhaitez-vous compresser les pages au format GZip lorsqu’elles sont envoyées au navigateur ? Cela permet des téléchargements plus rapides pour vos visiteurs et réduit l’utilisation de la bande passante pour le serveur.";
 $l['setting_gziplevel'] = "Niveau de compression GZip";
@@ -374,6 +374,23 @@ $l['setting_showforumviewing'] = "Affichage des utilisateurs consultant les foru
 $l['setting_showforumviewing_desc'] = "Afficher une liste des utilisateurs consultant chaque forum ?";
 
 // Settings: Forum Display Options
+$l['setting_threadsperpage'] = "Nombre de sujets par page";
+$l['setting_threadsperpage_desc'] = "Le nombre de sujets à afficher par page dans les forums.";
+$l['setting_hottopic'] = "Nombre de réponses pour les sujets populaires";
+$l['setting_hottopic_desc'] = "Le nombre de réponses nécessaires pour qu’un sujet soit considéré comme « populaire ».";
+$l['setting_hottopicviews'] = "Nombre de vues pour les sujets populaires";
+$l['setting_hottopicviews_desc'] = "Le nombre de vues nécessaires pour qu’un sujet soit considéré comme « populaire ».";
+$l['setting_usertppoptions'] = "Nombre de sujets par page sélectionnables par l’utilisateur";
+$l['setting_usertppoptions_desc'] = "La liste des nombres de sujets par page que peuvent choisir les utilisateurs dans les forums. Séparez les options par une virgule et saisissez « 0 » pour ne pas laisser ce choix aux utilisateurs.";
+$l['setting_dotfolders'] = "Affichage des points sur les indicateurs des sujets";
+$l['setting_dotfolders_desc'] = "Afficher des points sur les indicateurs des sujets auxquels les utilisateurs ont participé ?";
+$l['setting_browsingthisforum'] = "Affichage des utilisateurs consultant le forum";
+$l['setting_browsingthisforum_desc'] = "Afficher la liste des utilisateurs actuellement présents sur le forum courant ?";
+$l['setting_announcementlimit'] = "Nombre d’annonces à afficher";
+$l['setting_announcementlimit_desc'] = "Le nombre d’annonces à afficher dans la liste des sujets de chaque forum. Saisissez « 0 » pour désactiver complètement les annonces.";
+$l['setting_readparentforums'] = "Marquer les forums parents comme lus";
+$l['setting_readparentforums_desc'] = "Tenter de marquer les forums parents d’un sous-forum comme lus lorsque tous les messages ont été lus ? Attention, cette option peut entraîner une baisse des performances et générer plusieurs requêtes supplémentaires vers la base de données.<br />Cette fonction est expérimentale. Consultez la <a href=\"https://docs.mybb.com/contents/\" target=\"_blank\" rel=\"noopener\">documentation officielle</a> pour plus d’informations.";
+
 // Settings: Show Thread Options
 // Settings: Login and Registration Options
 // Settings: Profile Options
