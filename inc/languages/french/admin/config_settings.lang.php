@@ -630,26 +630,26 @@ $l['setting_memberlistmaxavatarsize_desc'] = "Les dimensions maximales des avata
 // $l['setting_maxwarningpoints_desc'] = "";
 
 // Settings: Private Messaging
-// $l['setting_privatemessaging'] = "";
-// $l['setting_privatemessaging_desc'] = "";
-// $l['setting_pmquickreply'] = "";
-// $l['setting_pmquickreply_desc'] = "";
-// $l['setting_pmsallowhtml'] = "";
-// $l['setting_pmsallowhtml_desc'] = "";
-// $l['setting_pmsallowmycode'] = "";
-// $l['setting_pmsallowmycode_desc'] = "";
-// $l['setting_pmsallowsmilies'] = "";
-// $l['setting_pmsallowsmilies_desc'] = "";
-// $l['setting_pmsallowimgcode'] = "";
-// $l['setting_pmsallowimgcode_desc'] = "";
-// $l['setting_pmsallowvideocode'] = "";
-// $l['setting_pmsallowvideocode_desc'] = "";
-// $l['setting_pmfloodsecs'] = "";
-// $l['setting_pmfloodsecs_desc'] = "";
-// $l['setting_showpmip'] = "";
-// $l['setting_showpmip_desc'] = "";
-// $l['setting_maxpmquotedepth'] = "";
-// $l['setting_maxpmquotedepth_desc'] = "";
+$l['setting_enablepms'] = "Activation de la messagerie privée";
+$l['setting_enablepms_desc'] = "Activer le système de messagerie privée du forum ?";
+$l['setting_pmquickreply'] = "Affichage du formulaire de réponse rapide";
+$l['setting_pmquickreply_desc'] = "Afficher le formulaire de réponse rapide en-dessous des messages ?";
+$l['setting_pmsallowhtml'] = "Utilisation du HTML";
+$l['setting_pmsallowhtml_desc'] = "Autoriser l’utilisation du HTML dans les messages privés ?";
+$l['setting_pmsallowmycode'] = "Utilisation des MyCodes";
+$l['setting_pmsallowmycode_desc'] = "Autoriser l’utilisation des MyCodes dans les messages privés ?";
+$l['setting_pmsallowsmilies'] = "Utilisation des émoticônes";
+$l['setting_pmsallowsmilies_desc'] = "Autoriser l’utilisation des émoticônes dans les messages privés ?";
+$l['setting_pmsallowimgcode'] = "Utilisation du MyCode « image »";
+$l['setting_pmsallowimgcode_desc'] = "Autoriser l’utilisation du MyCode « image » dans les messages privés ?";
+$l['setting_pmsallowvideocode'] = "Utilisation du MyCode « vidéo »";
+$l['setting_pmsallowvideocode_desc'] = "Autoriser l’utilisation du MyCode « vidéo » dans les messages privés ?";
+$l['setting_pmfloodsecs'] = "Intervalle de temps entre les messages";
+$l['setting_pmfloodsecs_desc'] = "L’intervalle de temps (en secondes) que les utilisateurs doivent attendre entre deux envois de message. Saisissez « 0 » pour désactiver cette limitation.";
+$l['setting_showpmip'] = "Affichage des adresses IP";
+$l['setting_showpmip_desc'] = "Afficher les adresses IP des expéditeurs ? Et si oui, pour qui souhaitez-vous qu’elles soient visibles ?";
+$l['setting_maxpmquotedepth'] = "Nombre maximal de citations imbriquées";
+$l['setting_maxpmquotedepth_desc'] = "La profondeur maximale autorisée pour les balises de citation. Toutes les citations imbriquées dépassant ce seuil seront automatiquement supprimées du message.<br />Note : cette valeur n’est appliquée que lors d’une réponse avec citation : il reste possible de dépasser manuellement cette limite.<br />Ce paramètre n’affecte pas les messages déjà envoyés.<br />Saisissez « 0 » pour désactiver cette limitation.";
 
 // Settings: Calendar
 $l['setting_enablecalendar'] = "Activation du calendrier";
