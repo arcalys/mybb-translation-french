@@ -668,22 +668,22 @@ $l['setting_woldisplayspiders'] = "Affichage des robots";
 $l['setting_woldisplayspiders_desc'] = "Afficher les robots dans la liste des utilisateurs en ligne ?<br />Remarque : ce paramètre n’a d’effet que sur les pages du portail et de l’index.";
 
 // Settings: User Pruning
-// $l['setting_enablepruning'] = "";
-// $l['setting_enablepruning_desc'] = "";
-// $l['setting_enableprunebyposts'] = "";
-// $l['setting_enableprunebyposts_desc'] = "";
-// $l['setting_prunepostcount'] = "";
-// $l['setting_prunepostcount_desc'] = "";
-// $l['setting_prunepostcountall'] = "";
-// $l['setting_prunepostcountall_desc'] = "";
-// $l['setting_dayspruneregistered'] = "";
-// $l['setting_dayspruneregistered_desc'] = "";
-// $l['setting_pruneunactived'] = "";
-// $l['setting_pruneunactived_desc'] = "";
-// $l['setting_dayspruneunactivated'] = "";
-// $l['setting_dayspruneunactivated_desc'] = "";
-// $l['setting_prunethreads'] = "";
-// $l['setting_prunethreads_desc'] = "";
+$l['setting_enablepruning'] = "Purge des utilisateurs";
+$l['setting_enablepruning_desc'] = "Activer le système de purge des utilisateurs ?";
+$l['setting_enableprunebyposts'] = "Purge des utilisateurs par nombre de messages";
+$l['setting_enableprunebyposts_desc'] = "Activer la purge des utilisateurs en fonction de leur nombre de messages ?";
+$l['setting_prunepostcount'] = "Nombre de messages";
+$l['setting_prunepostcount_desc'] = "Le nombre de messages en dessous duquel les utilisateurs seront purgés.";
+$l['setting_prunepostcountall'] = "Comptabilisation de tous les messages";
+$l['setting_prunepostcountall_desc'] = "Comptabiliser tous les messages, y compris ceux des forums n’augmentant pas le nombre de messages des utilisateurs ?";
+$l['setting_dayspruneregistered'] = "Jours d’inscription";
+$l['setting_dayspruneregistered_desc'] = "Le nombre de jours d’inscription minimal avant qu’un utilisateur ne puisse être purgé.";
+$l['setting_pruneunactived'] = "Purge des comptes non activés";
+$l['setting_pruneunactived_desc'] = "Activer la purge des comptes n’ayant jamais été activés ?";
+$l['setting_dayspruneunactivated'] = "Nombre de jours avant de purger les comptes inactifs";
+$l['setting_dayspruneunactivated_desc'] = "Le nombre de jours après lequel les comptes n’ayant jamais été activés seront purgés.";
+$l['setting_prunethreads'] = "Purge des sujets et messages";
+$l['setting_prunethreads_desc'] = "Supprimer tous les sujets et messages des utilisateurs purgés ?";
 
 // Settings: Portal Settings
 $l['setting_portal'] = "Activation du portail";
