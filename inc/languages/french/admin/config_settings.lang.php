@@ -620,16 +620,16 @@ $l['setting_memberlistmaxavatarsize_desc'] = "Les dimensions maximales des avata
 // $l['setting_minreplength_desc'] = "";
 
 // Settings: Warning System Settings
-// $l['setting_enablewarningsystem'] = "";
-// $l['setting_enablewarningsystem_desc'] = "";
-// $l['setting_allowcustomwarnings'] = "";
-// $l['setting_allowcustomwarnings_desc'] = "";
-// $l['setting_canviewownwarning'] = "";
-// $l['setting_canviewownwarning_desc'] = "";
-// $l['setting_allowanonwarningpms'] = "";
-// $l['setting_allowanonwarningpms_desc'] = "";
-// $l['setting_maxwarningpoints'] = "";
-// $l['setting_maxwarningpoints_desc'] = "";
+$l['setting_enablewarningsystem'] = "Activation du système d’avertissements";
+$l['setting_enablewarningsystem_desc'] = "Activer le système d’avertissements du forum ?";
+$l['setting_allowcustomwarnings'] = "Autoriser les types d’avertissements personnalisés ?";
+$l['setting_allowcustomwarnings_desc'] = "Permettre l’utilisation de points et de raisons d’avertissement personnalisés ?";
+$l['setting_canviewownwarning'] = "Les utilisateurs peuvent-ils consulter leurs propres avertissements ?";
+$l['setting_canviewownwarning_desc'] = "Permettre aux utilisateurs de consulter leurs avertissements récents et leur niveau d’avertissement depuis leur profil et leur panneau de contrôle ?";
+$l['setting_allowanonwarningpms'] = "Autoriser l’envoi de messages privés anonymes d’avertissement ?";
+$l['setting_allowanonwarningpms_desc'] = "Permettre aux modérateurs d’envoyer des messages privés liés aux avertissements de manière anonyme ?";
+$l['setting_maxwarningpoints'] = "Seuil maximal de points d’avertissement";
+$l['setting_maxwarningpoints_desc'] = "Le nombre maximal de points qu’un utilisateur peut recevoir avant que son niveau d’avertissement n’atteigne 100 %.";
 
 // Settings: Private Messaging
 $l['setting_enablepms'] = "Activation de la messagerie privée";
