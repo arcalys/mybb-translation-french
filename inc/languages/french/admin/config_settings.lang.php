@@ -600,24 +600,24 @@ $l['setting_memberlistmaxavatarsize'] = "Dimensions maximales d’affichage des 
 $l['setting_memberlistmaxavatarsize_desc'] = "Les dimensions maximales des avatars affichés dans la liste des membres, avec la largeur et la hauteur séparées par « x » ou « | ».<br />Si un avatar est trop grand, il sera automatiquement redimensionné.";
 
 // Settings: Reputation
-// $l['setting_enablereputation'] = "";
-// $l['setting_enablereputation_desc'] = "";
-// $l['setting_posrep'] = "";
-// $l['setting_posrep_desc'] = "";
-// $l['setting_negrep'] = "";
-// $l['setting_negrep_desc'] = "";
-// $l['setting_neurep'] = "";
-// $l['setting_neurep_desc'] = "";
-// $l['setting_multirep'] = "";
-// $l['setting_multirep_desc'] = "";
-// $l['setting_postrep'] = "";
-// $l['setting_postrep_desc'] = "";
-// $l['setting_repsperpage'] = "";
-// $l['setting_repsperpage_desc'] = "";
-// $l['setting_maxreplength'] = "";
-// $l['setting_maxreplength_desc'] = "";
-// $l['setting_minreplength'] = "";
-// $l['setting_minreplength_desc'] = "";
+$l['setting_enablereputation'] = "Activation du système de réputation";
+$l['setting_enablereputation_desc'] = "Activer le système de réputation du forum ?";
+$l['setting_posrep'] = "Ajout d’évaluation positive";
+$l['setting_posrep_desc'] = "Permettre aux utilisateurs de donner une évaluation positive ?";
+$l['setting_negrep'] = "Ajout d’évaluation négative";
+$l['setting_negrep_desc'] = "Permettre aux utilisateurs de donner une évaluation négative ?";
+$l['setting_neurep'] = "Ajout d’évaluation neutre";
+$l['setting_neurep_desc'] = "Permettre aux utilisateurs de donner une évaluation neutre ?";
+$l['setting_multirep'] = "Ajout de multiples évaluations";
+$l['setting_multirep_desc'] = "Permettre aux utilisateurs d’évaluer un même membre à de multiples reprises ?<br />Remarque : cela n’affecte pas les évaluations liées aux messages.";
+$l['setting_postrep'] = "Évaluation des messages";
+$l['setting_postrep_desc'] = "Permettre aux utilisateurs de lier les évaluations à des messages ?";
+$l['setting_repsperpage'] = "Nombre de commentaires par page";
+$l['setting_repsperpage_desc'] = "Le nombre de commentaires à afficher par page dans le système de réputation.";
+$l['setting_maxreplength'] = "Longueur maximale d’une évaluation";
+$l['setting_maxreplength_desc'] = "Le nombre maximal de caractères qu’une évaluation peut contenir.";
+$l['setting_minreplength'] = "Longueur minimale d’une évaluation";
+$l['setting_minreplength_desc'] = "Le nombre minimal de caractères qu’une évaluation doit contenir.";
 
 // Settings: Warning System Settings
 $l['setting_enablewarningsystem'] = "Activation du système d’avertissements";
