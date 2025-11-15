@@ -204,7 +204,7 @@ $l['sort_order_asc'] = "Croissant";
 $l['sort_order_desc'] = "Décroissant";
 
 $l['misc_options'] = "Autres options";
-$l['allow_html'] = "Autoriser l’HTML dans les messages";
+$l['allow_html'] = "Autoriser le HTML dans les messages";
 $l['allow_mycode'] = "Autoriser les MyCodes dans les messages";
 $l['allow_smilies'] = "Autoriser les émoticônes dans les messages";
 $l['allow_img_code'] = "Autoriser les balises [img] dans les messages (nécessite que les MyCodes soient autorisés)";
