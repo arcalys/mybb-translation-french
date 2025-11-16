@@ -274,7 +274,7 @@ $l['setting_hcaptchatheme'] = "Thème du composant hCaptcha";
 $l['setting_hcaptchatheme_desc'] = "Sélectionnez le thème à utiliser pour le composant hCaptcha.";
 $l['setting_hcaptchasize'] = "Taille du composant hCaptcha";
 $l['setting_hcaptchasize_desc'] = "Sélectionnez la taille à utiliser pour le composant hCaptcha.";
-$l['setting_reportmethod'] = "Méthode de notification du contenu signalé";
+$l['setting_reportmethod'] = "Mode de notification du contenu signalé";
 $l['setting_reportmethod_desc'] = "Sélectionnez la manière dont vous souhaitez que les modérateurs soient notifiés lorsqu’un contenu est signalé.<br />Remarque : les modérateurs ne sont notifiés que pour les messages des forums qu’ils modèrent ou pour tout le contenu s’ils sont super-modérateurs.";
 $l['setting_decpoint'] = "Séparateur décimal";
 $l['setting_decpoint_desc'] = "Le séparateur décimal utilisé dans votre langue ou région.";
@@ -718,6 +718,8 @@ $l['setting_portal_excludediscussion_desc'] = "Sélectionnez les forums à exclu
 // Settings: Search System
 $l['setting_searchtype'] = "Type de recherche";
 $l['setting_searchtype_desc'] = "Sélectionnez le type de système de recherche que vous souhaitez utiliser. Vous pouvez choisir entre « Standard » ou « Texte intégral » (selon votre moteur de base de données).<br />La recherche en texte intégral est plus puissante et plus rapide que la recherche standard de MyBB.";
+$l['setting_searchtype_standard'] = "Recherche standard";
+$l['setting_searchtype_fulltext'] = "Recherche en texte intégral";
 $l['setting_searchfloodtime'] = "Intervalle de temps entre les recherches";
 $l['setting_searchfloodtime_desc'] = "L’intervalle de temps minimal (en secondes) à respecter entre deux recherches. Cela empêche les utilisateurs de surcharger votre serveur en effectuant des recherches de manière répétée. Saisissez « 0 » pour désactiver cette limitation.";
 $l['setting_minsearchword'] = "Longueur minimale des termes recherchés";
