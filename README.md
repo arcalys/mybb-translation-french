@@ -6,7 +6,7 @@ This repository contains a **French language pack** for MyBB 1.9 and newer.
 
 - Fully compatible with the latest MyBB 1.9+ version
 - Includes translations for both the **administrator control panel (ACP)** and the **frontend**
-- Includes translations for database seeds (groups, settings, tasks, etc.).
+- Includes translations for database values (groups, settings, tasks, etc.).
 
 ## Installation
 
