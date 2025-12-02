@@ -405,7 +405,7 @@ $l['powered_by_desc'] = "Le meilleur logiciel de forum libre et open source";
 $l['copyright'] = "Droits d’auteur";
 $l['attach_quota'] = "Votre quota de pièces jointes est de {1}.";
 $l['attach_usage'] = "Vous utilisez actuellement <strong>{1}</strong>.";
-$l['view_attachments'] = "[Voir mes pièces jointes]";
+$l['view_attachments'] = "Voir mes pièces jointes";
 $l['unlimited'] = "Illimité";
 
 $l['click_hold_edit'] = "(Cliquez et maintenez pour éditer)";

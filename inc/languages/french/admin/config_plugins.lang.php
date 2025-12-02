@@ -38,7 +38,7 @@ $l['search'] = "Rechercher";
 
 $l['error_vcheck_no_supported_plugins'] = "Aucune des extensions installées ne prend en charge la vérification de version.";
 $l['error_vcheck_communications_problem'] = "Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer dans quelques minutes.";
-$l['error_vcheck_vulnerable'] = "[Extension vulnérable] :";
+$l['error_vcheck_vulnerable'] = "Extension vulnérable";
 $l['error_vcheck_vulnerable_notes'] = "Cette extension a été signalée comme vulnérable par l’équipe MyBB. Nous vous recommandons de la supprimer immédiatement. Consultez les informations ci-dessous :";
 $l['error_no_input'] = "Code d’erreur 1 : aucune donnée spécifiée.";
 $l['error_no_pids'] = "Code d’erreur 2 : aucun identifiant d’extension spécifié.";

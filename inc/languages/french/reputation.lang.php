@@ -49,7 +49,6 @@ $l['neu_rep_disabled'] = "<span class=\"smalltext\">* - <em>Les évaluations neu
 $l['rating'] = "Évaluation";
 $l['comment'] = "Commentaire";
 $l['no_comment_needed'] = "Vous ajoutez une évaluation visible dans le profil de l’utilisateur. Aucun commentaire n’est nécessaire, mais si vous souhaitez en laisser un, veuillez le saisir ci-dessous.<br />";
-
 $l['no_comment'] = "Aucun commentaire";
 $l['vote_added'] = "Évaluation ajoutée";
 $l['vote_updated'] = "Évaluation mise à jour";
