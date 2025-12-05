@@ -136,6 +136,7 @@ $l['edit_options'] = "Modifier les préférences";
 $l['login_cookies_privacy'] = "Confidentialité";
 $l['invisible_mode'] = "Masquer ma présence dans la liste des utilisateurs en ligne.";
 $l['invisible_mode_desc'] = "En cochant cette option, vous serez invisible dans la liste des utilisateurs en ligne. Cette option n'affecte pas votre liste d'amis.";
+$l['show_time_spent_online'] = "Afficher le temps que j’ai passé en ligne sur mon profil.";
 $l['messaging_notification'] = "Messagerie et notifications";
 $l['allow_notices'] = "Recevoir des courriels des administrateurs.";
 $l['allow_notices_desc'] = "En cochant cette option, vous autorisez les administrateurs à vous envoyer des notifications et informations concernant le forum.";

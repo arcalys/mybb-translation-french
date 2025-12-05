@@ -178,6 +178,7 @@ $l['return_date_desc'] = "Si la date de retour est connue, vous pouvez la saisir
 $l['error_acp_return_date_past'] = "Vous ne pouvez pas définir une date dans le passé !";
 
 $l['hide_from_whos_online'] = "Masquer la présence dans la liste des utilisateurs en ligne.";
+$l['show_time_spent_online'] = "Afficher le temps passé en ligne sur le profil.";
 $l['login_cookies_privacy'] = "Connexion, cookies et confidentialité";
 $l['recieve_admin_emails'] = "Recevoir des courriels des administrateurs.";
 $l['hide_email_from_others'] = "Masquer l’adresse électronique aux autres utilisateurs.";
