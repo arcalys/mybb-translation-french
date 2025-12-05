@@ -204,3 +204,8 @@ $l['quickreply_signature'] = "Signature";
 $l['quickreply_disable_smilies'] = "Désactiver les émoticônes";
 $l['quickreply_save_copy'] = "Enregistrer une copie";
 $l['quickreply_read_receipt'] = "Demander un accusé de réception";
+
+$l['error_suspend_pm'] = "Vous ne pouvez plus envoyer ni recevoir de messages privés car vos privilèges sont suspendus {1}.<br />
+Date de suspension : {2}";
+$l['error_suspend_pm_temporal'] = "jusqu’au {1}";
+$l['error_suspend_pm_permanent'] = "de manière permanente";

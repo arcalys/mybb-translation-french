@@ -260,6 +260,9 @@ $l['suspend_for'] = "Suspendre pendant :";
 $l['suspended_perm'] = "<p><small>Suspension permanente.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette suspension.</small></p>";
 $l['suspend_length'] = "<p><small>Durée restante de la suspension : <span style=\"color: {2};\">{1}</span>.<br />Entrez un nouveau délai ci-dessous pour modifier ou décochez cette option pour lever cette suspension.</small></p>";
 
+$l['suspend_pm'] = "Suspendre la messagerie privée";
+$l['suspend_pm_info'] = "Empêcher {1} d’envoyer et de recevoir de nouveaux messages privés.";
+
 $l['suspendsignature_error'] = "Vous avez choisi de suspendre la signature de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
 $l['moderateposting_error'] = "Vous avez choisi de modérer les messages de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
 $l['suspendposting_error'] = "Vous avez choisi de suspendre les messages de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";

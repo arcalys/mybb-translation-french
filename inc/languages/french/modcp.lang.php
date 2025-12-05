@@ -253,18 +253,23 @@ $l['mod_notes'] = "Notes de la modération";
 $l['moderation'] = "Options de modération";
 $l['moderate_posts'] = "Modérer les messages de cet utilisateur";
 $l['suspend_posts'] = "Suspendre les droits de publication de cet utilisateur";
+$l['suspend_pm'] = "Suspendre la messagerie privée de cet utilisateur";
 $l['modpost_length'] = "Durée de la modération";
 $l['suspost_length'] = "Durée de la suspension";
+$l['suspm_length'] = "Durée de la suspension:";
 
 $l['moderateposts_for'] = "Modération des messages jusqu’à : {1}.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la prolonger ci-dessous.";
 $l['suspendposting_for'] = "Suspension des messages jusqu’à : {1}.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la prolonger ci-dessous.";
+$l['suspendpm_for'] = "Suspension de la messagerie privée jusqu’à : {1}.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la prolonger ci-dessous.";
 $l['suspendsignature_for'] = "Suspension de la signature jusqu’à : {1}.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la prolonger ci-dessous.";
 $l['suspendposting_perm'] = "Suspension permanente des messages.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la modifier ci-dessous.";
+$l['suspendpm_perm'] = "Suspension permanente de la messagerie privée.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la modifier ci-dessous.";
 $l['moderateposts_perm'] = "Modération permanente des messages.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la modifier ci-dessous.";
 $l['suspendsignature_perm'] = "Suspension permanente de la signature.<br />Décochez cette option pour l’annuler. Vous pouvez aussi la modifier ci-dessous.";
-$l['suspendsignature_error'] = "Vous avez choisi de suspendre la signature de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décochez l’option pour annuler.";
-$l['moderateposting_error'] = "Vous avez choisi de modérer les messages de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décochez l’option pour annuler.";
-$l['suspendposting_error'] = "Vous avez choisi de suspendre les messages de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décochez l’option pour annuler.";
+$l['suspendsignature_error'] = "Vous avez choisi de suspendre la signature de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décocher l’option pour annuler.";
+$l['moderateposting_error'] = "Vous avez choisi de modérer les messages de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décocher l’option pour annuler.";
+$l['suspendposting_error'] = "Vous avez choisi de suspendre les messages de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décocher l’option pour annuler.";
+$l['suspendpm_error'] = "Vous avez choisi de suspendre la messagerie privée de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décocher l’option pour annuler.";
 $l['suspendmoderate_error'] = "Vous avez choisi de suspendre et de modérer les messages de cet utilisateur. Veuillez sélectionner un seul type de modération.";
 
 $l['expire_hours'] = "heure(s)";
