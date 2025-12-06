@@ -462,7 +462,7 @@ $l['ajax_loading'] = "Chargement. <br />Veuillez patienter…";
 $l['saving_changes'] = "Enregistrement des modifications…";
 $l['refresh'] = "Rafraîchir";
 $l['select_language'] = "Choix de la langue";
-$l['select_theme'] = "Choix de l’apparence";
+$l['select_theme'] = "Choix du thème";
 
 $l['invalid_post_code'] = "Le code d’autorisation ne correspond pas. Accédez-vous correctement à cette fonction ? Veuillez revenir en arrière et réessayer.";
 $l['invalid_nocaptcha'] = "Veuillez résoudre le reCAPTCHA pour vérifier que vous n’êtes pas un robot.";
