@@ -12,7 +12,7 @@ $l['lastvisit_never'] = "Jamais";
 $l['lastvisit_hidden'] = "(Masqué)";
 
 $l['search_button'] = "Rechercher";
-$l['toplinks_memberlist'] = "Liste des membres";
+$l['toplinks_memberlist'] = "Membres";
 $l['toplinks_search'] = "Rechercher";
 $l['toplinks_calendar'] = "Calendrier";
 $l['toplinks_portal'] = "Portail";
@@ -22,6 +22,8 @@ $l['bottomlinks_returntop'] = "Retour en haut";
 $l['bottomlinks_syndication'] = "Flux RSS";
 $l['bottomlinks_markread'] = "Marquer tous les forums comme lus";
 $l['bottomlinks_help'] = "Aide";
+
+$l['nav_memberlist'] = "Membres";
 
 $l['welcome_usercp'] = "Mon compte";
 $l['welcome_modcp'] = "Modération";
