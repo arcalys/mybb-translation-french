@@ -113,6 +113,8 @@ $l['sig_preview'] = "Prévisualisation de votre signature";
 $l['sig_suspended'] = "Votre possibilité d’ajouter une signature a été suspendue.";
 $l['sig_suspended_posts'] = "Vous devez avoir au moins {1} messages avant de pouvoir ajouter une signature.";
 
+$l['avatar_suspended'] = "Votre possibilité d’ajouter un avatar a été suspendue.";
+
 $l['change_email'] = "Changer votre adresse électronique";
 $l['new_email'] = "Nouvelle adresse électronique";
 $l['confirm_email'] = "Confirmer la nouvelle adresse électronique";

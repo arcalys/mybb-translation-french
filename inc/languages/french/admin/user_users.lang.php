@@ -248,6 +248,9 @@ $l['suspend_expire_info'] = "<small>Restant : <span style=\"color: {2};\">{1}</
 $l['suspend_never_expire'] = "<small>La suspension de {1} n’expirera jamais (suspension permanente).</small>";
 $l['suspend_sig_error'] = "Veuillez saisir une durée correcte pour la suspension de la signature de cet utilisateur.";
 
+$l['suspend_avatar'] = "Suspendre l’avatar";
+$l['suspend_avatar_info'] = "Suspendre l’avatar de cet utilisateur";
+
 $l['moderate_posts'] = "Modérer les messages";
 $l['moderate_posts_info'] = "Modérer les nouveaux messages publiés par {1}.";
 $l['moderate_for'] = "Modérer pendant :";
@@ -263,6 +266,7 @@ $l['suspend_length'] = "<p><small>Durée restante de la suspension : <span styl
 $l['suspend_pm'] = "Suspendre la messagerie privée";
 $l['suspend_pm_info'] = "Empêcher {1} d’envoyer et de recevoir de nouveaux messages privés.";
 
+$l['suspendavatar_error'] = "Vous avez choisi de suspendre l’avatar de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
 $l['suspendsignature_error'] = "Vous avez choisi de suspendre la signature de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
 $l['moderateposting_error'] = "Vous avez choisi de modérer les messages de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
 $l['suspendposting_error'] = "Vous avez choisi de suspendre les messages de cet utilisateur, mais aucune durée valide n’a été saisie. Veuillez entrer une durée correcte ou décocher cette option pour annuler.";
