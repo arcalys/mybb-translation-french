@@ -10,7 +10,7 @@ $l['thread_prefixes'] = "Préfixes de sujets";
 $l['thread_prefixes_in'] = "Préfixes de sujets dans « {1} »";
 $l['thread_prefixes_desc'] = "Cette page vous permet de gérer les préfixes que les utilisateurs peuvent attribuer à leurs sujets. Les sujets peuvent alors être filtrés par préfixe dans un forum.";
 
-$l['add_new_thread_prefix'] = "Ajouter un nouveau préfixe";
+$l['add_new_thread_prefix'] = "Ajouter un préfixe";
 $l['add_new_thread_prefix_desc'] = "Cette page vous permet d’ajouter un nouveau préfixe et de définir où et pour qui il sera disponible.";
 
 $l['edit_prefix'] = "Modifier le préfixe";

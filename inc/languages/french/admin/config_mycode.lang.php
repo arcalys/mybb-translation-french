@@ -9,7 +9,7 @@
 $l['custom_mycode'] = "MyCodes personnalisés";
 $l['mycode'] = "MyCodes";
 $l['mycode_desc'] = "Les MyCodes personnalisés vous permettent de créer de nouvelles balises que vos membres pourront utiliser dans leurs messages.";
-$l['add_new_mycode'] = "Ajouter un nouveau MyCode";
+$l['add_new_mycode'] = "Ajouter un MyCode";
 $l['add_new_mycode_desc'] = "Cette page vous permet d’ajouter un nouveau MyCode personnalisé à votre forum. Utilisez la zone de test située sous le formulaire afin de vérifier votre expression régulière et sa valeur de remplacement avant de l’enregistrer.";
 $l['edit_mycode_desc'] = "Cette page vous permet de modifier un MyCode personnalisé. Utilisez la zone de test située sous le formulaire afin de vérifier votre expression régulière et sa valeur de remplacement avant de l’enregistrer.";
 

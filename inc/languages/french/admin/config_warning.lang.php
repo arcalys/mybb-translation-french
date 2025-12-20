@@ -9,7 +9,7 @@
 $l['warning_system'] = "Système d’avertissements";
 $l['warning_types'] = "Types d’avertissements";
 $l['warning_types_desc'] = "Cette page vous permet de gérer la liste des différents types d’avertissements que l’équipe du forum peut attribuer aux utilisateurs.";
-$l['add_warning_type'] = "Ajouter un nouveau type d’avertissement";
+$l['add_warning_type'] = "Ajouter un type d’avertissement";
 $l['add_warning_type_desc'] = "Cette page vous permet de créer un nouveau type d’avertissement prédéfini. Vous pouvez définir le nombre de points à ajouter pour ce type ainsi que la durée avant l’expiration des avertissements de ce type.";
 $l['edit_warning_type'] = "Modifier un type d’avertissement";
 $l['edit_warning_type_desc'] = "Cette page vous permet de modifier ce type d’avertissement. Vous pouvez définir le nombre de points à ajouter pour ce type ainsi que la durée avant l’expiration des avertissements de ce type.";
