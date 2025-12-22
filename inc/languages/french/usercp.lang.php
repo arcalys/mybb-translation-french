@@ -26,6 +26,7 @@ $l['nav_drafts'] = "Brouillons";
 $l['nav_attachments'] = "Gestionnaire de pièces jointes";
 $l['nav_subscriptions'] = "Abonnements";
 $l['nav_removesubscription'] = "Se désabonner";
+$l['nav_warninglog'] = "Journal des avertissements";
 $l['nav_securitylog'] = "Journal de sécurité";
 
 $l['resend_activation'] = "Renvoyer le courriel d’activation";
@@ -392,6 +393,7 @@ $l['warning_for_post'] = "pour le message : ";
 $l['warning_revoked'] = "Révoqué";
 $l['already_expired'] = "Expiré";
 $l['warning_points'] = "({1} points)";
+$l['acknowledge'] = "Accuser réception";
 $l['new_posts_thread'] = "Nouveaux messages";
 $l['new_hot_thread'] = "Sujet chaud (nouveaux messages)";
 $l['posts_by_you'] = "Contient vos messages";
@@ -436,6 +438,15 @@ $l['buddyrequest_accepted'] = "La demande d’ami sélectionnée a bien été ac
 $l['buddyrequest_declined'] = "La demande d’ami sélectionnée a bien été refusée.";
 $l['user_doesnt_exist'] = "Cet utilisateur n’existe plus.";
 $l['buddyrequests_sent_success'] = "Les demandes d’ami ont bien été envoyées.";
+
+$l['warning_log'] = "Journal des avertissements";
+$l['no_warning_logs'] = "Aucun avertissement n’a été émis à votre encontre.";
+$l['warning_already_revoked'] = "Cet avertissement a déjà été révoqué.";
+$l['warning_invalid'] = "L’avertissement spécifié est invalide ou n’existe pas.";
+$l['warning_already_acknowledged'] = "Vous avez déjà accusé réception de cet avertissement.";
+$l['warning_acknowledgement_not_required'] = "Cet avertissement ne nécessite pas d’accusé de réception.";
+$l['warning_acknowledgement_failed'] = "L’accusé de réception de cet avertissement a échoué.";
+$l['warning_acknowledgement_success'] = "Vous avez bien accusé réception de cet avertissement.";
 
 $l['security_log'] = "Journal de sécurité";
 $l['no_security_logs'] = "Aucune action de sécurité n’a été enregistrée.";

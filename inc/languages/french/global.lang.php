@@ -433,6 +433,7 @@ $l['quickdelete_confirm'] = "Êtes-vous sûr de vouloir supprimer ce message ?"
 $l['quickrestore_confirm'] = "Êtes-vous sûr de vouloir restaurer ce message?";
 $l['newpm_notice_one'] = "<strong>Vous avez un message privé non lu</strong> de la part de {1}, intitulé <a href=\"{2}/private.php?action=read&amp;pmid={3}\" style=\"font-weight: bold;\">{4}</a>";
 $l['newpm_notice_multiple'] = "<strong>Vous avez {1} messages privés non lus.</strong> Le plus récent est de la part de {2}, intitulé <a href=\"{3}/private.php?action=read&amp;pmid={4}\" style=\"font-weight: bold;\">{5}</a>";
+$l['unacknowledged_warnings_notice'] = "<strong>Vous avez {1} avertissement(s) en attente de confirmation.</strong> Veuillez consulter votre <strong><a href=\"usercp.php?action=warninglog\">panneau de contrôle</a></strong> pour plus d’informations.";
 $l['deleteevent_confirm'] = "Êtes-vous sûr de vouloir supprimer cet événement ?";
 $l['removeattach_confirm'] = "Êtes-vous sûr de vouloir supprimer la pièce jointe sélectionnée de ce message ?";
 
@@ -628,3 +629,7 @@ $l['expcol_collapse'] = "[-]";
 $l['expcol_expand'] = "[+]";
 
 $l['use_default'] = "Utiliser la valeur par défaut";
+
+$l['expires'] = "Expiration";
+$l['acknowledged'] = "Réception accusée";
+$l['not_acknowledged'] = "Réception non accusée";

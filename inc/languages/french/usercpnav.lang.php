@@ -32,4 +32,5 @@ $l['ucp_nav_view_profile'] = "Voir le profil";
 $l['ucp_nav_home'] = "Accueil du panneau d’utilisateur";
 $l['ucp_nav_usergroups'] = "Groupes";
 $l['ucp_nav_attachments'] = "Pièces jointes";
+$l['ucp_nav_warninglog'] = "Journal des avertissements";
 $l['ucp_nav_securitylog'] = "Journal de sécurité";
