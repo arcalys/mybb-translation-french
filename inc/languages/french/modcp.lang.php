@@ -275,6 +275,7 @@ $l['suspendposting_error'] = "Vous avez choisi de suspendre les messages de cet 
 $l['suspendpm_error'] = "Vous avez choisi de suspendre la messagerie privée de cet utilisateur, mais vous n’avez pas saisi de durée valide. Veuillez entrer une durée correcte ou décocher l’option pour annuler.";
 $l['suspendmoderate_error'] = "Vous avez choisi de suspendre et de modérer les messages de cet utilisateur. Veuillez sélectionner un seul type de modération.";
 
+$l['no_change'] = "Aucun changement";
 $l['expire_hours'] = "heure(s)";
 $l['expire_days'] = "jour(s)";
 $l['expire_weeks'] = "semaine(s)";
