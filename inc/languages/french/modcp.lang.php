@@ -345,5 +345,3 @@ $l['you_cannot_moderate_threads'] = "Vous n’avez pas la permission de modérer
 $l['you_cannot_moderate_posts'] = "Vous n’avez pas la permission de modérer les messages.";
 $l['you_cannot_moderate_attachments'] = "Vous n’avez pas la permission de modérer les pièces jointes.";
 $l['you_cannot_use_mod_queue'] = "Vous n’avez pas la permission d’utiliser la file de modération.";
-
-$l['post'] = "Message";

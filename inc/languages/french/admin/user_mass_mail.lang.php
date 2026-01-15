@@ -68,7 +68,6 @@ $l['step_four'] = "Étape 4";
 $l['delivery_method'] = "Type d’envoi";
 $l['private_message'] = "Message privé";
 $l['email'] = "Courriel";
-$l['subject'] = "Sujet";
 $l['message'] = "Message";
 $l['text_based'] = "Texte";
 $l['preview'] = "Prévisualiser";
