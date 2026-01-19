@@ -17,7 +17,7 @@ $l['nav_referrals'] = "Membres parrainés par {1}";
 $l['nav_profile'] = "Profil de {1}";
 
 $l['referrals'] = "Parrainages";
-$l['referral_date'] = "Date du parrainage :";
+$l['referral_date'] = "Date du parrainage";
 $l['referrals_no_user_specified'] = "Veuillez spécifier un utilisateur.";
 $l['referrals_invalid_user'] = "L’utilisateur spécifié est invalide.";
 $l['member_no_referrals'] = "Aucun parrainage pour cet utilisateur.";

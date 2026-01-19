@@ -372,7 +372,6 @@ $l['no_auto_subscribe'] = "Ne pas s’abonner";
 $l['no_subscribe'] = "Aucune notification";
 $l['instant_email_subscribe'] = "Notification instantanée par courriel";
 $l['instant_pm_subscribe'] = "Notification instantanée par message privé";
-$l['with_selected'] = "Pour les éléments sélectionnés :";
 $l['delete_subscriptions'] = "Supprimer les abonnements";
 $l['update_no_notification'] = "Supprimer les notifications";
 $l['update_email_notification'] = "Passer à la notification par courriel";
@@ -450,6 +449,8 @@ $l['warning_acknowledgement_success'] = "Vous avez bien accusé réception de ce
 
 $l['security_log'] = "Journal de sécurité";
 $l['no_security_logs'] = "Aucune action de sécurité n’a été enregistrée.";
+$l['security_log_activity'] = "Activité";
+$l['security_log_ip'] = "Adresse IP";
 $l['security_log_failed_login'] = "Échec de connexion";
 $l['security_log_failed_login_admincp'] = "Échec de connexion (Panneau d’administration)";
 $l['security_log_login_admincp'] = "Connexion réussie (Panneau d’administration)";

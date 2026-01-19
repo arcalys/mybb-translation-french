@@ -133,6 +133,8 @@ $l['last'] = "dernier";
 $l['all_day'] = "Toute la journée";
 $l['starts'] = "Commence ";
 $l['finishes'] = "Se termine ";
+$l['unapproved_event'] = "Cet événement est en attente d’approbation";
+$l['private_event'] = "Vous seul pouvez voir cet événement";
 
 $l['error_incorrectday'] = "Le jour que vous avez saisi semble incorrect. Veuillez réessayer.";
 $l['error_invalidevent'] = "L’événement spécifié est invalide ou n’existe pas.";

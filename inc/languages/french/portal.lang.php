@@ -32,7 +32,7 @@ $l['guest_welcome_registration'] = "Vous devez <a href=\"{1}\">vous inscrire</a>
 $l['username'] = "Nom d’utilisateur";
 $l['password'] = "Mot de passe";
 $l['login'] = "Connexion";
-$l['member_welcome_lastvisit'] = "Dernière visite :";
+$l['member_welcome_lastvisit'] = "Dernière visite";
 $l['since_then'] = "Depuis, il y a eu :";
 $l['new_announcements'] = "{1} nouvelles annonces";
 $l['new_announcement'] = "1 nouvelle annonce";

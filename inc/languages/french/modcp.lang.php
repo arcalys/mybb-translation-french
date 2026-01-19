@@ -291,6 +291,7 @@ $l['active_announcement'] = "Annonce active";
 $l['active'] = "Active";
 $l['expired'] = "Expirée";
 $l['edit'] = "Modifier";
+$l['add'] = "Ajouter";
 $l['add_announcement'] = "Ajouter une annonce";
 $l['edit_announcement'] = "Modifier une annonce";
 $l['no_forum_announcements'] = "Il n’y a actuellement aucune annonce dans ce forum.";
