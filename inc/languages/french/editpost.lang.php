@@ -48,8 +48,8 @@ $l['error_already_delete'] = "Ce message a déjà été supprimé.";
 
 $l['thread_deleted'] = "Sujet supprimé définitivement";
 $l['post_deleted'] = "Message supprimé définitivement";
-$l['thread_soft_deleted'] = "Sujet supprimé (soft delete)";
-$l['post_soft_deleted'] = "Message supprimé (soft delete)";
+$l['thread_soft_deleted'] = "Sujet supprimé temporairement";
+$l['post_soft_deleted'] = "Message supprimé temporairement";
 $l['thread_restored'] = "Sujet restauré";
 $l['post_restored'] = "Message restauré";
 
