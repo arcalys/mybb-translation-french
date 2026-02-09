@@ -20,6 +20,7 @@ $l['filter_warning_logs'] = "Filtrer le journal des avertissements";
 $l['filter_warned_user'] = "Utilisateur averti :";
 $l['filter_issued_by'] = "Avertissement donné par :";
 $l['filter_reason'] = "Le motif contient :";
+$l['filter_all'] = "Tous les avertissements";
 $l['sort_by'] = "Trier par :";
 $l['results_per_page'] = "Résultats par page :";
 $l['view'] = "Visualiser";
@@ -52,3 +53,6 @@ $l['error_no_revoke_reason'] = "Veuillez saisir la raison pour laquelle vous sou
 $l['redirect_warning_revoked'] = "Cet avertissement a bien été révoqué et le niveau d’avertissement de l’utilisateur a été diminué.";
 
 $l['warning_points'] = "({1} points)";
+$l['acknowledged'] = "Réception accusée";
+$l['not_acknowledged'] = "Réception non accusée";
+$l['acknowledgement_date'] = "Date de réception";
