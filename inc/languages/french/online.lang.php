@@ -12,7 +12,7 @@ $l['nav_onlinetoday'] = "Qui était en ligne aujourd’hui";
 $l['viewing_announcements'] = "Consulte une annonce : <a href=\"{1}\">{2}</a>";
 $l['viewing_announcements2'] = "Consulte une annonce";
 $l['viewing_attachment'] = "Consultation d’une pièce jointe";
-$l['viewing_attachment2'] = "Consultation de la <a href=\"attachment.php?aid={1}\" target=\"_blank\">pièce jointe</a> dans le sujet <a href=\"{3}\">{2}</a>";
+$l['viewing_attachment2'] = "Consultation de la <a href=\"{1}/attachment.php?aid={2}\" target=\"_blank\">pièce jointe</a> dans le sujet <a href=\"{1}/{4}\">{3}</a>";
 $l['viewing_calendar'] = "Consultation du <a href=\"calendar.php\">calendrier</a>";
 $l['viewing_event'] = "Consultation d’un événement";
 $l['viewing_event2'] = "Consultation de l’événement <a href=\"{1}\">{2}</a>";
