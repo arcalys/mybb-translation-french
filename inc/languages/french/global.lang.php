@@ -404,6 +404,7 @@ $l['banned_lifted_never'] = "jamais";
 $l['banned_email_warning'] = "Vous utilisez actuellement une adresse électronique qui n’est pas autorisée sur ce forum. Veuillez la modifier avant de continuer.";
 $l['powered_by'] = "Logiciel de forum par";
 $l['powered_by_desc'] = "Le meilleur logiciel de forum libre et open source";
+$l['language_powered_by'] = "Traduction française par";
 $l['copyright'] = "Droits d’auteur";
 $l['attach_quota'] = "Votre quota de pièces jointes est de {1}.";
 $l['attach_usage'] = "Vous utilisez actuellement <strong>{1}</strong>.";
