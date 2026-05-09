@@ -2,20 +2,23 @@
 /**
  * MyBB 1.9 French Language Pack
  * Traduction française pour MyBB 1.9
- * Copyright 2014 MyBB Group, All Rights Reserved
+  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
 $l['themes'] = "Thèmes";
 $l['themes_desc'] = "Cette page vous permet de gérer les thèmes disponibles sur votre forum. Ces différents thèmes permettent de personnaliser l'apparence de votre forum.";
 
-$l['create_new_theme'] = "Créer un nouveau thème";
-$l['create_new_theme_desc'] = "Cette page vous permet de créer un nouveau thème basé sur un thème existant. <strong>Les ensembles de templates, les feuilles de style et les autres paramètres sont hérités du thème parent.</strong>";
+$l['add_theme'] = "Ajouter un thème";
+$l['add_theme_desc'] = "Cette page vous permet de créer un nouveau thème basé sur un thème existant. <strong>Les ensembles de templates, les feuilles de style et les autres paramètres sont hérités du thème parent.</strong>";
 
-$l['import_a_theme'] = "Importer un thème";
+$l['import_a_theme'] = "Importer un thème (ancien système)";
 $l['import_a_theme_desc'] = "Cette page vous permet d’importer un thème.";
 
-$l['edit_stylesheets'] = "Modifier les feuilles de style";
+$l['edit_theme'] = "Modifier le thème";
+$l['edit_theme_desc'] = "Cette page vous permet de modifier les propriétés de ce thème.";
+
+$l['edit_stylesheets'] = "Modifier les feuilles de style (ancien système)";
 $l['edit_stylesheets_desc'] = "Cette page vous permet de gérer les feuilles de style utilisées par ce thème. Les feuilles de style sont basées sur le CSS et définissent les polices, couleurs et autres aspects visuels du thème. La liste des feuilles de style attachées à ce thème est visible ci-dessous.";
 
 $l['add_stylesheet'] = "Ajouter une feuille de style";
@@ -32,19 +35,6 @@ $l['export_theme_desc'] = "Cette page vous permet d’exporter vos thèmes et te
 $l['duplicate_theme'] = "Dupliquer un thème";
 $l['duplicate_theme_desc'] = "Cette page vous permet de dupliquer vos thèmes et d’en créer des versions alternatives.";
 
-$l['colors_manage'] = "Gérer les couleurs";
-$l['colors_attached_to'] = "paramètre de couleur";
-$l['colors_setting'] = "Couleur de base";
-$l['colors_setting_desc'] = "Sélectionnez la couleur que ce thème doit utiliser comme couleur de base. Les feuilles de style attachées à cette couleur seront utilisées.";
-$l['colors_no_color_setting'] = "Aucune couleur n’est disponible. Veuillez créer une liste de couleurs ci-dessous pour utiliser cette fonctionnalité.";
-$l['colors_add'] = "Ajouter des couleurs";
-$l['colors_add_desc'] = "Définissez la liste des couleurs disponibles pour ce thème. Chaque ligne doit suivre le format clé=valeur, par exemple <em>bleu=Bleu</em>, séparées par un saut de ligne.";
-$l['colors_please_select'] = "Aucune";
-$l['colors_add_edit_desc'] = "Sélectionnez une couleur pour attacher cette feuille de style. Vous pouvez en sélectionner plusieurs.";
-$l['colors_specific_color'] = "Couleur spécifique";
-
-$l['include_custom_only'] = "Inclure uniquement les éléments personnalisés ?";
-$l['include_custom_only_desc'] = "Sélectionnez « Oui » pour inclure uniquement les éléments personnalisés (feuilles de style, etc.). Sinon, les éléments hérités des thèmes parents seront également inclus.";
 $l['include_templates'] = "Inclure les templates dans l’exportation ?";
 $l['include_templates_desc'] = "Sélectionnez « Oui » pour inclure les templates personnalisés utilisés par ce thème.";
 
@@ -52,20 +42,20 @@ $l['edit_stylesheet'] = "Modifier la feuille de style";
 $l['edit_stylesheet_desc'] = "Cette page vous permet de modifier cette feuille de style. Le contenu CSS est affiché dans la zone de texte ci-dessous.";
 
 $l['theme'] = "Thème";
+$l['themes_using_package'] = "<em>{1}</em> ({2})";
+$l['theme_core_package'] = "Package de base";
+$l['theme_original_package'] = "Package importé";
+$l['theme_board_package'] = "Package personnalisé";
 $l['num_users'] = "Nombre d’utilisateurs";
-$l['edit_theme'] = "Modifier le thème";
 $l['delete_theme'] = "Supprimer le thème";
 $l['set_as_default'] = "Définir par défaut";
 $l['default_theme'] = "Thème par défaut";
 $l['force_on_users'] = "Forcer pour les utilisateurs";
-$l['delete_revert'] = "Supprimer / Restaurer";
 
 $l['local_file'] = "Fichier local";
 $l['url'] = "Adresse";
 $l['import_from'] = "Importer depuis";
 $l['import_from_desc'] = "Sélectionnez un fichier à importer. Vous pouvez importer le thème depuis votre ordinateur ou depuis une adresse. Utilisez uniquement des thèmes provenant de <strong>sources sûres et fiables</strong>.";
-$l['parent_theme'] = "Thème parent";
-$l['parent_theme_desc'] = "Sélectionnez le thème dont ce thème héritera.";
 $l['new_name'] = "Nom";
 $l['new_name_desc'] = "Saisissez un nom pour le thème qui sera importé. Si ce champ est vide, le nom du fichier sera utilisé.";
 $l['advanced_options'] = "Options avancées";
@@ -80,12 +70,11 @@ $l['import_theme'] = "Importer le thème";
 $l['new_name_duplicate_desc'] = "Saisissez un nom pour le thème une fois dupliqué.";
 $l['duplicate_stylesheets'] = "Dupliquer les feuilles de style";
 $l['duplicate_stylesheets_desc'] = "Si ce thème contient des feuilles de style personnalisées, doivent-elles être dupliquées ?";
-$l['duplicate_templates'] = "Dupliquer les templates";
-$l['duplicate_templates_desc'] = "Si ce thème contient des templates personnalisés, doivent-ils être dupliqués ?";
 
-$l['create_a_theme'] = "Créer un thème";
 $l['name'] = "Nom";
 $l['name_desc'] = "Spécifiez un nom pour le nouveau thème.";
+$l['package'] = "Package";
+$l['package_desc'] = "Sélectionnez le package que ce thème doit utiliser. Les packages de thèmes sont chargés depuis <code>{1}</code>.";
 $l['display_order'] = "Ordre d’affichage";
 
 $l['edit_theme_properties'] = "Modifier les propriétés du thème";
@@ -97,19 +86,10 @@ $l['template_set'] = "Ensemble de templates";
 $l['template_set_desc'] = "Spécifiez l’ensemble de templates à utiliser pour ce thème. L’ensemble de templates sélectionné définit le balisage HTML utilisé.";
 $l['editor_theme'] = "Style de l’éditeur";
 $l['editor_theme_desc'] = "Spécifiez le style à utiliser pour l’éditeur MyCode de ce thème. Les styles d’éditeur se trouvent dans le dossier <strong>jscripts/sceditor/themes</strong>.";
-$l['img_directory'] = "Répertoire des images";
-$l['img_directory_desc'] = "Répertoire racine pour les images utilisées par ce thème. Cela concerne uniquement les images des templates, pas celles des feuilles de style.";
-$l['logo'] = "Logo du forum";
-$l['logo_desc'] = "Emplacement du logo du forum utilisé dans ce thème (logo affiché en haut de chaque page).";
-$l['table_spacing'] = "Espacement des tableaux";
-$l['table_spacing_desc'] = "Largeur du remplissage interne des cellules du tableau, en pixels. C’est l’attribut HTML <em>cellpadding</em> de la balise <em>table</em>.";
-$l['inner_border'] = "Largeur de bordure interne des tableaux";
-$l['inner_border_desc'] = "Espacement entre chaque cellule du tableau, en pixels. C’est l’attribut HTML <em>cellspacing</em> de la balise <em>table</em>.";
 $l['save_theme_properties'] = "Enregistrer les propriétés du thème";
 $l['save_stylesheet_order'] = "Enregistrer l’ordre des feuilles de style";
 
 $l['stylesheets'] = "Feuilles de style";
-$l['inherited_from'] = "Hérité de";
 $l['attached_to'] = "Attaché à";
 $l['attached_to_nothing'] = "Non attaché";
 $l['attached_to_desc'] = "Vous pouvez attacher les feuilles de style globalement ou à des fichiers spécifiques. Pour les fichiers spécifiques, vous pouvez les attacher à des actions particulières dans chaque fichier.";
@@ -120,8 +100,6 @@ $l['properties'] = "Propriétés";
 $l['edit_style'] = "Modifier le style";
 $l['stylesheets_in'] = "Feuilles de style dans";
 $l['stylesheet_properties'] = "Propriétés de la feuille de style";
-$l['stylesheet_inherited_default'] = "Cette feuille de style est actuellement héritée de {1}. Toute modification rompra l’héritage, et la feuille sera copiée dans ce thème.";
-$l['stylesheet_inherited'] = "Cette feuille de style est actuellement héritée de {1}. Toute modification rompra l’héritage, et la feuille sera copiée dans ce thème. Modifiez cette feuille dans {1} pour conserver l’héritage.";
 $l['globally'] = "Globalement";
 $l['specific_files'] = "Fichiers spécifiques";
 $l['specific_actions'] = "Actions spécifiques";
@@ -159,6 +137,7 @@ $l['error_invalid_theme'] = "Le thème spécifié est invalide ou n’existe pas
 $l['error_missing_name'] = "Veuillez saisir un nom pour ce thème.";
 $l['error_missing_url'] = "Veuillez saisir une adresse valide pour importer un thème.";
 $l['error_theme_already_exists'] = "Un thème portant ce nom existe déjà. Veuillez en choisir un autre.";
+$l['error_invalid_theme_package'] = "Veuillez séléctionner un package de thème valide.";
 $l['error_theme_security_problem'] = "Un problème de sécurité potentiel a été détecté dans le thème et il n’a pas été importé. Contactez l’auteur ou MyBB.";
 
 $l['error_local_file'] = "Impossible d’ouvrir le fichier local. Existe-t-il ? Vérifiez et réessayez.";
@@ -176,14 +155,10 @@ $l['error_uploadfailed_nocontents'] = "Aucun thème n’a été trouvé dans ce 
 $l['error_invalid_version'] = "Ce thème a été créé pour une autre version de MyBB. Cochez « Ignorer la compatibilité de version » pour ignorer cette erreur.";
 $l['error_missing_stylesheet_name'] = "Veuillez saisir un nom pour cette feuille de style.";
 $l['error_missing_stylesheet_extension'] = "L’extension de cette feuille de style est incorrecte (elle devrait par exemple être {1}<em>.css</em>).";
-$l['error_invalid_parent_theme'] = "Le thème parent sélectionné n’existe pas. Veuillez choisir un thème parent valide.";
 $l['error_invalid_templateset'] = "L’ensemble de templates sélectionné n’existe pas. Veuillez choisir un ensemble de templates valide.";
-$l['error_invalid_color'] = "Le jeu de couleurs « {1} » est invalide : seuls les chiffres, caractères Unicode et tirets de soulignement sont autorisés dans le nom et la valeur (séparés par « = »).";
 $l['error_invalid_editortheme'] = "Le thème sélectionné pour l’éditeur n’existe pas. Veuillez choisir un thème valide.";
-$l['error_inheriting_stylesheets'] = "Vous ne pouvez pas supprimer ce thème car d’autres thèmes dépendent encore de ses feuilles de style.";
 $l['error_communication_problem'] = "Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer dans quelques minutes.";
 $l['error_no_results_found'] = "Aucun résultat trouvé pour les mots-clés saisis.";
-$l['error_no_color_picked'] = "Vous n’avez pas spécifié les couleurs auxquelles cette feuille doit être attachée.";
 $l['error_no_display_order'] = "Erreur lors de la récupération de l’ordre d’affichage des feuilles de style. Veuillez rafraîchir la page et réessayer.";
 
 $l['success_duplicated_theme'] = "Le thème sélectionné a bien été dupliqué.";
