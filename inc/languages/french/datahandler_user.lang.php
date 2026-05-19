@@ -36,6 +36,7 @@ $l['userdata_invalid_language'] = "Veuillez choisir une langue valide.";
 $l['userdata_invalid_style'] = "Veuillez choisir un thème valide.";
 $l['userdata_away_too_long'] = "Le motif d'absence est trop long. Ce champ ne peut pas dépasser 200 caractères. Veuillez supprimer {1} caractère(s).";
 $l['userdata_missing_returndate'] = "Veuillez sélectionner le jour, le mois et l’année pour la date de retour.";
+$l['userdata_return_date_past'] = "Vous ne pouvez pas définir une date de retour dans le passé !";
 $l['userdata_missing_required_profile_field'] = "Vous n’avez pas renseigné le champ « {1} ». Veuillez le remplir ou sélectionner une valeur.";
 $l['userdata_bad_profile_field_value'] = "La valeur saisie pour le champ « {1} » n’est pas valide. Veuillez saisir une valeur correcte.";
 $l['userdata_bad_profile_field_values'] = "Veuillez sélectionner une option valide pour le champ « {1} ».";
