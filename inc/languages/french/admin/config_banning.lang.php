@@ -48,3 +48,10 @@ $l['success_email_disallowed'] = "L’adresse électronique a bien été interdi
 $l['success_ban_deleted'] = "Le bannissement ou l’interdiction spécifié a bien été supprimé.";
 
 $l['confirm_ban_deletion'] = "Êtes-vous sûr de vouloir supprimer ce bannissement ou cette interdiction ?";
+
+$l['filter_results'] = "Filtrer les résultats";
+$l['sort_by'] = "Trier par :";
+$l['asc'] = "Croissant";
+$l['desc'] = "Décroissant";
+$l['in'] = "dans l’ordre";
+$l['order'] = " ";
