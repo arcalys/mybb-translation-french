@@ -735,6 +735,9 @@ $l['setting_wolusersperpage'] = "Nombre d’utilisateurs par page";
 $l['setting_wolusersperpage_desc'] = "Le nombre d’utilisateurs affichés par page. Saisissez « 0 » pour utiliser la valeur par défaut.";
 $l['setting_woldisplayspiders'] = "Affichage des robots";
 $l['setting_woldisplayspiders_desc'] = "Afficher les robots dans la liste des utilisateurs en ligne ?<br />Remarque : ce paramètre n’a d’effet que sur les pages du portail et de l’index.";
+$l['setting_woldisplayspiders_0'] = "Ne pas afficher les robots";
+$l['setting_woldisplayspiders_1'] = "Afficher les robots avant les utilisateurs";
+$l['setting_woldisplayspiders_2'] = "Afficher les robots après les utilisateurs";
 
 // Settings: User Pruning
 $l['setting_enablepruning'] = "Purge des utilisateurs";
