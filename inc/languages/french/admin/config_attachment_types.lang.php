@@ -23,7 +23,7 @@ $l['name_desc'] = "Saisissez le nom du type de pièce jointe.";
 $l['file_extension'] = "Extension de fichier";
 $l['file_extension_desc'] = "Saisissez l’extension de fichier que vous souhaitez autoriser (sans le point). Par exemple : txt";
 $l['mime_type'] = "Type MIME";
-$l['mime_type_desc'] = "Saisissez le type MIME renvoyé par le serveur lors du téléchargement de fichiers de ce type (<a href=\"http://www.freeformatter.com/mime-types-list.html\">voir la liste ici</a>).";
+$l['mime_type_desc'] = "Saisissez le type MIME renvoyé par le serveur lors du téléchargement de fichiers de ce type (<a href=\"https://www.freeformatter.com/mime-types-list.html\">voir la liste ici</a>).";
 $l['maximum_file_size'] = "Taille maximale du fichier (en kibioctets)";
 $l['maximum_file_size_desc'] = "Taille maximale autorisée pour les fichiers de ce type en KiB (1 MiB = 1024 KiB).";
 $l['limit_intro'] = "Assurez-vous que la taille maximale du fichier est inférieure au plus petit des paramètres PHP suivants :";
