@@ -206,6 +206,7 @@ $l['error_already_leader'] = "Cet utilisateur est déjà responsable de ce group
 $l['error_invalid_group_leader'] = "Le responsable de groupe spécifié est invalide ou n’existe pas.";
 $l['error_missing_namestyle_username'] = "Veuillez utiliser {username} dans le style d’affichage.";
 $l['error_disallowed_namestyle_username'] = "Vous ne pouvez pas utiliser les balises script, meta ou base dans le style d’affichage.";
+$l['error_disallowed_starimage_path'] = "Vous ne pouvez pas utiliser les balises script, meta ou base dans le chemin de l’image des étoiles.";
 $l['error_default_group_delete'] = "Les groupes par défaut ne peuvent pas être supprimés.";
 $l['error_cannot_have_both_types'] = "Un groupe librement accessible ne peut pas être à la fois soumis à approbation et sur invitation. Veuillez choisir l’une des deux options.";
 

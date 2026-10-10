@@ -216,6 +216,8 @@ $l['error_activated_by_admin'] = "Vous ne pouvez pas renvoyer le courriel d’ac
 $l['error_alreadyregistered'] = "Notre système indique que vous êtes déjà inscrit et l’inscription de comptes multiples a été désactivée.";
 $l['error_alreadyregisteredtime'] = "Nous ne pouvons pas traiter votre inscription car {1} inscription(s) ont déjà été effectuées depuis votre adresse IP au cours des {2} dernières heures. Veuillez réessayer plus tard.";
 $l['error_badlostpwcode'] = "Vous avez saisi un code de réinitialisation de mot de passe invalide. Veuillez relire le courriel que vous avez reçu ou contacter les administrateurs du forum pour obtenir de l’aide.";
+$l['error_resetpwcodeexpired'] = "Ce code de réinitialisation du mot de passe a expiré. Veuillez demander une nouvelle réinitialisation et utiliser le lien dans les 24 heures.";
+$l['error_activationexpired'] = "Ce lien de confirmation du changement d’adresse électronique a expiré. Veuillez recommencer le changement d’adresse et le confirmer dans les 24 heures.";
 $l['error_badactivationcode'] = "Vous avez saisi un code d’activation de compte invalide. Pour renvoyer tous les courriels d’activation à l’adresse enregistrée, cliquez <a href=\"member.php?action=resendactivation\">ici</a>.";
 $l['error_alreadyactivated'] = "Votre compte a déjà été activé ou ne nécessite pas de validation par courriel.";
 $l['error_alreadyvalidated'] = "Votre adresse électronique a déjà été validée.";

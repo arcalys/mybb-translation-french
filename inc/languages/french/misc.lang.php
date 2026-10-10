@@ -78,5 +78,6 @@ $l['error_invalidsearch'] = "Une recherche invalide a été spécifiée. Veuille
 $l['error_no_search_support'] = "Ce moteur de base de données ne supporte pas la recherche.";
 $l['error_searchflooding'] = "Vous ne pouvez effectuer qu’une recherche toutes les {1} secondes. Veuillez attendre encore {2} secondes avant de recommencer.";
 $l['error_searchflooding_1'] = "Vous ne pouvez effectuer qu’une recherche toutes les {1} secondes. Veuillez attendre encore 1 seconde avant de recommencer.";
+$l['error_minsearchlength'] = "Un ou plusieurs de vos termes de recherche sont plus courts que la longueur minimale requise. La longueur minimale est de {1} caractères.<br />Si vous essayez de rechercher une phrase entière, mettez-la entre guillemets. Par exemple \"Le vif corgi bondit par-dessus le chat somnolent\".";
 
 $l['dst_settings_updated'] = "Vos paramètres pour l’heure d’été ont été ajustés automatiquement.<br />Vous allez maintenant être redirigé vers l’index du forum.";

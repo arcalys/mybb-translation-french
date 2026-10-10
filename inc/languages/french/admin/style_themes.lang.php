@@ -10,27 +10,27 @@ $l['themes'] = "Thèmes";
 $l['themes_desc'] = "Cette page vous permet de gérer les thèmes disponibles sur votre forum. Ces différents thèmes permettent de personnaliser l'apparence de votre forum.";
 
 $l['add_theme'] = "Ajouter un thème";
-$l['add_theme_desc'] = "Cette page vous permet de créer un nouveau thème basé sur un thème existant. <strong>Les ensembles de templates, les feuilles de style et les autres paramètres sont hérités du thème parent.</strong>";
+$l['add_theme_desc'] = "Cette page vous permet de créer un nouveau thème à partir du package sélectionné, afin de pouvoir le choisir et le personnaliser.";
 
 $l['import_a_theme'] = "Importer un thème (ancien système)";
-$l['import_a_theme_desc'] = "Cette page vous permet d’importer un thème.";
+$l['import_a_theme_desc'] = "Cette page vous permet d’importer un thème utilisant des ressources de l’ancien système, depuis votre ordinateur ou une adresse distante.";
 
 $l['edit_theme'] = "Modifier le thème";
 $l['edit_theme_desc'] = "Cette page vous permet de modifier les propriétés de ce thème.";
 
 $l['edit_stylesheets'] = "Modifier les feuilles de style (ancien système)";
-$l['edit_stylesheets_desc'] = "Cette page vous permet de gérer les feuilles de style utilisées par ce thème. Les feuilles de style sont basées sur le CSS et définissent les polices, couleurs et autres aspects visuels du thème. La liste des feuilles de style attachées à ce thème est visible ci-dessous.";
+$l['edit_stylesheets_desc'] = "Cette page vous permet de gérer les feuilles de style utilisées par les plugins de l’ancien système dans ce thème. Les feuilles de style sont basées sur le CSS et définissent les polices, couleurs et autres aspects visuels. La liste des feuilles de style attachées à ce thème est visible ci-dessous.";
 
 $l['add_stylesheet'] = "Ajouter une feuille de style";
-$l['add_stylesheet_desc'] = "Cette page vous permet d’ajouter une nouvelle feuille de style à ce thème. Une feuille de style contient du CSS permettant de personnaliser l'apparence du thème. Vous serez redirigé vers la page d'édition de la feuille de style après sa création.";
+$l['add_stylesheet_desc'] = "Cette page vous permet d’ajouter une feuille de style de l’ancien système à ce thème. Une feuille de style contient du CSS permettant de personnaliser l’apparence du thème. Vous serez redirigé vers la page d’édition de la feuille de style après sa création.";
 
-$l['browse_themes'] = "Parcourir les thèmes";
+$l['browse_themes'] = "Parcourir les packages";
 $l['browse_themes_desc'] = "Cette page vous permet de parcourir la liste des thèmes disponibles sur le site officiel de MyBB et compatibles avec votre version de MyBB.";
 
 $l['browse_all_themes'] = "Parcourir tous les thèmes";
 
-$l['export_theme'] = "Exporter un thème";
-$l['export_theme_desc'] = "Cette page vous permet d’exporter vos thèmes et templates personnalisés. L'export de thèmes est utile si vous souhaitez les partager ou les importer sur un autre forum.";
+$l['export_theme'] = "Exporter un thème (ancien système)";
+$l['export_theme_desc'] = "Cette page vous permet d’exporter vos thèmes avec leurs feuilles de style et templates de l’ancien système. Les thèmes exportés peuvent être importés <a href=\"{1}\"><strong>ici</strong></a>.";
 
 $l['duplicate_theme'] = "Dupliquer un thème";
 $l['duplicate_theme_desc'] = "Cette page vous permet de dupliquer vos thèmes et d’en créer des versions alternatives.";
@@ -83,7 +83,7 @@ $l['allowed_user_groups'] = "Groupes d’utilisateurs autorisés";
 $l['allowed_user_groups_desc'] = "Spécifiez quels groupes d’utilisateurs peuvent utiliser ce thème. Sélectionner « Tous les groupes » remplace toute autre sélection. Maintenez la touche CTRL pour sélectionner plusieurs groupes.";
 $l['all_user_groups'] = "Tous les groupes";
 $l['template_set'] = "Ensemble de templates";
-$l['template_set_desc'] = "Spécifiez l’ensemble de templates à utiliser pour ce thème. L’ensemble de templates sélectionné définit le balisage HTML utilisé.";
+$l['template_set_desc'] = "Spécifiez l’ensemble de templates que ce thème doit utiliser pour les plugins de l’ancien système.";
 $l['editor_theme'] = "Style de l’éditeur";
 $l['editor_theme_desc'] = "Spécifiez le style à utiliser pour l’éditeur MyCode de ce thème. Les styles d’éditeur se trouvent dans le dossier <strong>jscripts/sceditor/themes</strong>.";
 $l['save_theme_properties'] = "Enregistrer les propriétés du thème";

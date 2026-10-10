@@ -66,6 +66,7 @@ $l['error_invalid_warning_level'] = "Le niveau d’avertissement spécifié est 
 $l['error_invalid_warning_percentage'] = "Veuillez saisir une valeur de pourcentage valide pour ce niveau d’avertissement. La valeur doit être comprise entre 1 et 100.";
 $l['error_invalid_warning_type'] = "Le type d’avertissement spécifié est invalide ou n’existe pas.";
 $l['error_missing_action_type'] = "Veuillez sélectionner une action à appliquer pour ce nouveau niveau d’avertissement.";
+$l['error_invalid_ban_group'] = "Vous n’avez pas sélectionné un groupe de bannissement valide.";
 $l['error_missing_type_title'] = "Veuillez saisir un titre ce type d’avertissement.";
 $l['error_missing_type_points'] = "Veuillez saisir un nombre valide de points à ajouter lors de l’attribution de ce type d’avertissement. Vous devez entrer un nombre entre 1 et {1}.";
 

@@ -11,9 +11,9 @@ $l['template_set'] = "Ensemble de templates";
 $l['templates'] = "Templates {1}";
 
 $l['manage_template_sets'] = "Gestion des ensembles de templates";
-$l['manage_template_sets_desc'] = "Cette page vous permet de gérer les ensembles de templates de votre forum et d’en personnaliser l’apparence.";
+$l['manage_template_sets_desc'] = "Cette page vous permet de gérer les ensembles de templates des plugins de l’ancien système, de consulter leurs templates et de les personnaliser.";
 $l['add_set'] = "Créer un ensemble de templates";
-$l['add_set_desc'] = "Cette page vous permet de créer un nouvel ensemble de templates. Cette action crée une copie des templates par défaut de MyBB qui vous permet de modifier les templates sans affecter les autres thèmes du forum.";
+$l['add_set_desc'] = "Cette page vous permet de créer un nouvel ensemble de templates.";
 $l['add_template'] = "Créer un template";
 $l['add_template_desc'] = "Cette page vous permet de créer un nouveau template.";
 $l['add_template_group'] = "Créer un groupe de templates";

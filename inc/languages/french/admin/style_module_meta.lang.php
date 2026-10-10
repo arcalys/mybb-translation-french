@@ -9,7 +9,7 @@
 $l['templates_and_style'] = "Thèmes et templates";
 
 $l['themes'] = "Thèmes";
-$l['templates'] = "Templates";
+$l['templates'] = "Templates (ancien système)";
 
 $l['can_manage_themes'] = "Peut gérer les thèmes ?";
 $l['can_manage_templates'] = "Peut gérer les templates ?";
