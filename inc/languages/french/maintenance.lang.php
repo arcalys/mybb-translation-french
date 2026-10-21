@@ -239,6 +239,8 @@ $l['php_version_incompatible'] = "PHP {1} ou une version plus récente est requi
 $l['no_multi_byte_extensions'] = "Aucune extension PHP pour la gestion des caractères multi-octets n’est disponible (<code>mbstring</code>, <code>iconv</code>)";
 $l['no_database_drivers'] = "Aucun pilote de moteur de base de données n’est disponible (MySQL, PostgreSQL, SQLite)";
 $l['no_xml_support'] = "Aucune extension PHP pour le support XML n’est disponible (<code>xml</code>)";
+$l['no_gd_support'] = "Aucune extension PHP pour la gestion des images n’est disponible (<code>gd</code> avec prise en charge de PNG et de FreeType)";
+$l['no_fileinfo_support'] = "Aucune extension PHP pour la gestion des informations sur les fichiers n’est disponible (<code>fileinfo</code>)";
 $l['directory_not_writable'] = "Le répertoire <code>{1}</code> n’est pas accessible en écriture. Veuillez <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noreferrer\">ajuster les permissions</a> pour permettre l’écriture.";
 $l['file_not_writable'] = "Le fichier <code>{1}</code> n’est pas accessible en écriture. Veuillez <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noreferrer\">ajuster les permissions</a> pour permettre l’écriture.";
 $l['lock_file_not_writable'] = "Impossible de créer le fichier de verrouillage <code>{1}</code>. Veuillez supprimer le répertoire d’installation avant de continuer sur votre forum.";
