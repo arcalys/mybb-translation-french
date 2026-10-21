@@ -55,3 +55,4 @@ $l['asc'] = "Croissant";
 $l['desc'] = "Décroissant";
 $l['in'] = "dans l’ordre";
 $l['order'] = " ";
+$l['search_ip_desc'] = "Saisissez une adresse IP, ou une partie de celle-ci, pour filtrer les résultats.";
